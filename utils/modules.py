@@ -1,5 +1,7 @@
 import feedparser
-import json
+
+from .json_utils import write_json_file
+
 
 def get_news(source="https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml", destination="./data/news.json"):
     """
@@ -11,8 +13,6 @@ def get_news(source="https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml", destination=".
     feed = feedparser.parse(source)
 
     if feed.status == 200:
-        with open(destination, 'w') as f:
-            json.dump(feed.entries, f)
-
+        write_json_file(destination, feed.entries)
     else:
-        print("Failed to get RSS feed. Status code:", feed.status)
+        print("Failed to get RSS feed. Status code: ", feed.status)
