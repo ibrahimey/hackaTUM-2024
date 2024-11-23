@@ -1,7 +1,7 @@
 import streamlit as st
 
+from modules.rss_feed_parser import get_news
 from utils.json_utils import read_json_file
-from utils.modules import get_news
 
 
 def main():

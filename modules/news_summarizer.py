@@ -1,30 +1,11 @@
-import feedparser
 import requests
 
 from bs4 import BeautifulSoup
-from dotenv import load_dotenv
-from pathlib import Path
-from typing import Union
 
-from .azure_client import AzureOpenAIClient
-from .json_utils import write_json_file
-from .prompts import NEWS_SUMMARY_PROMPT, NEW_ARTICLE_PROMPT
+from prompts import NEWS_SUMMARY_PROMPT
 
-load_dotenv()
-
-
-def get_news(source_url: str, output_file_path: Union[str, Path]):
-    """
-    Fetches news from a specified RSS feed URL and saves the entries to a destination file.
-
-    :param source_url: RSS feed URL to get the news
-    :param output_file_path: Path to save the retrieved feed entries
-    """
-    feed = feedparser.parse(source_url)
-    if feed.status == 200:
-        write_json_file(output_file_path, feed.entries)
-    else:
-        print("Failed to get RSS feed. Status code: ", feed.status)  # TODO: return an error
+from utils.azure_client import AzureOpenAIClient
+from utils.json_utils import write_json_file
 
 
 def fetch_webpage_content(url: str):
@@ -60,16 +41,3 @@ def summarize_news(news_list: list, llm: AzureOpenAIClient):
             print(f"Error summarizing news item {i + 1}: {e}")  # TODO: return an error
     write_json_file("./data/news.json", news_list)
     return summarized_news
-
-
-def write_article(summarized_news: list, llm: AzureOpenAIClient):
-    """
-    Given the summaries of various news items about a topic, generates a new article about that topic
-    :param summarized_news: list of strings
-    :param llm: LLM to use to generate the article
-    :return: string containing the article text
-    """
-    combined_news = "\n\n".join(summarized_news)
-    article = llm(NEW_ARTICLE_PROMPT + combined_news)
-
-    return article
