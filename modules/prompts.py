@@ -20,3 +20,8 @@ Input information:
 
 Please ensure the article is clear, cohesive, and professional. Avoid copying the summaries verbatim; instead, synthesize the information into a unique and unified narrative.
 """
+
+CREATE_SCRIPT_PROMPT="""Given the article below create a summary in 10 sentences focusing on the key points. Only return the summary with one sentence at each line.
+Article:
+{content}
+"""

@@ -4,3 +4,5 @@ feedparser
 python-dotenv
 beautifulsoup4
 langchain_openai
+moviepy==1.0.3
+gtts

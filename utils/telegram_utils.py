@@ -1,5 +1,8 @@
 import os
 import requests
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 def api_url(token, method):
@@ -18,7 +21,7 @@ def telegram_command(name, data=None, files=None):
     Returns:
         Response object from the requests.post call.
     """
-    TELEGRAM_ACCESS_TOKEN = os.environ['TELEGRAM_ACCESS_TOKEN']
+    TELEGRAM_ACCESS_TOKEN = os.getenv('TELEGRAM_ACCESS_TOKEN')
     url = api_url(token=TELEGRAM_ACCESS_TOKEN, method=name)
 
     if files:

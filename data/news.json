@@ -1,5 +1,869 @@
 [
     {
+        "title": "MATCHDAY LIVE: West Brom v Norwich City",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "MATCHDAY LIVE: West Brom v Norwich City"
+        },
+        "summary": "<div><img src=\"https://www.edp24.co.uk/resources/images/18800947/\" style=\"width: 100%;\" /><div>Follow live action and join the debate as Norwich City face West Brom at The Hawthorns.</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.edp24.co.uk/resources/images/18800947/\" style=\"width: 100%;\" /><div>Follow live action and join the debate as Norwich City face West Brom at The Hawthorns.</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.edp24.co.uk/sport/24745762.west-brom-v-norwich-city-follow-live-championship-updates/"
+            }
+        ],
+        "link": "https://www.edp24.co.uk/sport/24745762.west-brom-v-norwich-city-follow-live-championship-updates/",
+        "id": "ecfd70b98dfd1a338fe9b151f7e8e0ec",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Samuel Seaman"
+            }
+        ],
+        "author": "Samuel Seaman",
+        "author_detail": {
+            "name": "Samuel Seaman"
+        },
+        "published": "Sat, 23 Nov 2024 13:15:00 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            13,
+            15,
+            0,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.edp24.co.uk/resources/images/18800947/"
+            }
+        ],
+        "generated_summary": "Norwich City is set to face West Brom at the Hawthorns, seeking their first win in seven matches. The team is optimistic following the return of several players from injury and a recent international break, despite their recent poor form. Fans can follow live updates and participate in discussions via a matchday blog hosted by Norwich City reporter Samuel Seaman. The coverage is accessible through various platforms, including the Pink Un app for Android users. The publication encourages community engagement through comments, with guidelines in place to maintain respectful discourse."
+    },
+    {
+        "title": "Matchday live: Coker levels for Blues against Forest Green",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Matchday live: Coker levels for Blues against Forest Green"
+        },
+        "summary": "<div><img src=\"https://www.echo-news.co.uk/resources/images/18801380/\" style=\"width: 100%;\" /><div>SOUTHEND United host table-topping Forest Green at Roots Hall this afternoon. Follow all the updates live here.</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.echo-news.co.uk/resources/images/18801380/\" style=\"width: 100%;\" /><div>SOUTHEND United host table-topping Forest Green at Roots Hall this afternoon. Follow all the updates live here.</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.echo-news.co.uk/sport/24745915.southend-united-drawing-2-2-forest-green-rovers/"
+            }
+        ],
+        "link": "https://www.echo-news.co.uk/sport/24745915.southend-united-drawing-2-2-forest-green-rovers/",
+        "id": "c2868d60cf41a905e415b057d4394ffd",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Chris Phillips"
+            }
+        ],
+        "author": "Chris Phillips",
+        "author_detail": {
+            "name": "Chris Phillips"
+        },
+        "published": "Sat, 23 Nov 2024 13:07:50 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            13,
+            7,
+            50,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.echo-news.co.uk/resources/images/18801380/"
+            }
+        ],
+        "generated_summary": "Southend United drew 2-2 with Forest Green Rovers in a recent football match, with Coker scoring to level the game for Southend. The match was covered by Chris Phillips and was part of local sports reporting. Readers are encouraged to engage with the content through comments, although they must adhere to community guidelines to maintain a respectful environment. The Echo provides various local services, including newsletters, job listings, and advertising opportunities to support local businesses. The publication adheres to the Independent Press Standards Organisation's Editors' Code of Practice."
+    },
+    {
+        "title": "Oxford Bus Company staff raise funds for special school",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Oxford Bus Company staff raise funds for special school"
+        },
+        "summary": "<div><img src=\"https://www.oxfordmail.co.uk/resources/images/18797906/\" style=\"width: 100%;\" /><div>IT WAS their job to keep Oxford buses running on the roads, but they still made time to support worthy causes</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.oxfordmail.co.uk/resources/images/18797906/\" style=\"width: 100%;\" /><div>IT WAS their job to keep Oxford buses running on the roads, but they still made time to support worthy causes</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.oxfordmail.co.uk/news/24743954.oxford-bus-company-staff-raise-cash-special-school/"
+            }
+        ],
+        "link": "https://www.oxfordmail.co.uk/news/24743954.oxford-bus-company-staff-raise-cash-special-school/",
+        "id": "ebb0f552de051ad842032fefdd978510",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Andrew Ffrench"
+            }
+        ],
+        "author": "Andrew Ffrench",
+        "author_detail": {
+            "name": "Andrew Ffrench"
+        },
+        "published": "Sat, 23 Nov 2024 12:30:00 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            12,
+            30,
+            0,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.oxfordmail.co.uk/resources/images/18797906/"
+            }
+        ],
+        "generated_summary": "In 1985, employees at the Oxford Bus Company raised over \u00a33,000 for charitable causes, including purchasing a computer for Mabel Prichard School for handicapped children and donating funds to the John Radcliffe Hospital\u2019s special care baby unit and Park Hospital for children's holidays. The funds were raised through raffles, charity auctions, and a London to Brighton cycle race. Their efforts earned them a fifth-place ranking in a national fundraising contest, securing an additional \u00a3250 for charity. The company, now located on Watlington Road, continues to play a vital role in Oxfordshire's public transport with a focus on electric vehicles."
+    },
+    {
+        "title": "Busy road closed after power cable topples",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Busy road closed after power cable topples"
+        },
+        "summary": "<div><img src=\"https://www.dailyecho.co.uk/resources/images/18801060/\" style=\"width: 100%;\" /><div>Portsmouth Road near Grange Road in Southampton is partially closed after a power cable fell</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.dailyecho.co.uk/resources/images/18801060/\" style=\"width: 100%;\" /><div>Portsmouth Road near Grange Road in Southampton is partially closed after a power cable fell</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.dailyecho.co.uk/news/24745854.storm-bert-portsmouth-road-closed-power-cable-falls/"
+            }
+        ],
+        "link": "https://www.dailyecho.co.uk/news/24745854.storm-bert-portsmouth-road-closed-power-cable-falls/",
+        "id": "090c6dceacc71746f24804302c2166a1",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Matt Davey"
+            }
+        ],
+        "author": "Matt Davey",
+        "author_detail": {
+            "name": "Matt Davey"
+        },
+        "published": "Sat, 23 Nov 2024 12:17:11 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            12,
+            17,
+            11,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.dailyecho.co.uk/resources/images/18801060/"
+            }
+        ],
+        "generated_summary": "A section of Portsmouth Road near the junction of Grange Road has reopened after being closed due to a fallen power cable. Police were present at the scene to manage the situation. The incident was part of the disruptions caused by Storm Bert. The road closure had affected traffic in the area, but has now been resolved."
+    },
+    {
+        "title": "Number of electric vehicle chargers in Dudley fell by a tenth last year",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Number of electric vehicle chargers in Dudley fell by a tenth last year"
+        },
+        "summary": "<div><img src=\"https://www.stourbridgenews.co.uk/resources/images/18770391/\" style=\"width: 100%;\" /><div>The number of public electric vehicle chargers drivers had access to in Dudley fell by a tenth last year, new figures show.</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.stourbridgenews.co.uk/resources/images/18770391/\" style=\"width: 100%;\" /><div>The number of public electric vehicle chargers drivers had access to in Dudley fell by a tenth last year, new figures show.</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.stourbridgenews.co.uk/news/24732615.number-ev-chargers-dudley-fell-tenth-last-year/"
+            }
+        ],
+        "link": "https://www.stourbridgenews.co.uk/news/24732615.number-ev-chargers-dudley-fell-tenth-last-year/",
+        "id": "f26bcb380fd403f6968462709196213f",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Stourbridge News Staff"
+            }
+        ],
+        "author": "Stourbridge News Staff",
+        "author_detail": {
+            "name": "Stourbridge News Staff"
+        },
+        "published": "Sat, 23 Nov 2024 12:00:00 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            12,
+            0,
+            0,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.stourbridgenews.co.uk/resources/images/18770391/"
+            }
+        ],
+        "generated_summary": "The number of public electric vehicle (EV) chargers in Dudley decreased by 10% over the past year, dropping from 198 to 179, according to Department for Transport figures. This decline raises concerns from the RAC about inconsistent charger availability across the UK, with some areas having significantly fewer chargers per capita. Nationally, the installation of EV chargers has increased by 47%, with 65,000 chargers in place by July, aligning with the government's target of 300,000 by 2030. Despite progress, disparities in charger distribution remain, particularly outside London, which holds nearly a third of the national total. The RAC emphasizes the need for prioritizing regions with poor charger access and highlights the importance of rapid chargers for EV users without home charging options. The Department for Transport is committed to accelerating the installation of charge-points nationwide to boost confidence in transitioning to zero-emission vehicles."
+    },
+    {
+        "title": "Traffic incident 'involving prison van' causing major delays",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Traffic incident 'involving prison van' causing major delays"
+        },
+        "summary": "<div><img src=\"https://www.oxfordmail.co.uk/resources/images/18786926/\" style=\"width: 100%;\" /><div>Follow live updates on delays on the A34 in Oxford following reports of a broken down vehicle.</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.oxfordmail.co.uk/resources/images/18786926/\" style=\"width: 100%;\" /><div>Follow live updates on delays on the A34 in Oxford following reports of a broken down vehicle.</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.oxfordmail.co.uk/news/24745831.a34-delays-near-oxford-due-incident-prison-van/"
+            }
+        ],
+        "link": "https://www.oxfordmail.co.uk/news/24745831.a34-delays-near-oxford-due-incident-prison-van/",
+        "id": "f250b18d2d6259ff416a031ec471bf57",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Madeleine Evans"
+            }
+        ],
+        "author": "Madeleine Evans",
+        "author_detail": {
+            "name": "Madeleine Evans"
+        },
+        "published": "Sat, 23 Nov 2024 11:53:18 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            11,
+            53,
+            18,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.oxfordmail.co.uk/resources/images/18786926/"
+            }
+        ],
+        "generated_summary": "Traffic on the A34 near Oxford is experiencing major delays due to an incident involving a \"prison van.\" The disruption is caused by a broken-down vehicle, leading to lane closures and increasing congestion. Readers are encouraged to engage with the news and report any inappropriate comments. The Oxford Mail adheres to the Independent Press Standards Organisation's Editors' Code of Practice for any editorial complaints."
+    },
+    {
+        "title": "The next 12 Norwich streets to get electric car chargers",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "The next 12 Norwich streets to get electric car chargers"
+        },
+        "summary": "<div><img src=\"https://www.edp24.co.uk/resources/images/18726243/\" style=\"width: 100%;\" /><div>Work to install electric vehicle charging points on another dozen Norwich streets will begin next week.</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.edp24.co.uk/resources/images/18726243/\" style=\"width: 100%;\" /><div>Work to install electric vehicle charging points on another dozen Norwich streets will begin next week.</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.edp24.co.uk/news/24730536.electric-car-chargers-installed-12-norwich-streets/"
+            }
+        ],
+        "link": "https://www.edp24.co.uk/news/24730536.electric-car-chargers-installed-12-norwich-streets/",
+        "id": "d4225f9e70bf9a3515f6f0d04e539e76",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Dan Grimmer"
+            }
+        ],
+        "author": "Dan Grimmer",
+        "author_detail": {
+            "name": "Dan Grimmer"
+        },
+        "published": "Sat, 23 Nov 2024 11:00:00 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            11,
+            0,
+            0,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.edp24.co.uk/resources/images/18726243/"
+            }
+        ],
+        "generated_summary": "Norfolk County Council is set to install electric vehicle chargers on 12 additional streets in Norwich as part of its 2021 strategy to promote electric vehicle use. Starting November 25, 22 new charging points will be installed by Blink Charging UK, continuing until February next year. This expansion follows the installation of 24 chargers across the city, with almost 200 vehicles charged since the first ones went live. The initiative aims to support a greener future by providing accessible public charging infrastructure, particularly for residents without private driveways. Streets slated for new chargers include Fishergate, St Mary's Plain, and Dolphin Grove. The council reports that 3,086 kWh of power has been used, saving over 2.6 million kg of CO2."
+    },
+    {
+        "title": "Norfolk firm launches new department to fulfil international orders",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Norfolk firm launches new department to fulfil international orders"
+        },
+        "summary": "<div><img src=\"https://www.edp24.co.uk/resources/images/18780431/\" style=\"width: 100%;\" /><div>Prior Power Solutions, in Great Yarmouth, Norfolk, has launched a new\u00a0welding and fabrication department to fulfil\u00a0a growing number\u00a0of\u2026</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.edp24.co.uk/resources/images/18780431/\" style=\"width: 100%;\" /><div>Prior Power Solutions, in Great Yarmouth, Norfolk, has launched a new\u00a0welding and fabrication department to fulfil\u00a0a growing number\u00a0of\u2026</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.edp24.co.uk/news/24733682.prior-power-solutions-launches-welding-fabrication-department/"
+            }
+        ],
+        "link": "https://www.edp24.co.uk/news/24733682.prior-power-solutions-launches-welding-fabrication-department/",
+        "id": "310f90b92fbafd61b73f56fd41f6a26c",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Adam Barker"
+            }
+        ],
+        "author": "Adam Barker",
+        "author_detail": {
+            "name": "Adam Barker"
+        },
+        "published": "Sat, 23 Nov 2024 11:00:00 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            11,
+            0,
+            0,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.edp24.co.uk/resources/images/18780431/"
+            }
+        ],
+        "generated_summary": "Prior Power Solutions, a Great Yarmouth-based engine and equipment manufacturer, has launched a new welding and fabrication department to cater to a growing number of international orders. The department, located at Gapton Hall Industrial Estate, allows the company to offer in-house fabrication, ensuring quality control, reduced lead times, and cost-effectiveness for customers. Production Manager Chris Farman highlighted the completion of ten skid frames for the offshore industry, including two acoustic frames built to DNV 2.7-1 standards. The company, originally established as Prior Diesel Ltd in 1980 and part of the Suretank Group since 2015, has invested in staff training and infrastructure, resulting in fabrication work being secured from locations as far as Angola."
+    },
+    {
+        "title": "Changes driven by Musk biggest threat to China under Trump 2.0, adviser warns",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Changes driven by Musk biggest threat to China under Trump 2.0, adviser warns"
+        },
+        "summary": "<div><img src=\"https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/11/23/020be6d5-ba06-4ae6-bf5d-917a7c7cf17d_22108c25.jpg?itok=w652fmbb&amp;v=1732350443\" style=\"width: 100%;\" /><div>Greatest pressure to \u2018come from changes within the US\u2019, Zheng Yongnian says, urging China to expand opening up as a countermeasure.</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/11/23/020be6d5-ba06-4ae6-bf5d-917a7c7cf17d_22108c25.jpg?itok=w652fmbb&amp;v=1732350443\" style=\"width: 100%;\" /><div>Greatest pressure to \u2018come from changes within the US\u2019, Zheng Yongnian says, urging China to expand opening up as a countermeasure.</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.scmp.com/news/china/diplomacy/article/3287847/chinas-biggest-trump-20-threat-would-be-changes-led-elon-musk-adviser-warns"
+            }
+        ],
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3287847/chinas-biggest-trump-20-threat-would-be-changes-led-elon-musk-adviser-warns",
+        "id": "d63413a9b1e438f1857a27ce320480cd",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "South China Morning Post"
+            }
+        ],
+        "author": "South China Morning Post",
+        "author_detail": {
+            "name": "South China Morning Post"
+        },
+        "published": "Sat, 23 Nov 2024 10:26:56 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            10,
+            26,
+            56,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/11/23/020be6d5-ba06-4ae6-bf5d-917a7c7cf17d_22108c25.jpg?itok=w652fmbb&v=1732350443"
+            }
+        ],
+        "generated_summary": "A leading Chinese political scientist, Zheng Yongnian, has warned that China's biggest challenge during a potential second term for Donald Trump as U.S. president could stem from government changes influenced by tech billionaire Elon Musk. Zheng, who is a policy adviser to Beijing, suggests that China should counter this by expanding unilateral opening-up measures, particularly towards the U.S., to gain leverage in the ongoing US-China rivalry. He predicts that while Trump\u2019s return could cause significant short-term economic and trade disruptions through tariffs, it might not lead to increased geopolitical tensions. Zheng emphasizes the importance of being more open to maintain competitive advantage."
+    },
+    {
+        "title": "MATCHDAY LIVE: Bolton Wanderers 2-1 Blackpool",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "MATCHDAY LIVE: Bolton Wanderers 2-1 Blackpool"
+        },
+        "summary": "<div><img src=\"https://www.theboltonnews.co.uk/resources/images/18800703/\" style=\"width: 100%;\" /><div>Can Bolton Wanderers provide a response to the heavy defeat at Stockport, and topple local rivals Blackpool in the process? Marc Iles with all the\u2026</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.theboltonnews.co.uk/resources/images/18800703/\" style=\"width: 100%;\" /><div>Can Bolton Wanderers provide a response to the heavy defeat at Stockport, and topple local rivals Blackpool in the process? Marc Iles with all the\u2026</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.theboltonnews.co.uk/sport/wanderers/wanderersnews/24745651.bolton-wanderers-2-1-blackpool---matchday-live-blog/"
+            }
+        ],
+        "link": "https://www.theboltonnews.co.uk/sport/wanderers/wanderersnews/24745651.bolton-wanderers-2-1-blackpool---matchday-live-blog/",
+        "id": "77f5dfdddb00e8ccd901196a09ea87b6",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Marc Iles"
+            }
+        ],
+        "author": "Marc Iles",
+        "author_detail": {
+            "name": "Marc Iles"
+        },
+        "published": "Sat, 23 Nov 2024 09:29:52 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            9,
+            29,
+            52,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.theboltonnews.co.uk/resources/images/18800703/"
+            }
+        ],
+        "generated_summary": "Bolton Wanderers secured a 2-1 victory over Blackpool in their League One football match, as reported in a live blog by The Bolton News. This match updates fans on the latest performance of Bolton Wanderers FC against Blackpool FC. The blog encourages community engagement through comments, emphasizing respectful and constructive discussions. Additionally, the publication highlights its commitment to supporting local businesses through advertising, while adhering to the Independent Press Standards Organisation's editorial guidelines."
+    },
+    {
+        "title": "MATCHDAY LIVE: Bolton Wanderers v Blackpool",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "MATCHDAY LIVE: Bolton Wanderers v Blackpool"
+        },
+        "summary": "<div><img src=\"https://www.theboltonnews.co.uk/resources/images/18800703/\" style=\"width: 100%;\" /><div>Can Bolton Wanderers provide a response to the heavy defeat at Stockport, and topple local rivals Blackpool in the process? Marc Iles with all the\u2026</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.theboltonnews.co.uk/resources/images/18800703/\" style=\"width: 100%;\" /><div>Can Bolton Wanderers provide a response to the heavy defeat at Stockport, and topple local rivals Blackpool in the process? Marc Iles with all the\u2026</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.theboltonnews.co.uk/sport/wanderers/wanderersnews/24745651.bolton-wanderers-v-blackpool---matchday-live-blog/"
+            }
+        ],
+        "link": "https://www.theboltonnews.co.uk/sport/wanderers/wanderersnews/24745651.bolton-wanderers-v-blackpool---matchday-live-blog/",
+        "id": "3ee6db79dbc42bb22a10ffb2edd52e8b",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Marc Iles"
+            }
+        ],
+        "author": "Marc Iles",
+        "author_detail": {
+            "name": "Marc Iles"
+        },
+        "published": "Sat, 23 Nov 2024 09:29:52 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            9,
+            29,
+            52,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.theboltonnews.co.uk/resources/images/18800703/"
+            }
+        ],
+        "generated_summary": "Bolton Wanderers secured a 2-1 victory over Blackpool in their League One football match, as reported in a live blog by The Bolton News. The match was part of the ongoing coverage of Bolton Wanderers, providing fans with real-time updates and post-match analysis. Readers are encouraged to engage with the content through comments, although the privilege can be revoked if misused. The Bolton News, adhering to the Independent Press Standards Organisation's Editors' Code of Practice, supports local businesses by featuring their advertisements."
+    },
+    {
+        "title": "MATCHDAY LIVE: Bolton Wanderers 0-0 Blackpool",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "MATCHDAY LIVE: Bolton Wanderers 0-0 Blackpool"
+        },
+        "summary": "<div><img src=\"https://www.theboltonnews.co.uk/resources/images/18800703/\" style=\"width: 100%;\" /><div>Can Bolton Wanderers provide a response to the heavy defeat at Stockport, and topple local rivals Blackpool in the process? Marc Iles with all the\u2026</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.theboltonnews.co.uk/resources/images/18800703/\" style=\"width: 100%;\" /><div>Can Bolton Wanderers provide a response to the heavy defeat at Stockport, and topple local rivals Blackpool in the process? Marc Iles with all the\u2026</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.theboltonnews.co.uk/sport/wanderers/wanderersnews/24745651.bolton-wanderers-0-0-blackpool---matchday-live-blog/"
+            }
+        ],
+        "link": "https://www.theboltonnews.co.uk/sport/wanderers/wanderersnews/24745651.bolton-wanderers-0-0-blackpool---matchday-live-blog/",
+        "id": "337a8330afbc5a23f2996d92973cfa2f",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Marc Iles"
+            }
+        ],
+        "author": "Marc Iles",
+        "author_detail": {
+            "name": "Marc Iles"
+        },
+        "published": "Sat, 23 Nov 2024 09:29:52 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            9,
+            29,
+            52,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.theboltonnews.co.uk/resources/images/18800703/"
+            }
+        ],
+        "generated_summary": "Bolton Wanderers secured a 2-1 victory over Blackpool in a League One football match, as covered in a live blog by The Bolton News. The match concluded with Bolton Wanderers emerging victorious, and the live feed providing updates has now ended. The article encourages community engagement through comments, while reminding readers that commenting is a privilege that can be revoked if misused. The Bolton News is part of Newsquest Media Group and adheres to the Independent Press Standards Organisation's Editors' Code of Practice."
+    },
+    {
+        "title": "Treasure trove of vintage Mercedes cars found in rural barn in Essex",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Treasure trove of vintage Mercedes cars found in rural barn in Essex"
+        },
+        "summary": "<div><img src=\"https://i.dailymail.co.uk/1s/2024/11/21/19/92344813-0-image-a-12_1732216847433.jpg\" style=\"width: 100%;\" /><div>The 1921 Talbot Darracq and a 1952 Mercedes Benz 220 Type A convertible had been hidden away in Framlingham, Suffolk after the death of their owner.</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://i.dailymail.co.uk/1s/2024/11/21/19/92344813-0-image-a-12_1732216847433.jpg\" style=\"width: 100%;\" /><div>The 1921 Talbot Darracq and a 1952 Mercedes Benz 220 Type A convertible had been hidden away in Framlingham, Suffolk after the death of their owner.</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.dailymail.co.uk/news/article-14111367/treasure-trove-vintage-Mercedes-cars-barn-Essex-sold.html"
+            }
+        ],
+        "link": "https://www.dailymail.co.uk/news/article-14111367/treasure-trove-vintage-Mercedes-cars-barn-Essex-sold.html",
+        "id": "2fd0111a202195626500330c0152727c",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Robert Folker"
+            }
+        ],
+        "author": "Robert Folker",
+        "author_detail": {
+            "name": "Robert Folker"
+        },
+        "published": "Sat, 23 Nov 2024 08:27:56 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            8,
+            27,
+            56,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://i.dailymail.co.uk/1s/2024/11/21/19/92344813-0-image-a-12_1732216847433.jpg"
+            }
+        ],
+        "generated_summary": "A remarkable discovery of vintage cars occurred in Essex, where two classic vehicles, a 1921 Talbot Darracq and a 1952 Mercedes Benz 220 Type A convertible, were found in a barn after 40 years. These cars, preserved by their late owner, fetched higher-than-expected prices at auction, with the Mercedes selling for \u00a337,000 and the Talbot for \u00a310,500. The owner, a former British Army serviceman, had acquired these cars during his military service, and they had remained unused since the 1980s. The auction took place at Reeman Dansie Auctions in Colchester. This discovery follows a similar find in Wales, where a collection of iconic yet deteriorating cars, including Bentleys and Jaguars, was uncovered, estimated to be worth up to \u00a31 million. These hidden treasures highlight the enduring appeal and value of classic automobiles."
+    },
+    {
+        "title": "New speed camera praised for highlighting city suburb's 'racer' problem",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "New speed camera praised for highlighting city suburb's 'racer' problem"
+        },
+        "summary": "<div><img src=\"https://www.eveningnews24.co.uk/resources/images/18777922/\" style=\"width: 100%;\" /><div>The installation of a\u00a0new speed awareness camera in Costessey\u00a0is being hailed as a good way to crack down on speeders and \"racers\".</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.eveningnews24.co.uk/resources/images/18777922/\" style=\"width: 100%;\" /><div>The installation of a\u00a0new speed awareness camera in Costessey\u00a0is being hailed as a good way to crack down on speeders and \"racers\".</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.eveningnews24.co.uk/news/24732238.costesseys-sam2-camera-praised-highlighting-speeding/"
+            }
+        ],
+        "link": "https://www.eveningnews24.co.uk/news/24732238.costesseys-sam2-camera-praised-highlighting-speeding/",
+        "id": "15f61cb7d264a18806c70d54f493bf19",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Edward Dewulf-Peters"
+            }
+        ],
+        "author": "Edward Dewulf-Peters",
+        "author_detail": {
+            "name": "Edward Dewulf-Peters"
+        },
+        "published": "Sat, 23 Nov 2024 06:00:00 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            6,
+            0,
+            0,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.eveningnews24.co.uk/resources/images/18777922/"
+            }
+        ],
+        "generated_summary": "A new SAM2 speed awareness camera in Costessey is being praised for its effectiveness in addressing a speeding problem in the area. Residents on Townhouse Road have reported a decrease in speeding since the camera's installation, which displays vehicle speeds to warn drivers but does not issue fines. The camera, funded and installed with the help of Costessey councillors Jenny McCloskey and Ross Wheeldon, collects data that can be shared with police and local authorities to consider further measures, such as speed cameras or road humps. The camera will remain in its current location for four weeks before being moved to Norwich Road in December. This initiative is seen as a preliminary step in identifying and addressing dangerous speeding areas."
+    },
+    {
+        "title": "'Accident waiting to happen' on A46 as sudden speed limit change slammed",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "'Accident waiting to happen' on A46 as sudden speed limit change slammed"
+        },
+        "summary": "<div><img src=\"https://i2-prod.coventrytelegraph.net/incoming/article30365320.ece/ALTERNATES/s1200/0_A46-blanked-plates.jpg\" style=\"width: 100%;\" /><div>Coventry Live readers have been sharing their views on speed limits as the A46 from the M6, as after the Binley flyover, the speed limit suddenly drops from 70 to 50</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://i2-prod.coventrytelegraph.net/incoming/article30365320.ece/ALTERNATES/s1200/0_A46-blanked-plates.jpg\" style=\"width: 100%;\" /><div>Coventry Live readers have been sharing their views on speed limits as the A46 from the M6, as after the Binley flyover, the speed limit suddenly drops from 70 to 50</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.coventrytelegraph.net/news/news-opinion/accident-waiting-happen-major-coventry-30407900"
+            }
+        ],
+        "link": "https://www.coventrytelegraph.net/news/news-opinion/accident-waiting-happen-major-coventry-30407900",
+        "id": "36bafb25227b1a0bdfd8a4e15b291eb5",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Coventry Live readers"
+            }
+        ],
+        "author": "Coventry Live readers",
+        "author_detail": {
+            "name": "Coventry Live readers"
+        },
+        "published": "Sat, 23 Nov 2024 05:00:00 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            5,
+            0,
+            0,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://i2-prod.coventrytelegraph.net/incoming/article30365320.ece/ALTERNATES/s1200/0_A46-blanked-plates.jpg"
+            }
+        ],
+        "generated_summary": "Coventry residents are expressing concerns about a sudden speed limit drop on the A46 route from the M6, following the Binley flyover, where it changes from 70 mph to 50 mph. Local drivers claim this abrupt change is confusing and potentially dangerous, as newcomers often brake suddenly, fearing speed cameras, while regulars continue at higher speeds. Some residents suggest implementing average speed cameras to enforce the limit consistently. The speed reduction is attributed to a bend under the Toll Bar junction, which poses a risk of vehicle overturning, and the availability of parking spots for mobile speed cameras. Despite the concerns, many drivers acknowledge the importance of adhering to the speed limits for safety."
+    },
+    {
+        "title": "Missing man was found dead at Dorset beauty spot",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Missing man was found dead at Dorset beauty spot"
+        },
+        "summary": "<div><img src=\"https://www.bournemouthecho.co.uk/resources/images/18797703/\" style=\"width: 100%;\" /><div>A man\u00a0was found dead at a Dorset beauty spot after going missing, an inquest heard.</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.bournemouthecho.co.uk/resources/images/18797703/\" style=\"width: 100%;\" /><div>A man\u00a0was found dead at a Dorset beauty spot after going missing, an inquest heard.</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.bournemouthecho.co.uk/news/24743808.missing-man-found-near-old-harry-rocks-dorset/"
+            }
+        ],
+        "link": "https://www.bournemouthecho.co.uk/news/24743808.missing-man-found-near-old-harry-rocks-dorset/",
+        "id": "b3e94a9e6079ecc114985b9014ab392f",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Jess Skelton"
+            }
+        ],
+        "author": "Jess Skelton",
+        "author_detail": {
+            "name": "Jess Skelton"
+        },
+        "published": "Sat, 23 Nov 2024 00:00:00 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            0,
+            0,
+            0,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.bournemouthecho.co.uk/resources/images/18797703/"
+            }
+        ],
+        "generated_summary": "James Michael Whitney, a 48-year-old architect, was found dead near Old Harry Rocks in Dorset after going missing. He was last seen leaving work in Christchurch on September 12, and his car was later found in Swanage. Despite a search involving the HM Coastguard, a helicopter, and Dorset Search and Rescue, his body was discovered on September 13. A post-mortem revealed he died from multiple injuries due to a fall from a cliff, and the death was ruled a suicide by the Dorset Coroner\u2019s Court. Whitney's disappearance was described as out of character by his wife and business partner."
+    },
+    {
         "title": "2025 BMW F 900 R and F 900 XR Preview",
         "title_detail": {
             "type": "text/plain",
@@ -53,6 +917,60 @@
         ]
     },
     {
+        "title": "AS IT HAPPENED: Pride of St Helens Awards 2024",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "AS IT HAPPENED: Pride of St Helens Awards 2024"
+        },
+        "summary": "<div><img src=\"https://www.sthelensstar.co.uk/resources/images/18800418/\" style=\"width: 100%;\" /><div>Here is the live blog for the 12th annual Pride of St Helens Awards</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.sthelensstar.co.uk/resources/images/18800418/\" style=\"width: 100%;\" /><div>Here is the live blog for the 12th annual Pride of St Helens Awards</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.sthelensstar.co.uk/news/24745433.happened-pride-st-helens-awards-2024/"
+            }
+        ],
+        "link": "https://www.sthelensstar.co.uk/news/24745433.happened-pride-st-helens-awards-2024/",
+        "id": "9b8c927028bbc6a9555524814a4210f7",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Kelsey Maxwell"
+            }
+        ],
+        "author": "Kelsey Maxwell",
+        "author_detail": {
+            "name": "Kelsey Maxwell"
+        },
+        "published": "Fri, 22 Nov 2024 18:58:00 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            22,
+            18,
+            58,
+            0,
+            4,
+            327,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.sthelensstar.co.uk/resources/images/18800418/"
+            }
+        ],
+        "generated_summary": "The \"Pride of St Helens Awards 2024\" event was covered live by the St Helens Star, highlighting local achievements and community spirit. The publication encourages reader engagement through comments, emphasizing respectful discourse. The St Helens Star is part of the Newsquest Media Group and follows the Independent Press Standards Organisation's guidelines. Subscribers benefit from reduced advertising, primarily featuring local businesses to support the community."
+    },
+    {
         "title": "\u2018There was so much promise\u2019: How Northvolt tumbled into bankruptcy",
         "title_detail": {
             "type": "text/plain",
@@ -104,7 +1022,7 @@
                 "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F85873f9a-2c55-47c1-92c0-ffa406014a21.jpg?source=next-barrier-page"
             }
         ],
-        "generated_summary": "The Financial Times offers a broad range of news and analysis across various sectors, including global economy, US politics, companies, technology, markets, and more. Notable articles include discussions on Trump's selection of Scott Bessent as Treasury Secretary, challenges facing Cuba's tourism industry, and Amazon's investment in AI start-up Anthropic. The publication also explores issues like the impact of a strong dollar on emerging markets and the bankruptcy of Northvolt. The FT provides multiple subscription options, offering digital access to its journalism, expert opinions, newsletters, and more."
+        "generated_summary": "The provided content is a navigation and subscription guide for the Financial Times (FT) website, outlining various sections, subscription plans, and features available to readers. It mentions different news categories such as World, US, Companies, Tech, Markets, and Opinion, along with specific topics like the Middle East war, the US economy, and US politics. The content also highlights subscription options like Standard Digital and Premium Digital, detailing their costs and included features such as global news access, newsletters, and FT apps. Additionally, it references popular articles and sections such as Lex, Work & Careers, and Life & Arts. The document encourages readers to subscribe for full access to FT's journalism."
     },
     {
         "title": "Elon Musk Gets a Crash Course in How Trumpworld Works",
@@ -158,7 +1076,7 @@
                 "url": "https://static01.nyt.com/images/2024/11/22/multimedia/22pol-musk-memo-wcjz/22pol-musk-memo-wcjz-videoSixteenByNine3000.jpg"
             }
         ],
-        "generated_summary": "Elon Musk is navigating the intricate dynamics of Donald Trump's inner circle during the presidential transition. Despite not being a long-time ally or friend of Trump, Musk has gained influence through his significant social media following and financial support, including a $200 million contribution to Trump's campaign. Musk's recent activities include accompanying Trump to various events and a SpaceX launch, showcasing his efforts to align with Trump's team. Speculation surrounds how long Musk's relationship with Trump will last, as it requires balancing visibility and strategic maneuvering within the competitive environment of \"Trumpworld.\" Musk's role includes potential leadership in a new Department of Government Efficiency, reflecting Trump's admiration for Musk's business acumen."
+        "generated_summary": "Elon Musk, the world's richest person, is navigating the complex political landscape of Donald Trump's inner circle after aligning with the president-elect. Despite lacking the long-standing ties that many of Trump's aides have, Musk's immense wealth and influence, including his 200 million followers on X and the $200 million he spent to support Trump's election, have impressed Trump. Musk has been closely involved with Trump, attending meetings and events, such as a SpaceX launch in Texas. The tech billionaire's role in the administration is speculated to involve leading a Department of Government Efficiency alongside Vivek Ramaswamy. Observers in Washington and Silicon Valley are uncertain about how long the Musk-Trump relationship will last, noting it may depend on Musk's ability to navigate the cutthroat politics of Trumpworld."
     },
     {
         "title": "Electric shock: carmakers battle strict UK electric car rules as big fines loom",
@@ -212,7 +1130,7 @@
                 "url": "https://i.guim.co.uk/img/media/22cd517f82fa9735532b952332c10847e7e27a08/0_187_4421_2652/master/4421.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=add445af32a5aa7f953f0c6622906aff"
             }
         ],
-        "generated_summary": "UK carmakers, including Ford, are challenging the strict zero-emission vehicle (ZEV) mandate that requires a rising percentage of electric vehicle (EV) sales, due to a lack of expected demand for fully electric cars and increased sales of hybrids. Ford, which once supported the policy, now calls it \"unworkable\" and has announced 800 job cuts in the UK. The mandate targets 22% EV sales in 2024, rising to 28% by 2025, with fines for non-compliance. The industry faces challenges from the high upfront costs of EVs, insufficient public charging infrastructure, and opposition to net-zero policies. Despite the lobbying for more flexible rules, the UK government remains focused on climate goals, with some departments more open to adjustments than others. There is concern that strict mandates could threaten jobs and investments, while charger companies and environmental groups advocate for maintaining the targets."
+        "generated_summary": "Carmakers, including Ford, are challenging the UK's zero-emission vehicle (ZEV) mandate, which requires an increasing percentage of electric vehicle (EV) sales yearly, with substantial fines for non-compliance. Ford, having previously supported stricter EV sales targets, now criticizes the policy as \"unworkable\" amidst slowing demand for fully electric cars, which is partly due to concerns over charging infrastructure and the cost of EVs. The mandate aims for 22% of new vehicle sales to be electric in 2024, rising to 28% by 2025, with a goal of 80% by 2030. The automotive industry is lobbying for more flexibility, citing job and investment risks, while facing opposition from charger companies and environmental groups who argue that relaxing the mandate could jeopardize climate goals. Despite loopholes reducing the effective target, some carmakers may struggle to meet the requirements and face fines. The UK government remains divided on whether to ease these rules, with ongoing debates about balancing industry needs with environmental commitments."
     },
     {
         "title": "Jeff Bezos\u2019 $500 million superyacht spotted sailing for the first time in a spectacle everyone was waiting for",
@@ -266,7 +1184,61 @@
                 "url": "https://supercarblondie.com/wp-content/uploads/Jeff-Bezos-500M-superyacht-sets-sails-for-the-first-time-in-a-while.webp"
             }
         ],
-        "generated_summary": "Jeff Bezos' $500 million superyacht, Koru, has been spotted sailing in the Bay of Palma, Mallorca. This three-masted sailing yacht, built by Oceanco in the Netherlands, is one of the world's most prestigious and was the second-largest of its kind when commissioned. The yacht, accompanied by a $75 million support vessel named Abeona, costs approximately $35 million annually to maintain. While it's unclear if Bezos or his partner Lauren Sanchez are onboard during this voyage, the yacht's presence may be for routine equipment trials. Koru previously visited Palma two years ago during its maiden voyage, with Bezos and Sanchez arriving by private jet and helicopter."
+        "generated_summary": "Jeff Bezos' $500 million superyacht, Koru, was recently spotted sailing in the Bay of Palma, Mallorca. This three-masted vessel, built by Oceanco in the Netherlands, is one of the world's most prestigious superyachts and was the second-largest of its kind when commissioned. The yacht's recent sighting marks its return to Mallorca after its maiden voyage two years ago. It remains unclear if Bezos or his girlfriend, Lauren Sanchez, were onboard during this trip, as the yacht might be undergoing routine equipment trials. The annual maintenance cost for Koru and its support vessel, Abeona, is approximately $35 million."
+    },
+    {
+        "title": "What Elon Musk Needs From China",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "What Elon Musk Needs From China"
+        },
+        "summary": "<div><img src=\"https://static01.nyt.com/images/2024/11/22/multimedia/00china-musk-01-bhlt/00china-musk-01-bhlt-videoSixteenByNine3000.jpg\" style=\"width: 100%;\" /><div>From electric cars to solar panels, Mr. Musk has built businesses in high-tech manufacturing sectors now targeted by Beijing for Chinese dominance.</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://static01.nyt.com/images/2024/11/22/multimedia/00china-musk-01-bhlt/00china-musk-01-bhlt-videoSixteenByNine3000.jpg\" style=\"width: 100%;\" /><div>From electric cars to solar panels, Mr. Musk has built businesses in high-tech manufacturing sectors now targeted by Beijing for Chinese dominance.</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.nytimes.com/2024/11/22/business/elon-musk-tesla-china.html"
+            }
+        ],
+        "link": "https://www.nytimes.com/2024/11/22/business/elon-musk-tesla-china.html",
+        "id": "5f8dc28f58568b71cd006c6daadeba31",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Keith Bradsher"
+            }
+        ],
+        "author": "Keith Bradsher",
+        "author_detail": {
+            "name": "Keith Bradsher"
+        },
+        "published": "Fri, 22 Nov 2024 15:53:08 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            22,
+            15,
+            53,
+            8,
+            4,
+            327,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://static01.nyt.com/images/2024/11/22/multimedia/00china-musk-01-bhlt/00china-musk-01-bhlt-videoSixteenByNine3000.jpg"
+            }
+        ],
+        "generated_summary": "Elon Musk's business ventures, particularly Tesla, have significant stakes in China, where half of Tesla's cars are produced and a major portion of sales occur. However, Musk faces challenges due to increasing local competition and regulatory restrictions on Tesla's self-driving technology. Despite these hurdles, Musk's strong ties with Chinese leaders, such as Premier Li Qiang, may position him as a key intermediary for conveying messages between China and President-elect Donald Trump, amid trade tensions. Musk's other ventures in solar energy and batteries also contend with robust Chinese competitors, although U.S.-China economic decoupling could offer some advantages by limiting Chinese automakers' access to the U.S. market."
     },
     {
         "title": "Nissan warns of emergency as car brands scramble to meet electric car targets or risk 'irreversible impact'",
@@ -320,858 +1292,49 @@
                 "url": "https://www.gbnews.com/media-library/watch-rishi-sunak-on-nissan-s-ps2billion-investment-in-its-sunderland-factory.jpg?id=54968008&width=1200&height=600&coordinates=0%2C501%2C0%2C438"
             }
         ],
-        "generated_summary": "Nissan has issued an urgent warning to the UK Government to revise the Zero Emission Vehicle (ZEV) mandate, as current targets threaten the UK automotive sector. The Japanese automaker, which operates the largest car manufacturing plant in Sunderland, highlighted that electric vehicle sales are lagging behind the mandate's ambitious goals. The Society of Motor Manufacturers and Traders (SMMT) projects EV sales to reach only 18.5% of the market this year, short of the 22% target for 2024. The targets are set to rise to 28% in 2025 and eventually to 100% by 2035. Failure to meet these could result in substantial penalties for manufacturers, potentially costing \u00a315,000 per non-compliant vehicle. Nissan argues that this could lead to manufacturers buying credits from foreign EV-only brands, effectively subsidizing other countries' sectors. To address this, Nissan proposes allowing more flexibility in credit borrowing and a two-year monitoring period to avert fines. Nissan's commitment to UK manufacturing is significant, with over 7,000 employees and investments in new EV production as part of its EV36Zero initiative. The company stresses the urgent need for government action to prevent an irreversible impact on the industry."
+        "generated_summary": "Nissan has issued a warning to the UK Government, urging a revision of the Zero Emission Vehicle (ZEV) mandate due to slower-than-expected electric vehicle (EV) sales. The Japanese automaker, which runs the largest car manufacturing plant in Sunderland, cautioned that failing to meet ambitious EV targets could lead to severe financial penalties, threaten thousands of jobs, and impact billions in investment. Current projections show EV sales reaching only 18.5% of the market this year, below the 22% target for 2024, with expectations increasing to 80% by 2030 and 100% by 2035. Nissan suggests changes to the ZEV mandate, such as increased flexibility in borrowing credits and a monitoring period to replace fines. The company emphasizes the need for urgent government action to prevent an \"irreversible impact\" on the UK automotive sector. Nissan remains committed to UK manufacturing, contributing over \u00a32 billion annually to the economy and planning new EV production as part of its EV36Zero initiative."
     },
     {
-        "title": "Updated BMW F 900 XR sports tourer is leaner and meaner",
+        "title": "BMW Introduces 2025 F 900 R and F 900 XR",
         "title_detail": {
             "type": "text/plain",
             "language": null,
             "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Updated BMW F 900 XR sports tourer is leaner and meaner"
+            "value": "BMW Introduces 2025 F 900 R and F 900 XR"
         },
-        "summary": "<div><img src=\"https://lh3.googleusercontent.com/Yknjn6-b6tAYcW3lbdKUNoq9qH6xboZDzmi5zBZQmqw_cR3HFJZNFGt7qitH0x--qsWrBKywFXTdDespeJvKvKJJS469WWTKWy1G=s1000\" style=\"width: 100%;\" /><div>New wheels weigh about 1.8kg less than the previous models and, along with a lighter new battery, total weight reduction is 3kg</div></div>",
+        "summary": "<div><img src=\"https://www.roadracingworld.com/wp-content/uploads/2024/11/P90579157_highRes_1732286847.jpg\" style=\"width: 100%;\" /><div>BMW Introduces 2025 F 900 R and F 900 XR, featuring new technical and styling upgrades and significantly extended standard equipment.</div></div>",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://lh3.googleusercontent.com/Yknjn6-b6tAYcW3lbdKUNoq9qH6xboZDzmi5zBZQmqw_cR3HFJZNFGt7qitH0x--qsWrBKywFXTdDespeJvKvKJJS469WWTKWy1G=s1000\" style=\"width: 100%;\" /><div>New wheels weigh about 1.8kg less than the previous models and, along with a lighter new battery, total weight reduction is 3kg</div></div>"
+            "value": "<div><img src=\"https://www.roadracingworld.com/wp-content/uploads/2024/11/P90579157_highRes_1732286847.jpg\" style=\"width: 100%;\" /><div>BMW Introduces 2025 F 900 R and F 900 XR, featuring new technical and styling upgrades and significantly extended standard equipment.</div></div>"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://www.businesslive.co.za/bd/life/motoring/2024-11-22-bmw-f-900-xr-sports-tourer-sheds-weight-in-midlife-update/"
+                "href": "https://www.roadracingworld.com/news/bmw-introduces-2025-f-900-r-and-f-900-xr/"
             }
         ],
-        "link": "https://www.businesslive.co.za/bd/life/motoring/2024-11-22-bmw-f-900-xr-sports-tourer-sheds-weight-in-midlife-update/",
-        "id": "2a2cef204a20db72f0a6642221afb8fa",
+        "link": "https://www.roadracingworld.com/news/bmw-introduces-2025-f-900-r-and-f-900-xr/",
+        "id": "e573f2e760f493d7a0cff19471eb7fa1",
         "guidislink": false,
         "authors": [
             {
-                "name": "https://www.timeslive.co.za/authors/denis-droppa/"
+                "name": "Michael Gougis"
             }
         ],
-        "author": "https://www.timeslive.co.za/authors/denis-droppa/",
+        "author": "Michael Gougis",
         "author_detail": {
-            "name": "https://www.timeslive.co.za/authors/denis-droppa/"
+            "name": "Michael Gougis"
         },
-        "published": "Fri, 22 Nov 2024 14:39:00 GMT",
+        "published": "Fri, 22 Nov 2024 14:52:31 GMT",
         "published_parsed": [
             2024,
             11,
             22,
             14,
-            39,
-            0,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://lh3.googleusercontent.com/Yknjn6-b6tAYcW3lbdKUNoq9qH6xboZDzmi5zBZQmqw_cR3HFJZNFGt7qitH0x--qsWrBKywFXTdDespeJvKvKJJS469WWTKWy1G=s1000"
-            }
-        ],
-        "generated_summary": "BMW has updated its F 900 XR sports tourer motorcycle, reducing its weight by 3kg. This weight reduction is achieved through new wheels that are 1.8kg lighter and a lighter battery. The XR series is known for combining sporty performance with touring capabilities, with the first model in the series being the S 1000 XR, which features a detuned version of the engine from BMW's S 1000 RR superbike. This update is part of BMW Motorrad's ongoing efforts to enhance the performance and efficiency of its motorcycle lineup."
-    },
-    {
-        "title": "How electric car apathy brought down Europe\u2019s battery giant",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "How electric car apathy brought down Europe\u2019s battery giant"
-        },
-        "summary": "<div><img src=\"https://www.telegraph.co.uk/content/dam/business/2024/11/22/TELEMMGLPICT000401470988_17322816658290_trans_NvBQzQNjv4BqD3d2dmOlWYuQkR76XZjLQKOylOV7i1cNNz18XOj47vE.jpeg?impolicy=Twitter-Standard\" style=\"width: 100%;\" /><div>If Northvolt cannot be revived, the bloc will be perilously exposed to China</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.telegraph.co.uk/content/dam/business/2024/11/22/TELEMMGLPICT000401470988_17322816658290_trans_NvBQzQNjv4BqD3d2dmOlWYuQkR76XZjLQKOylOV7i1cNNz18XOj47vE.jpeg?impolicy=Twitter-Standard\" style=\"width: 100%;\" /><div>If Northvolt cannot be revived, the bloc will be perilously exposed to China</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.telegraph.co.uk/business/2024/11/22/how-electric-car-apathy-brought-down-europes-battery-giant/"
-            }
-        ],
-        "link": "https://www.telegraph.co.uk/business/2024/11/22/how-electric-car-apathy-brought-down-europes-battery-giant/",
-        "id": "82eebf0d400611442546a9d9ee5163a7",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Matthew Field"
-            }
-        ],
-        "author": "Matthew Field",
-        "author_detail": {
-            "name": "Matthew Field"
-        },
-        "published": "Fri, 22 Nov 2024 14:21:00 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            14,
-            21,
-            0,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.telegraph.co.uk/content/dam/business/2024/11/22/TELEMMGLPICT000401470988_17322816658290_trans_NvBQzQNjv4BqD3d2dmOlWYuQkR76XZjLQKOylOV7i1cNNz18XOj47vE.jpeg?impolicy=Twitter-Standard"
-            }
-        ],
-        "generated_summary": "Northvolt, a prominent European battery manufacturer, has filed for bankruptcy protection in a New York court due to a severe cash crisis, despite raising over $15 billion from various investors since its inception in 2016. The company, which operates a major gigafactory in Skellefte\u00e5, Sweden, has been hit hard by declining demand for electric vehicles (EVs) in Europe and increased competition from cheaper Chinese alternatives. This downturn has led to reduced investments from major clients like BMW and the withdrawal of planned government funding. Northvolt's debts have reached nearly $6 billion, and it has already shut down several divisions. Founder and CEO Peter Carlsson has resigned, taking responsibility for the company's over-ambitious expansion plans. The company is now seeking a fresh capital injection of $1 billion to $1.2 billion to avoid being sold for parts. The situation highlights Europe's vulnerability in the battery supply chain, with experts warning of increased reliance on China if Northvolt cannot recover."
-    },
-    {
-        "title": "EU battery hopes in tatters as Northvolt CEO resigns and company files for bankruptcy",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "EU battery hopes in tatters as Northvolt CEO resigns and company files for bankruptcy"
-        },
-        "summary": "<div><img src=\"https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/11/22/GettyImages-2105321833-scaled.jpg\" style=\"width: 100%;\" /><div>The company ran into big problems with production at a time when demand for EVs slumped.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/11/22/GettyImages-2105321833-scaled.jpg\" style=\"width: 100%;\" /><div>The company ran into big problems with production at a time when demand for EVs slumped.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.politico.eu/article/northvolt-bankruptcy-ceo-peter-carlsson-resign-eu-battery/"
-            }
-        ],
-        "link": "https://www.politico.eu/article/northvolt-bankruptcy-ceo-peter-carlsson-resign-eu-battery/",
-        "id": "4923acaa0e381a1bf0e649bef56bfc65",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Jordyn Dahl"
-            }
-        ],
-        "author": "Jordyn Dahl",
-        "author_detail": {
-            "name": "Jordyn Dahl"
-        },
-        "published": "Fri, 22 Nov 2024 12:38:41 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            12,
-            38,
-            41,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2024/11/22/GettyImages-2105321833-scaled.jpg"
-            }
-        ],
-        "generated_summary": "Northvolt, a prominent European battery manufacturer, has filed for Chapter 11 bankruptcy in the U.S. and its CEO, Peter Carlsson, has resigned. The company, which aimed to be a leading player in Europe's battery industry, faced significant challenges including production issues, overspending, and a slowdown in electric vehicle demand. Northvolt's financial troubles were exacerbated by canceled contracts, such as a \u20ac2 billion deal with BMW, and financial struggles faced by its top investor, Volkswagen. Despite these setbacks, the company plans to continue operations at its key facilities in Sweden, Germany, and North America, and is seeking $1 to $1.2 billion in new funding to stabilize its finances. The Swedish government has declined to intervene, while German officials are unable to assist due to their own economic challenges. Northvolt's situation highlights the difficulties Europe faces in establishing a competitive battery industry amidst global competition, particularly from China."
-    },
-    {
-        "title": "BMW Upgrades Mid-Range F 900 Bikes for 2025, Riding Them Is Now Less of a Challenge",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "BMW Upgrades Mid-Range F 900 Bikes for 2025, Riding Them Is Now Less of a Challenge"
-        },
-        "summary": "<div><img src=\"https://s1.cdn.autoevolution.com/images/news/bmw-upgrades-mid-range-f-900-bikes-for-2025-riding-them-is-now-less-of-a-challenge-243126_1.jpg\" style=\"width: 100%;\" /><div>German bike maker BMW announced the 2025 model year version of the F 900 R roadster and F 900 XR crossover motorcycles, coming next year</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://s1.cdn.autoevolution.com/images/news/bmw-upgrades-mid-range-f-900-bikes-for-2025-riding-them-is-now-less-of-a-challenge-243126_1.jpg\" style=\"width: 100%;\" /><div>German bike maker BMW announced the 2025 model year version of the F 900 R roadster and F 900 XR crossover motorcycles, coming next year</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.autoevolution.com/news/bmw-upgrades-mid-range-f-900-bikes-for-2025-riding-them-is-now-less-of-a-challenge-243126.html"
-            }
-        ],
-        "link": "https://www.autoevolution.com/news/bmw-upgrades-mid-range-f-900-bikes-for-2025-riding-them-is-now-less-of-a-challenge-243126.html",
-        "id": "24bfad74c610f82e5356f8164eda65fc",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Daniel Patrascu"
-            }
-        ],
-        "author": "Daniel Patrascu",
-        "author_detail": {
-            "name": "Daniel Patrascu"
-        },
-        "published": "Fri, 22 Nov 2024 12:20:58 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            12,
-            20,
-            58,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://s1.cdn.autoevolution.com/images/news/bmw-upgrades-mid-range-f-900-bikes-for-2025-riding-them-is-now-less-of-a-challenge-243126_1.jpg"
-            }
-        ]
-    },
-    {
-        "title": "Kia EV6 GT gets even more power plus trick gearbox from Hyundai Ioniq 5 N",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Kia EV6 GT gets even more power plus trick gearbox from Hyundai Ioniq 5 N"
-        },
-        "summary": "<div><img src=\"https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1702040915/autoexpress/2023/12/Kia%20EV6%20vs%20Ford%20Mustang%20Mach%20E%20GT%20003_nbj6dd.jpg\" style=\"width: 100%;\" /><div>Already Kia\u2019s most powerful car, the EV6 GT will now produce up to 641bhp and 770Nm of torque</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1702040915/autoexpress/2023/12/Kia%20EV6%20vs%20Ford%20Mustang%20Mach%20E%20GT%20003_nbj6dd.jpg\" style=\"width: 100%;\" /><div>Already Kia\u2019s most powerful car, the EV6 GT will now produce up to 641bhp and 770Nm of torque</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.autoexpress.co.uk/kia/ev6/365117/kia-ev6-gt-gets-even-more-power-plus-trick-gearbox-hyundai-ioniq-5-n"
-            }
-        ],
-        "link": "https://www.autoexpress.co.uk/kia/ev6/365117/kia-ev6-gt-gets-even-more-power-plus-trick-gearbox-hyundai-ioniq-5-n",
-        "id": "0686beebe9100b0122ae35b8ebf610a0",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Ellis Hyde"
-            }
-        ],
-        "author": "Ellis Hyde",
-        "author_detail": {
-            "name": "Ellis Hyde"
-        },
-        "published": "Fri, 22 Nov 2024 12:06:02 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            12,
-            6,
-            2,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1702040915/autoexpress/2023/12/Kia%20EV6%20vs%20Ford%20Mustang%20Mach%20E%20GT%20003_nbj6dd.jpg"
-            }
-        ],
-        "generated_summary": "The Kia EV6 GT is set to receive a power boost and new features as part of a mid-life update. The car's maximum power output will increase from 577bhp to 641bhp, with torque rising to 770Nm when in 'GT' mode. This upgrade is expected to improve its 0-62mph acceleration time, potentially matching the Hyundai Ioniq 5 N's 3.4 seconds. The EV6 GT will also incorporate a 'Virtual Gear Shift' from the Ioniq 5 N, simulating gear changes to enhance the driving experience. A synthesised engine soundtrack will accompany this feature, although both can be disabled for a traditional electric car feel. Unlike the Ioniq 5 N, the EV6 GT will not have stiffer suspension, maintaining a softer ride. It will utilize an 84kWh battery, potentially enhancing its range from the previous 263 miles. Styling updates include new daytime running lights and a revised front end, along with interior enhancements like a new steering wheel and updated infotainment system. The updated model is expected to be available in 2025."
-    },
-    {
-        "title": "Trump\u2019s anti-EV agenda could boost Chinese car industry",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Trump\u2019s anti-EV agenda could boost Chinese car industry"
-        },
-        "summary": "<div><img src=\"https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/d2/45/3f2ee8e04bb39b09a20c3a4bd17e/china-auto-show-53016.jpg\" style=\"width: 100%;\" /><div>Ford CEO Jim Farley has said Chinese electric vehicles represent an \u201cexistential threat\u201d to U.S. automakers.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/d2/45/3f2ee8e04bb39b09a20c3a4bd17e/china-auto-show-53016.jpg\" style=\"width: 100%;\" /><div>Ford CEO Jim Farley has said Chinese electric vehicles represent an \u201cexistential threat\u201d to U.S. automakers.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.eenews.net/articles/trumps-anti-ev-agenda-could-boost-chinese-car-industry/"
-            }
-        ],
-        "link": "https://www.eenews.net/articles/trumps-anti-ev-agenda-could-boost-chinese-car-industry/",
-        "id": "df7bd38777ef7ef0cfe3d33f2588bc2f",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Mike Lee, Hannah Northey"
-            }
-        ],
-        "author": "Mike Lee, Hannah Northey",
-        "author_detail": {
-            "name": "Mike Lee, Hannah Northey"
-        },
-        "published": "Fri, 22 Nov 2024 11:57:26 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            11,
-            57,
-            26,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/d2/45/3f2ee8e04bb39b09a20c3a4bd17e/china-auto-show-53016.jpg"
-            }
-        ],
-        "generated_summary": "Former President Donald Trump's plans to roll back support for electric vehicles (EVs) could inadvertently benefit Chinese car manufacturers, according to analysts. Trump has expressed intentions to reverse regulations set by the Biden administration that encourage domestic EV production and supply chains. This includes potential repeals of tax credits from the Inflation Reduction Act and increased tariffs on Chinese vehicles and components. Such actions might hinder U.S. automakers' ability to compete globally, despite the persistent international demand for EVs. Ford CEO Jim Farley has described Chinese EVs as an \"existential threat\" to U.S. manufacturers, highlighting the potential impact of Trump's policies on the American automotive industry."
-    },
-    {
-        "title": "Tiger Sport 660: Safety Update And New Colours",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Tiger Sport 660: Safety Update And New Colours"
-        },
-        "summary": "<div><img src=\"http://motoringworld.in/wp-content/uploads/2024/11/Tiger-Sport-660-1.jpg\" style=\"width: 100%;\" /><div>Discover the updated Triumph Tiger Sport 660, featuring an IMU for improved safety and fresh colour choices.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"http://motoringworld.in/wp-content/uploads/2024/11/Tiger-Sport-660-1.jpg\" style=\"width: 100%;\" /><div>Discover the updated Triumph Tiger Sport 660, featuring an IMU for improved safety and fresh colour choices.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://motoringworld.in/bike-news/tiger-sport-660-safety-update-and-new-colours/"
-            }
-        ],
-        "link": "https://motoringworld.in/bike-news/tiger-sport-660-safety-update-and-new-colours/",
-        "id": "6cc0c36102957febbca3f99b2c9f848f",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Adithya Prasad"
-            }
-        ],
-        "author": "Adithya Prasad",
-        "author_detail": {
-            "name": "Adithya Prasad"
-        },
-        "published": "Fri, 22 Nov 2024 11:37:18 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            11,
-            37,
-            18,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "http://motoringworld.in/wp-content/uploads/2024/11/Tiger-Sport-660-1.jpg"
-            }
-        ],
-        "generated_summary": "Triumph has updated the Tiger Sport 660 with significant enhancements in safety and style. The motorcycle now features an Inertial Measurement Unit (IMU) that improves traction control and ABS for safer cornering. It also includes a bi-directional quick-shifter for clutchless gear changes and a standard connectivity system that pairs with smartphones via Bluetooth, displaying calls, texts, and navigation on a TFT screen. The Tiger Sport 660 retains its 660cc inline-three-cylinder engine, delivering 80bhp and 6.5kgm of torque, providing a smooth and powerful ride. Additionally, the bike is available in two new colors: Roulette Green and Crystal White."
-    },
-    {
-        "title": "Elon Musk has cozied into Trump\u2019s White House. How long will this bromance last?",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Elon Musk has cozied into Trump\u2019s White House. How long will this bromance last?"
-        },
-        "summary": "<div><img src=\"https://i.guim.co.uk/img/media/852a6e8fc18dc73aa1fecbac5bb5396d881a7ad7/0_331_5000_3002/master/5000.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&amp;s=d34a70efae86b051bc70e72f91c62eb9\" style=\"width: 100%;\" /><div>The absurd Musk-Trump pact might have a silver lining: their relationship, like Trump\u2019s coalition at large, is fragile</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://i.guim.co.uk/img/media/852a6e8fc18dc73aa1fecbac5bb5396d881a7ad7/0_331_5000_3002/master/5000.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&amp;s=d34a70efae86b051bc70e72f91c62eb9\" style=\"width: 100%;\" /><div>The absurd Musk-Trump pact might have a silver lining: their relationship, like Trump\u2019s coalition at large, is fragile</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.theguardian.com/commentisfree/2024/nov/22/elon-musk-donald-trump"
-            }
-        ],
-        "link": "https://www.theguardian.com/commentisfree/2024/nov/22/elon-musk-donald-trump",
-        "id": "05d1ada262480e36a90c120fe89e15f3",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Katrina vanden Heuvel"
-            }
-        ],
-        "author": "Katrina vanden Heuvel",
-        "author_detail": {
-            "name": "Katrina vanden Heuvel"
-        },
-        "published": "Fri, 22 Nov 2024 11:00:11 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            11,
-            0,
-            11,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://i.guim.co.uk/img/media/852a6e8fc18dc73aa1fecbac5bb5396d881a7ad7/0_331_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&s=d34a70efae86b051bc70e72f91c62eb9"
-            }
-        ],
-        "generated_summary": "The article discusses the burgeoning relationship between Elon Musk and Donald Trump following Trump's re-election, highlighting Musk's increasing influence in the White House. Despite initial tensions, Musk has become a significant figure in Trump's administration, advising on appointments and policies. This alliance raises concerns about potential conflicts of interest, as Musk's companies benefit from public contracts while facing federal investigations. Musk's role in the newly formed Department of Government Efficiency, which aims to reduce government spending and regulation, is critiqued as largely symbolic. The partnership is seen as fragile, with analysts skeptical about its longevity due to the personalities involved. The article suggests that while Musk's influence is substantial, the non-binding nature of his recommendations limits their impact."
-    },
-    {
-        "title": "'Pothole get-out-of-jail card being used by councils'",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "'Pothole get-out-of-jail card being used by councils'"
-        },
-        "summary": "<div><img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/ee5a/live/cb689b40-a838-11ef-98bd-c3011bfd8fce.jpg\" style=\"width: 100%;\" /><div>New analysis has revealed Gloucestershire has lowest rate of successful pothole damage claims.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/ee5a/live/cb689b40-a838-11ef-98bd-c3011bfd8fce.jpg\" style=\"width: 100%;\" /><div>New analysis has revealed Gloucestershire has lowest rate of successful pothole damage claims.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.bbc.co.uk/news/articles/crlnwdy0e72o"
-            }
-        ],
-        "link": "https://www.bbc.co.uk/news/articles/crlnwdy0e72o",
-        "id": "3f55c9c290230b6513bf2ce6f6478cb6",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "@BBCNews"
-            }
-        ],
-        "author": "@BBCNews",
-        "author_detail": {
-            "name": "@BBCNews"
-        },
-        "published": "Fri, 22 Nov 2024 09:29:13 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            9,
-            29,
-            13,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://ichef.bbci.co.uk/news/1024/branded_news/ee5a/live/cb689b40-a838-11ef-98bd-c3011bfd8fce.jpg"
-            }
-        ],
-        "generated_summary": "A recent analysis reveals that only 2% of pothole damage claims against Gloucestershire County Council are successful, the lowest rate among 18 local authorities surveyed. In contrast, other councils pay out on an average of 20% of claims. Gloucestershire County Council attributes this to their robust system of inspections and repairs, which they claim minimizes the need to use taxpayer funds for compensation. Simon Williams, the head of policy at the RAC, noted that councils often avoid compensation by claiming unawareness of potholes. The council is currently trialling new methods to improve road conditions, including the use of advanced repair machines and proactive repair teams. Despite these efforts, the council acknowledges that it's challenging to inspect and repair every pothole immediately, especially in winter."
-    },
-    {
-        "title": "Northvolt chief resigns a day after battery maker collapses into bankruptcy",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Northvolt chief resigns a day after battery maker collapses into bankruptcy"
-        },
-        "summary": "<div><img src=\"https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3427fc88-5d0d-43f7-ab22-68a92b17b662.jpg?source=next-barrier-page\" style=\"width: 100%;\" /><div>Europe\u2019s best-funded start-up raised $15bn but was left with just $30mn in cash</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3427fc88-5d0d-43f7-ab22-68a92b17b662.jpg?source=next-barrier-page\" style=\"width: 100%;\" /><div>Europe\u2019s best-funded start-up raised $15bn but was left with just $30mn in cash</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.ft.com/content/773f143b-ea31-42fd-ba4d-e4b20f4050c3"
-            }
-        ],
-        "link": "https://www.ft.com/content/773f143b-ea31-42fd-ba4d-e4b20f4050c3",
-        "id": "087939367bdfd28d38faca78510a3654",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Richard Milne"
-            }
-        ],
-        "author": "Richard Milne",
-        "author_detail": {
-            "name": "Richard Milne"
-        },
-        "published": "Fri, 22 Nov 2024 09:24:18 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            9,
-            24,
-            18,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3427fc88-5d0d-43f7-ab22-68a92b17b662.jpg?source=next-barrier-page"
-            }
-        ],
-        "generated_summary": "The Financial Times offers a range of news and analysis across various sections, including World, US, Companies, Tech, Markets, Climate, Opinion, Work & Careers, and Life & Arts. Key articles include discussions on global economic issues, political updates like Trump's appointment of Scott Bessent as Treasury Secretary, and significant business developments such as Amazon's investment in AI start-up Anthropic and Northvolt's bankruptcy. The site provides multiple subscription options for accessing their content, including digital and print editions. The FT emphasizes its reputation for quality journalism and offers various features like newsletters, podcasts, and the FT app for personalized news experiences."
-    },
-    {
-        "title": "Northvolt files for bankruptcy protection in blow to Europe\u2019s EV ambitions",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Northvolt files for bankruptcy protection in blow to Europe\u2019s EV ambitions"
-        },
-        "summary": "<div><img src=\"https://i.guim.co.uk/img/media/661d7f154019bc8bc14058ea460b7e361231dc73/0_96_3012_1807/master/3012.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;s=4535e54812dde6db49c45e1292da7a19\" style=\"width: 100%;\" /><div>Swedish maker of battery cells for electric vehicles says it has enough cash to support operations for only a week</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://i.guim.co.uk/img/media/661d7f154019bc8bc14058ea460b7e361231dc73/0_96_3012_1807/master/3012.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;s=4535e54812dde6db49c45e1292da7a19\" style=\"width: 100%;\" /><div>Swedish maker of battery cells for electric vehicles says it has enough cash to support operations for only a week</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.theguardian.com/environment/2024/nov/22/northvolt-files-bankruptcy-protection-europe-electric-vehicles-battery"
-            }
-        ],
-        "link": "https://www.theguardian.com/environment/2024/nov/22/northvolt-files-bankruptcy-protection-europe-electric-vehicles-battery",
-        "id": "bf7cf263bd80e850c1ee8bd6bc20e51a",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Guardian staff reporter"
-            }
-        ],
-        "author": "Guardian staff reporter",
-        "author_detail": {
-            "name": "Guardian staff reporter"
-        },
-        "published": "Fri, 22 Nov 2024 09:05:33 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            9,
-            5,
-            33,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://i.guim.co.uk/img/media/661d7f154019bc8bc14058ea460b7e361231dc73/0_96_3012_1807/master/3012.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=4535e54812dde6db49c45e1292da7a19"
-            }
-        ],
-        "generated_summary": "Northvolt, a prominent Swedish electric vehicle (EV) battery startup, has filed for Chapter 11 bankruptcy protection in the U.S., leading to the resignation of its CEO, Peter Carlsson. The company, which aimed to rival dominant Asian battery manufacturers, has struggled with production issues and cash flow problems. Northvolt needs to raise between $1 billion and $1.2 billion to stabilize its business. Despite securing $100 million in new financing, the company only has enough cash to operate for about a week. The bankruptcy filing follows unsuccessful talks for rescue investments and a recent announcement to cut 1,600 jobs. Northvolt has faced criticism for trying to build multiple factories simultaneously and losing BMW as a major customer. The Swedish government and stakeholders like Scania continue to support Northvolt, hoping restructuring will revive its fortunes. The company plans to complete its restructuring by the first quarter of 2025, while competition from established Asian firms remains intense."
-    },
-    {
-        "title": "Britons face road carnage with drivers losing out massively on compensation claims - 'Tip of the iceberg'",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Britons face road carnage with drivers losing out massively on compensation claims - 'Tip of the iceberg'"
-        },
-        "summary": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.gbnews.com/lifestyle/cars/britons-road-carnage-pothole-compensation-claims"
-            }
-        ],
-        "link": "https://www.gbnews.com/lifestyle/cars/britons-road-carnage-pothole-compensation-claims",
-        "id": "752868b01851da4bfde2cdb34166e2d1",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Felix Reeves"
-            }
-        ],
-        "author": "Felix Reeves",
-        "author_detail": {
-            "name": "Felix Reeves"
-        },
-        "published": "Fri, 22 Nov 2024 08:51:01 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            8,
-            51,
-            1,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.gbnews.com/media-library/watch-mr-pothole-says-he-has-no-faith-in-any-politician-to-fix-the-uk-s-roads.jpg?id=53892044&width=1200&height=600&coordinates=0%2C417%2C0%2C266"
-            }
-        ],
-        "generated_summary": "Britons are facing significant challenges with pothole compensation claims as claims have more than doubled from 2022 to 2023, but councils are reluctant to pay out. Data from the RAC revealed that claims surged from 8,327 to 20,432, with Surrey and Hampshire witnessing the most significant increases. Despite this, only 15% of claims were compensated, with councils frequently citing a lack of prior knowledge under Section 58 of the Highways Act 1980 to reject claims. Some councils, like Gloucestershire and Hertfordshire, rejected nearly all claims based on this reasoning. The average compensation payout is \u00a3260, often insufficient to cover repair costs. Labour has pledged an additional \u00a3500 million in the budget to address potholes, aiming to repair one million more per year. The Department for Transport is also investing in road maintenance, emphasizing cost-efficient solutions for taxpayers."
-    },
-    {
-        "title": "Peter Carlsson steps aside as CEO of Northvolt",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Peter Carlsson steps aside as CEO of Northvolt"
-        },
-        "summary": "<div><img src=\"https://www.datocms-assets.com/38709/1732257484-peter-carlsson-2021.jpeg?w=1000&amp;fit=max&amp;auto=format\" style=\"width: 100%;\" /><div>Carlsson co-founded Northvolt with the mission to drive sustainable energy solutions through the creation of a pioneer in European battery production.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.datocms-assets.com/38709/1732257484-peter-carlsson-2021.jpeg?w=1000&amp;fit=max&amp;auto=format\" style=\"width: 100%;\" /><div>Carlsson co-founded Northvolt with the mission to drive sustainable energy solutions through the creation of a pioneer in European battery production.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://northvolt.com/articles/peter-carlsson-steps-aside/"
-            }
-        ],
-        "link": "https://northvolt.com/articles/peter-carlsson-steps-aside/",
-        "id": "d117a68cf77b023b9df0a015231c3a78",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "northvolt.com"
-            }
-        ],
-        "author": "northvolt.com",
-        "author_detail": {
-            "name": "northvolt.com"
-        },
-        "published": "Fri, 22 Nov 2024 08:34:03 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            8,
-            34,
-            3,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.datocms-assets.com/38709/1732257484-peter-carlsson-2021.jpeg?w=1000&fit=max&auto=format"
-            }
-        ],
-        "generated_summary": "Peter Carlsson, co-founder of Northvolt, is stepping down as CEO as the company enters a new phase marked by a Chapter 11 reorganization. This move is designed to provide Northvolt with the financial means to focus on operational improvements, customer support, and long-term competitive positioning. Carlsson will continue to contribute as a Senior Advisor and Member of the Board. Northvolt, a leader in European battery production, is known for its innovative facilities in Sweden, Germany, and Canada. The leadership transition involves Pia Aaltonen-Forsell, Chief Financial Officer, and Matthias Arleth, Chief Operations Officer, who will guide the company alongside Scott Millar, Chief Restructuring Officer, while a new CEO is sought. This shift underscores Northvolt's commitment to sustainable growth and operational efficiency."
-    },
-    {
-        "title": "The new BMW F 900 R and F 900 XR: Technical and visual upgrades and significantly extended standard equipment for the dynamic roadster and long-distance sports bike in the mid-range segment.",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "The new BMW F 900 R and F 900 XR: Technical and visual upgrades and significantly extended standard equipment for the dynamic roadster and long-distance sports bike in the mid-range segment."
-        },
-        "summary": "<div><img src=\"https://mediapool.bmwgroup.com/cache/P9/202411/P90579165/P90579165-bmw-motorrad-presents-the-new-bmw-f-900-r-and-f-900-xr-3486px.jpg\" style=\"width: 100%;\" /><div>The new BMW F 900 R and F 900 XR: Technical and visual upgrades and significantly extended standard equipment for the dynamic roadster and long-distance sports bike in the mid-range segment.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://mediapool.bmwgroup.com/cache/P9/202411/P90579165/P90579165-bmw-motorrad-presents-the-new-bmw-f-900-r-and-f-900-xr-3486px.jpg\" style=\"width: 100%;\" /><div>The new BMW F 900 R and F 900 XR: Technical and visual upgrades and significantly extended standard equipment for the dynamic roadster and long-distance sports bike in the mid-range segment.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.press.bmwgroup.com/global/article/detail/T0446319EN/bmw-motorrad-presents-the-new-bmw-f-900-r-and-f-900-xr?language=en"
-            }
-        ],
-        "link": "https://www.press.bmwgroup.com/global/article/detail/T0446319EN/bmw-motorrad-presents-the-new-bmw-f-900-r-and-f-900-xr?language=en",
-        "id": "5dff15fa2e54bcc82605f9b26b05e624",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "@bmwgroup"
-            }
-        ],
-        "author": "@bmwgroup",
-        "author_detail": {
-            "name": "@bmwgroup"
-        },
-        "published": "Fri, 22 Nov 2024 08:00:00 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            8,
-            0,
-            0,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://mediapool.bmwgroup.com/cache/P9/202411/P90579165/P90579165-bmw-motorrad-presents-the-new-bmw-f-900-r-and-f-900-xr-3486px.jpg"
-            }
-        ],
-        "generated_summary": "BMW Motorrad has unveiled the new BMW F 900 R and F 900 XR, featuring significant technical and visual upgrades, and enhanced standard equipment. These mid-range models are designed for both dynamic roadster and long-distance sports biking. Key improvements include fully adjustable upside-down forks, lighter wheels, and a 3 kg overall weight reduction. Both models are powered by a Euro 5+ compliant two-cylinder engine with 895 cc capacity, offering 105 bhp and a dynamic riding mode for enhanced performance. Safety features such as Dynamic Traction Control, engine drag torque control, BMW Motorrad ABS Pro, and Dynamic Brake Control are standard. The F 900 R has a sportier riding position, while the F 900 XR offers improved aerodynamics for better touring capability. Both models come with new lighter batteries, integrated turn indicator lights, and optional accessories like a sports silencer and lockable soft cases. Available in three color variants, these models cater to both experienced riders and newcomers."
-    },
-    {
-        "title": "Pilot for Bluebird's return to Coniston Water announced",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Pilot for Bluebird's return to Coniston Water announced"
-        },
-        "summary": "<div><img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/5401/live/07f338c0-a813-11ef-bdf5-b7cb2fa86e10.jpg\" style=\"width: 100%;\" /><div>Dave Warby, son of the late-water speed record holder Ken Warby, will be in the cockpit at Coniston.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://ichef.bbci.co.uk/news/1024/branded_news/5401/live/07f338c0-a813-11ef-bdf5-b7cb2fa86e10.jpg\" style=\"width: 100%;\" /><div>Dave Warby, son of the late-water speed record holder Ken Warby, will be in the cockpit at Coniston.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.bbc.com/news/articles/cp9zlx5j127o"
-            }
-        ],
-        "link": "https://www.bbc.com/news/articles/cp9zlx5j127o",
-        "id": "f80c61db1d7e5f6b3f94c3aa72bca20a",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "bbc.com"
-            }
-        ],
-        "author": "bbc.com",
-        "author_detail": {
-            "name": "bbc.com"
-        },
-        "published": "Fri, 22 Nov 2024 06:00:25 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            6,
-            0,
-            25,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://ichef.bbci.co.uk/news/1024/branded_news/5401/live/07f338c0-a813-11ef-bdf5-b7cb2fa86e10.jpg"
-            }
-        ],
-        "generated_summary": "Donald Campbell's restored hydroplane, Bluebird K7, will return to Coniston Water in 2026, piloted by Dave Warby, son of the late water speed world-record holder Ken Warby. The Bluebird, which was destroyed in a 1967 crash, has been rebuilt after being recovered from Coniston Water 34 years later. Following a legal dispute over ownership, the Ruskin Museum now holds the craft, and plans to refurbish its Orpheus jet engines. Dave Warby, who aims to break the water speed record with his own craft, Spirit of Australia II, expressed honor at piloting Bluebird, which inspired his father's records. His reserve pilot will be RAF Flt Lt David-John Gibbs."
-    },
-    {
-        "title": "2025 BMW F900 XR Specs And Pics",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "2025 BMW F900 XR Specs And Pics"
-        },
-        "summary": "<div><img src=\"https://www.advrider.com/wp-content/uploads/2024/11/P90579160_highRes-1-scaled.jpg\" style=\"width: 100%;\" /><div>The 2025 BMW F900 XR comes in three new colors, with some new bodywork and new electro-options, and improved suspension.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.advrider.com/wp-content/uploads/2024/11/P90579160_highRes-1-scaled.jpg\" style=\"width: 100%;\" /><div>The 2025 BMW F900 XR comes in three new colors, with some new bodywork and new electro-options, and improved suspension.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.advrider.com/2025-bmw-f900-xr-specs-and-pics/"
-            }
-        ],
-        "link": "https://www.advrider.com/2025-bmw-f900-xr-specs-and-pics/",
-        "id": "4ca883bead2f227ab4baccac42e53498",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "ADVrider Staff"
-            }
-        ],
-        "author": "ADVrider Staff",
-        "author_detail": {
-            "name": "ADVrider Staff"
-        },
-        "published": "Fri, 22 Nov 2024 05:18:31 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            5,
-            18,
+            52,
             31,
             4,
             327,
@@ -1180,170 +1343,9 @@
         "media_content": [
             {
                 "medium": "image",
-                "url": "https://www.advrider.com/wp-content/uploads/2024/11/P90579160_highRes-1-scaled.jpg"
+                "url": "https://www.roadracingworld.com/wp-content/uploads/2024/11/P90579157_highRes_1732286847.jpg"
             }
         ],
-        "generated_summary": "BMW has unveiled the 2025 F900 XR, featuring significant upgrades for enhanced safety and comfort. Key improvements include cornering-sensitive traction control, ABS, and an adaptive headlight that improves visibility at night. The bike also boasts a new, fully adjustable suspension system tailored to various riding styles and terrains. Engine specifications remain robust, with an 895cc capacity delivering 105 hp at 8,500 rpm and 68.6 ft-lbs of torque at 6,500 rpm. The F900 XR includes a wide array of accessories, such as an Akrapovic exhaust. Overall, the updates aim to make the F900 XR a more responsive and safer adventure motorcycle."
-    },
-    {
-        "title": "Tesla\u2019s path in China clears as Musk courts both Trump and Xi",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Tesla\u2019s path in China clears as Musk courts both Trump and Xi"
-        },
-        "summary": "<div><img src=\"https://i.guim.co.uk/img/media/43a58b7c3a2e60f5239676068418a603a69c7c86/0_0_2500_1500/master/2500.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;s=ba3d3cce129f0f93815a1bdd13c82233\" style=\"width: 100%;\" /><div>Billionaire CEO is well connected in the US and China, something that could smooth the road ahead for the electric vehicle maker amid a looming tariff war</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://i.guim.co.uk/img/media/43a58b7c3a2e60f5239676068418a603a69c7c86/0_0_2500_1500/master/2500.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;s=ba3d3cce129f0f93815a1bdd13c82233\" style=\"width: 100%;\" /><div>Billionaire CEO is well connected in the US and China, something that could smooth the road ahead for the electric vehicle maker amid a looming tariff war</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.theguardian.com/technology/2024/nov/22/elon-musk-tesla-china-us-relationship-trump-xi-jinping"
-            }
-        ],
-        "link": "https://www.theguardian.com/technology/2024/nov/22/elon-musk-tesla-china-us-relationship-trump-xi-jinping",
-        "id": "bffb601aa15a54f23c435262fce380d9",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Amy Hawkins"
-            }
-        ],
-        "author": "Amy Hawkins",
-        "author_detail": {
-            "name": "Amy Hawkins"
-        },
-        "published": "Fri, 22 Nov 2024 00:27:22 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            0,
-            27,
-            22,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://i.guim.co.uk/img/media/43a58b7c3a2e60f5239676068418a603a69c7c86/0_0_2500_1500/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=ba3d3cce129f0f93815a1bdd13c82233"
-            }
-        ],
-        "generated_summary": "Elon Musk's connections with both Donald Trump and Xi Jinping are crucial for Tesla's future in China amid escalating US-China trade tensions. Musk, who has endorsed Trump and donated significantly to his re-election campaign, has been appointed to lead a new advisory body under Trump's administration. His close ties with Chinese leaders, including a strong relationship with Premier Li Qiang and President Xi Jinping, have facilitated Tesla's significant investments in China, including a major factory in Shanghai. This factory, which benefits from favorable loans and tax rates, is pivotal for Tesla as it aligns with China's economic priorities in high-tech industries. Musk's influence may help mitigate the impact of Trump's proposed tariffs on Chinese imports, which could otherwise harm Tesla's operations. Analysts suggest Musk could negotiate exemptions for Tesla, highlighting his strategic importance in the ongoing geopolitical and economic dynamics between the US and China."
-    },
-    {
-        "title": "As EV interest wanes, automakers bet bigger models are the answer",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "As EV interest wanes, automakers bet bigger models are the answer"
-        },
-        "summary": "<div><img src=\"https://images.axios.com/l4B9ex0kJwZwdTwoTPmGStzLzgI=/0x0:1920x1080/1366x768/2024/11/21/1732215305923.jpg\" style=\"width: 100%;\" /><div>Automakers are hoping that the big thing holding people back from buying EVs is that they're not freaking big enough.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://images.axios.com/l4B9ex0kJwZwdTwoTPmGStzLzgI=/0x0:1920x1080/1366x768/2024/11/21/1732215305923.jpg\" style=\"width: 100%;\" /><div>Automakers are hoping that the big thing holding people back from buying EVs is that they're not freaking big enough.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.axios.com/2024/11/21/electric-vehicles-trump-tax-credit"
-            }
-        ],
-        "link": "https://www.axios.com/2024/11/21/electric-vehicles-trump-tax-credit",
-        "id": "ae92a4ee38628159ac6df25134f8e9a7",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Nathan Bomey,Alex Fitzpatrick"
-            }
-        ],
-        "author": "Nathan Bomey,Alex Fitzpatrick",
-        "author_detail": {
-            "name": "Nathan Bomey,Alex Fitzpatrick"
-        },
-        "published": "Thu, 21 Nov 2024 22:24:51 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            21,
-            22,
-            24,
-            51,
-            3,
-            326,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://images.axios.com/l4B9ex0kJwZwdTwoTPmGStzLzgI=/0x0:1920x1080/1366x768/2024/11/21/1732215305923.jpg"
-            }
-        ]
-    },
-    {
-        "title": "IONIQ 9: hyundai debuts its largest EV model with interiors like a 'furnished lounge'",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "IONIQ 9: hyundai debuts its largest EV model with interiors like a 'furnished lounge'"
-        },
-        "summary": "<div><img src=\"https://www.designboom.com/twitterimages/uploads/2024/11/hyundai-ioniq-9-unveiling-interview-los-angeles-auto-week-2024-designboom-FB.jpg\" style=\"width: 100%;\" /></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.designboom.com/twitterimages/uploads/2024/11/hyundai-ioniq-9-unveiling-interview-los-angeles-auto-week-2024-designboom-FB.jpg\" style=\"width: 100%;\" /></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.designboom.com/technology/ioniq-9-hyundai-electric-suv-interview-simon-loasby-11-21-2024/"
-            }
-        ],
-        "link": "https://www.designboom.com/technology/ioniq-9-hyundai-electric-suv-interview-simon-loasby-11-21-2024/",
-        "id": "91cc787b1767d6be99e4c6718cd25dad",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "kat barandy I designboom"
-            }
-        ],
-        "author": "kat barandy I designboom",
-        "author_detail": {
-            "name": "kat barandy I designboom"
-        },
-        "published": "Thu, 21 Nov 2024 21:15:43 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            21,
-            21,
-            15,
-            43,
-            3,
-            326,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.designboom.com/twitterimages/uploads/2024/11/hyundai-ioniq-9-unveiling-interview-los-angeles-auto-week-2024-designboom-FB.jpg"
-            }
-        ],
-        "generated_summary": "Hyundai has unveiled its largest electric vehicle (EV) model, the IONIQ 9 Electric SUV, at the Goldstein House in Los Angeles. This three-row SUV, part of Hyundai's IONIQ lineup, features a spacious interior designed to resemble a 'furnished lounge,' accommodating up to seven passengers with 'Relaxation Seats' and a unique Universal Island 2.0 console. The IONIQ 9 emphasizes passenger comfort and social interaction with swiveling second-row seats. Its exterior showcases Hyundai's 'Aerosthetic' design language, offering a sleek, aerodynamic look with customizable color options. The SUV is powered by a 110.3 kWh lithium-ion battery, providing an estimated range of 620 kilometers (385 miles) and supporting 800V ultra-fast charging, reaching 80% charge in 24 minutes. Hyundai also highlights sustainability, using eco-friendly materials in the interior. The IONIQ 9 is set to hit the roads in 2025."
+        "generated_summary": "BMW Motorrad USA has unveiled the updated 2025 F 900 R and F 900 XR motorcycles, featuring significant technical and visual enhancements. The new models include an extended range of standard equipment, such as fully adjustable upside-down forks, lighter wheels, and a weight reduction of 6.6 lbs. Both bikes are equipped with a 105 hp 895 cc two-cylinder engine meeting Euro 5+ standards, and they now come with \"Dynamic\" riding mode and Dynamic Traction Control (DTC) as standard for improved safety and handling. The F 900 R is designed for sporty riding, while the F 900 XR is suited for both winding roads and longer tours with luggage. Additional features include BMW Motorrad ABS Pro for safer braking in corners, Dynamic Brake Control, and a lighter battery. The F 900 XR also boasts Headlight Pro with adaptive headlight technology for enhanced nighttime visibility. New ergonomic adjustments offer a sportier riding position for the F 900 R and improved aerodynamics for the F 900 XR. The models also come with the Ultimate Care Break-In Service as standard, adding to the premium customer experience."
     }
 ]
