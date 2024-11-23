@@ -4,7 +4,7 @@ from modules.rss_feed_parser import get_news
 from utils.json_utils import read_json_file
 
 
-def main():
+def get_news_page():
     st.title("RSS Feed Reader")
     st.write("Enter an RSS feed URL below to fetch the latest news.")
 
@@ -35,5 +35,4 @@ def main():
             st.warning("Please enter a valid RSS feed URL.")
 
 
-if __name__ == "__main__":
-    main()
+get_news_page()

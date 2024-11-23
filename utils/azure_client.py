@@ -20,4 +20,4 @@ class AzureOpenAIClient:
         if "gpt" in self.endpoint:
             return response.json()["choices"][0]["message"]["content"]
         else:
-            return json.loads(response.content.decode('utf-8'))["data"][0]["url"]
+            return json.loads(response.content.decode("utf-8"))["data"][0]["url"]

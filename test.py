@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 from modules.article_writer import generate_article
 from modules.news_summarizer import summarize_news
 from modules.rss_feed_parser import get_news
-from modules.relevance_analyzer import filter_relevant_articles
+from modules.filter_EV_articles import filter_ev_articles
 from utils.azure_client import AzureOpenAIClient
 from utils.json_utils import read_json_file
 from modules.image_generator import generate_article_images
@@ -27,12 +27,14 @@ dalle = AzureOpenAIClient(endpoint=os.getenv("AZURE_OPENAI_DALLE_ENDPOINT"), api
 # summaries = summarize_news(news_list, gpt)
 
 # Write article
-relevant_articles = read_json_file("data/news.json")[1:3]
+relevant_articles = filter_ev_articles(read_json_file("data/news.json"), gpt)
+# print(len(relevant_articles))
+
 article = generate_article(relevant_articles, gpt)
 print(article)
 
 # Generate image
-image = generate_article_images(article, dalle)
-print(image)
+# image = generate_article_images(article, dalle)
+# print(image)
 # with open('output_image.png', 'wb') as file:
 #     file.write(image)

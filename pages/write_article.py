@@ -50,7 +50,7 @@ def generate_article_page():
                 generated_article = generate_article(selected_content, gpt)
                 image_data = generate_article_images(generated_article, dalle)
                 st.subheader("Generated Article")
-                st.image(image_data, width=300)
+                # st.image(image_data, width=300)
                 st.write(generated_article)
             except Exception as e:
                 st.error(f"An error occurred: {e}")
@@ -58,6 +58,4 @@ def generate_article_page():
             st.warning("Please select at least one article to generate an article.")
 
 
-# Run the page function
-if __name__ == "__main__":
-    generate_article_page()
+generate_article_page()

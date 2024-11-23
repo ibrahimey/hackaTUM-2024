@@ -14,6 +14,10 @@ Content:
 {content}
 """
 
+FILTER_EV_PROMPT = """
+You are a text classifier. Your task is to classify articles as related or unrelated to Electric Vehicles. 
+You must only respond with '1' (related) or '0' (not related). No additional explanations or comments.
+"""
 
 GENERATE_ARTICLE_PROMPT = """
 You are an experienced journalist. Your task is to write a well-structured, engaging, and informative news article based on the provided summaries of recent events. 
@@ -31,11 +35,6 @@ Input information:
 {content}
 
 Please ensure the article is clear, cohesive, and professional. Avoid copying the summaries verbatim; instead, synthesize the information into a unique and unified narrative.
-"""
-
-FILTER_EV_PROMPT = """
-You are a text classifier. Your task is to classify articles as related or unrelated to Electric Vehicles. 
-You must only respond with '1' (related) or '0' (not related). No additional explanations or comments.
 """
 
 GENERATE_ARTICLE_IMAGE_PROMPT = """

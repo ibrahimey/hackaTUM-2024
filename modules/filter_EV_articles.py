@@ -11,6 +11,8 @@ def filter_ev_articles(relevant_articles, llm: AzureOpenAIClient):
 
     for article in relevant_articles:
         # Format the input for the prompt
+        if "generated_summary" not in article:
+            continue
         content = f"\nTitle: {article['title']}\nSummary: {article['generated_summary']}\n"
         payload = {
             "messages": [
