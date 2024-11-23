@@ -1,6 +1,7 @@
 import streamlit as st
-from utils.modules import get_news
+
 from utils.json_utils import read_json_file
+from utils.modules import get_news
 
 
 def main():
@@ -23,8 +24,8 @@ def main():
                 if news_items:
                     st.success(f"Fetched {len(news_items)} news items!")
                     for news in news_items:
-                        st.write(news['title'])
-                        st.write(news['link'])
+                        st.write(news["title"])
+                        st.write(news["link"])
                         st.write("---")
                 else:
                     st.warning("No news items found in the file.")
