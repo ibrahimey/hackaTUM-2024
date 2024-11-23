@@ -17,4 +17,4 @@ def get_news(source_url: str, output_file_path: Union[str, Path]):
     if feed.status == 200:
         write_json_file(output_file_path, feed.entries)
     else:
-        print("Failed to get RSS feed. Status code: ", feed.status)  # TODO: return an error
+        print(f"Failed to get RSS feed. Status code: {feed.status}", feed.status)

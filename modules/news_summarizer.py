@@ -2,7 +2,7 @@ import requests
 
 from bs4 import BeautifulSoup
 
-from .prompts import NEWS_SUMMARY_PROMPT
+from .prompts import SUMMARIZE_NEWS_PROMPT
 
 from utils.azure_client import AzureOpenAIClient
 from utils.json_utils import write_json_file
@@ -26,18 +26,30 @@ def fetch_webpage_content(url: str):
         text = " ".join(soup.stripped_strings)
         return text
     else:
-        print("Failed to retrieve content. Status code: ", response.status_code)  # TODO: return an error
+        print(f"Failed to retrieve content. Status code: {response.status_code}")
 
 
 def summarize_news(news_list: list, llm: AzureOpenAIClient):
-    summarized_news = []
     for i, news in enumerate(news_list):
         try:
-            text = fetch_webpage_content(news["link"])
-            summary = llm(NEWS_SUMMARY_PROMPT + text)
-            summarized_news.append(summary)
+            content = fetch_webpage_content(news["link"])
+            payload = {
+                "messages": [
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "text",
+                                "text": SUMMARIZE_NEWS_PROMPT.format(content=content),
+                            },
+                        ],
+                    },
+                ],
+                "temperature": 0.4,
+                "top_p": 0.95,
+            }
+            summary = llm.send_request(payload)
             news_list[i]["generated_summary"] = summary
         except Exception as e:
-            print(f"Error summarizing news item {i + 1}: {e}")  # TODO: return an error
-    write_json_file("./data/news.json", news_list)
-    return summarized_news
+            print(f"Error summarizing news item {i + 1}: {e}")
+    return news_list

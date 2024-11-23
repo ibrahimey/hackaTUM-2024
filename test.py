@@ -1,26 +1,38 @@
+import os
+
+from dotenv import load_dotenv
+
 from modules.article_writer import generate_article
 from modules.news_summarizer import summarize_news
 from modules.rss_feed_parser import get_news
+from modules.relevance_analyzer import filter_relevant_articles
 from utils.azure_client import AzureOpenAIClient
 from utils.json_utils import read_json_file
+from modules.image_generator import generate_article_images
 
 
-llm = AzureOpenAIClient(temperature=0.6, top_p=0.95)
+load_dotenv()
 
-rss_feeds = []
+gpt = AzureOpenAIClient(endpoint=os.getenv("AZURE_OPENAI_GPT_ENDPOINT"), api_key=os.getenv("AZURE_OPENAI_API_KEY"))
+dalle = AzureOpenAIClient(endpoint=os.getenv("AZURE_OPENAI_DALLE_ENDPOINT"), api_key=os.getenv("AZURE_OPENAI_API_KEY"))
+
 # Parse sources
-get_news(
-    source_url="https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-    output_file_path="./data/news.json",
-)
-
-news_list = read_json_file("data/news.json")
+# get_news(
+#     source_url="https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+#     output_file_path="./data/news.json",
+# )
 
 # Discover topics
-summaries = summarize_news(news_list, llm)
+# news_list = read_json_file("data/news.json")
+# summaries = summarize_news(news_list, gpt)
 
 # Write article
-# article = generate_article(relevant_articles, llm)
+relevant_articles = read_json_file("data/news.json")[1:3]
+article = generate_article(relevant_articles, gpt)
+print(article)
 
 # Generate image
-# image = generate_article_image(article, llm)
+image = generate_article_images(article, dalle)
+print(image)
+# with open('output_image.png', 'wb') as file:
+#     file.write(image)
