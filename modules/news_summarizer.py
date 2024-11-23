@@ -2,7 +2,7 @@ import requests
 
 from bs4 import BeautifulSoup
 
-from prompts import NEWS_SUMMARY_PROMPT
+from .prompts import NEWS_SUMMARY_PROMPT
 
 from utils.azure_client import AzureOpenAIClient
 from utils.json_utils import write_json_file

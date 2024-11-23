@@ -1,9 +1,9 @@
-from prompts import GENERATE_ARTICLE_PROMPT
+from .prompts import GENERATE_ARTICLE_PROMPT
 
-from utils.azure_client import AzureChatOpenAI
+from utils.azure_client import AzureOpenAIClient
 
 
-def generate_article(relevant_articles, llm: AzureChatOpenAI):
+def generate_article(relevant_articles, llm: AzureOpenAIClient):
     combined_content = "\n".join(
         [
             f"Title: {article['title']}\nSummary: {article['generated_summary']}"
