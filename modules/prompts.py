@@ -33,6 +33,11 @@ Input information:
 Please ensure the article is clear, cohesive, and professional. Avoid copying the summaries verbatim; instead, synthesize the information into a unique and unified narrative.
 """
 
+FILTER_EV_PROMPT = """
+You are a text classifier. Your task is to classify articles as related or unrelated to Electric Vehicles. 
+You must only respond with '1' (related) or '0' (not related). No additional explanations or comments.
+"""
+
 GENERATE_ARTICLE_IMAGE_PROMPT = """
 You are a creative assistant tasked with generating an image to visually represent the following article. The image should be relevant to the article's content, capturing its key theme, tone, and context. 
 
