@@ -1,16 +1,57 @@
 from moviepy.editor import *
 import os
+import time
+from datetime import datetime
+import requests
 from gtts import gTTS
 from PIL import Image
+import nltk
+from nltk.tokenize import sent_tokenize
 
-from .prompts import CREATE_SCRIPT_PROMPT
+from .prompts import CREATE_SCRIPT_PROMPT, GENERATE_ARTICLE_IMAGE_PROMPT
 from utils.azure_client import AzureOpenAIClient
 
+nltk.download('punkt_tab')
+
+def generate_tiktok_image(article: str, llm: AzureOpenAIClient):
+    payload = {
+        "prompt": GENERATE_ARTICLE_IMAGE_PROMPT.format(article=article),
+        "n": 1,
+        "size": "1024x1792",
+    }
+    return llm.send_request(payload)
+
+def generate_images(article, llm):
+    urls = []
+    for i in range(3):
+        url = generate_tiktok_image(article, llm)
+        urls.append(url)
+        time.sleep(10)
+
+    return urls
+
 def create_script(article, llm: AzureOpenAIClient):
-    script = llm(CREATE_SCRIPT_PROMPT.format(content=article)).split('\n')
+    payload = {
+        "messages": [
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": CREATE_SCRIPT_PROMPT.format(content=article),
+                    },
+                ],
+            },
+        ],
+        "temperature": 0.4,
+        "top_p": 0.95,
+    }
+    script = sent_tokenize(llm.send_request(payload))
     return script
 
-def create_tiktok(script, images, output_path="data/export/video.mp4"):
+def create_tiktok(article, llm, dalle, output_path=f"data/export/video{datetime.now().strftime('%Y%m%d%H%M%S')}.mp4"):
+    script = create_script(article=article, llm=llm)
+
     os.makedirs("data/audio", exist_ok=True)
     for i, text in enumerate(script):
         tts = gTTS(text=text, lang='en')
@@ -19,9 +60,8 @@ def create_tiktok(script, images, output_path="data/export/video.mp4"):
     os.makedirs("data/processed_images", exist_ok=True)
     target_resolution = (720, 1280)  # Mobile-friendly vertical resolution
 
-    # TODO: use image urls
-    for image_file in os.listdir("data/images"):
-        img = Image.open(f"data/images/{image_file}")
+    for i, image_url in enumerate(generate_images(script, dalle)):
+        img = Image.open(requests.get(image_url, stream=True).raw)
         img_ratio = img.width / img.height
         target_ratio = target_resolution[0] / target_resolution[1]
 
@@ -45,7 +85,7 @@ def create_tiktok(script, images, output_path="data/export/video.mp4"):
         final_img.paste(resized_img, (paste_x, paste_y))
 
         # Save the processed image
-        final_img.save(f"data/processed_images/{image_file}")
+        final_img.save(f"data/processed_images/{i}.png")
 
     audio_clips = []
     image_clips = []
@@ -59,8 +99,8 @@ def create_tiktok(script, images, output_path="data/export/video.mp4"):
         length += audio_clip.duration + 0.5
         start_times.append(length)
 
-    for i, image_file in enumerate(sorted(os.listdir("data/processed_images"))):
-        clip = ImageClip(f"data/processed_images/{image_file}", duration=audio_clips[i].duration).set_start(start_times[i])
+    for i, image in enumerate(sorted(os.listdir("data/processed_images"))):
+        clip = ImageClip(f"data/processed_images/{image}", duration=audio_clips[i].duration).set_start(start_times[i])
         image_clips.append(clip)
 
     videoImages = CompositeVideoClip(image_clips)
@@ -70,3 +110,5 @@ def create_tiktok(script, images, output_path="data/export/video.mp4"):
 
     os.makedirs("data/export", exist_ok=True)
     videoImages.write_videofile(output_path, fps=1)
+
+    return output_path
