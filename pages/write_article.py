@@ -4,8 +4,8 @@ import streamlit as st
 
 from dotenv import load_dotenv
 
-from modules.article_writer import generate_article
-from modules.image_generator import generate_article_images
+from modules.generator import generate_article
+from modules.generator import generate_article_image
 from utils.azure_client import AzureOpenAIClient
 from utils.json_utils import read_json_file
 
@@ -51,7 +51,7 @@ def generate_article_page():
                 generated_article = generate_article(selected_content, gpt)
                 st.subheader("Generated Article")
                 try:
-                    image_data = generate_article_images(generated_article, dalle)
+                    image_data = generate_article_image(generated_article, dalle)
                     st.image(image_data, width=300)
                 except Exception:
                     print("error")

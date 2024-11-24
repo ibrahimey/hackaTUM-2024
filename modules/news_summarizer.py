@@ -1,11 +1,28 @@
+import feedparser
 import requests
 
 from bs4 import BeautifulSoup
+from pathlib import Path
+from typing import Union
 
-from .prompts import SUMMARIZE_NEWS_PROMPT
+from .prompts import FILTER_EV_PROMPT, SUMMARIZE_NEWS_PROMPT
 
 from utils.azure_client import AzureOpenAIClient
 from utils.json_utils import write_json_file
+
+
+def get_news(source_url: str, output_file_path: Union[str, Path]):
+    """
+    Fetches news from a specified RSS feed URL and saves the entries to a destination file.
+
+    :param source_url: RSS feed URL to get the news
+    :param output_file_path: Path to save the retrieved feed entries
+    """
+    feed = feedparser.parse(source_url)
+    if feed.status == 200:
+        write_json_file(output_file_path, feed.entries)
+    else:
+        print(f"Failed to get RSS feed. Status code: {feed.status}", feed.status)
 
 
 def fetch_webpage_content(url: str):
@@ -53,3 +70,37 @@ def summarize_news(news_list: list, llm: AzureOpenAIClient):
         except Exception as e:
             print(f"Error summarizing news item {i + 1}: {e}")
     return news_list
+
+def filter_ev_articles(relevant_articles, llm: AzureOpenAIClient):
+    """
+    Filters articles to keep only those relevant to electric vehicles.
+    """
+    filtered_articles = []
+
+    for article in relevant_articles:
+        # Format the input for the prompt
+        if "generated_summary" not in article:
+            continue
+        content = f"\nTitle: {article['title']}\nSummary: {article['generated_summary']}\n"
+        payload = {
+            "messages": [
+                {
+                    "role": "system",
+                    "content": FILTER_EV_PROMPT,
+                },
+                {
+                    "role": "user",
+                    "content": content,
+                },
+            ],
+            "temperature": 0.4,
+            "top_p": 0.95,
+        }
+        # Use the language model to assess relevance
+        response = llm.send_request(payload)
+
+        # Parse the response to check if it's '1' (relevant)
+        if response == "1":
+            filtered_articles.append(article)
+
+    return filtered_articles

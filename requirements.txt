@@ -1,9 +1,8 @@
-streamlit
-requests
-feedparser
-python-dotenv
 beautifulsoup4
-langchain_openai
-moviepy==1.0.3
+feedparser
 gtts
+moviepy==1.0.3
 nltk
+python-dotenv
+requests
+streamlit

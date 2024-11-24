@@ -3,7 +3,7 @@ import streamlit as st
 
 from dotenv import load_dotenv
 
-from modules.tiktok_creator import create_tiktok
+from modules.generator import generate_video
 from utils.azure_client import AzureOpenAIClient
 
 load_dotenv()
@@ -40,7 +40,7 @@ def create_video_page():
         if article_content.strip():
             try:
                 # Call the create_video function with the provided article text
-                video_path = create_tiktok(article_content, llm=gpt, dalle=dalle)
+                video_path = generate_video(article_content, llm=gpt, dalle=dalle)
 
                 # Display success message
                 st.success("Video created successfully!")

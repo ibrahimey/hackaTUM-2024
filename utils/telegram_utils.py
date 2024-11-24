@@ -1,5 +1,6 @@
-import os
 import requests
+import os
+
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -21,7 +22,7 @@ def telegram_command(name, data=None, files=None):
     Returns:
         Response object from the requests.post call.
     """
-    TELEGRAM_ACCESS_TOKEN = os.getenv('TELEGRAM_ACCESS_TOKEN')
+    TELEGRAM_ACCESS_TOKEN = os.getenv("TELEGRAM_ACCESS_TOKEN")
     url = api_url(token=TELEGRAM_ACCESS_TOKEN, method=name)
 
     if files:
@@ -31,12 +32,14 @@ def telegram_command(name, data=None, files=None):
 
     # Error handling: check if the request was successful
     if response.status_code != 200:
-        raise Exception(f"Failed to send request: {response.status_code}, {response.text}")
+        raise Exception(
+            f"Failed to send request: {response.status_code}, {response.text}"
+        )
 
     return response.json()
 
 
-def telegram_sendMessage(text: str, chat_id: str, notify=False):
+def telegram_send_message(text: str, chat_id: str, notify=False):
     """
     Sends a message to a Telegram chat.
 
@@ -53,15 +56,20 @@ def telegram_sendMessage(text: str, chat_id: str, notify=False):
         print("No text provided. Skipping message post.")
         return
 
-    return telegram_command('sendMessage', {
-        'text': text,
-        'chat_id': chat_id,
-        'parse_mode': 'markdown',  # Optional: Can be 'html' or 'markdown'
-        'disable_notification': not notify  # Send without notification if False
-    })
+    return telegram_command(
+        "sendMessage",
+        {
+            "text": text,
+            "chat_id": chat_id,
+            "parse_mode": "markdown",  # Optional: Can be 'html' or 'markdown'
+            "disable_notification": not notify,  # Send without notification if False
+        },
+    )
 
 
-def telegram_sendVideo(video_path: str, chat_id: str, caption: str = None, notify=False):
+def telegram_send_video(
+    video_path: str, chat_id: str, caption: str = None, notify=False
+):
     """
     Sends a video to a Telegram chat.
 
@@ -84,14 +92,13 @@ def telegram_sendVideo(video_path: str, chat_id: str, caption: str = None, notif
         print("No caption provided. Skipping video post.")
         return
 
-    with open(video_path, 'rb') as video_file:
+    with open(video_path, "rb") as video_file:
         return telegram_command(
-            'sendVideo',
+            "sendVideo",
             data={
-                'chat_id': chat_id,
-                'caption': caption,
-                'disable_notification': not notify
+                "chat_id": chat_id,
+                "caption": caption,
+                "disable_notification": not notify,
             },
-            files={'video': video_file}
+            files={"video": video_file},
         )
-

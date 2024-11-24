@@ -1,27 +1,54 @@
-from moviepy.editor import *
-import os
-import time
-from datetime import datetime
-import requests
-from gtts import gTTS
-from PIL import Image
 import nltk
-from nltk.tokenize import sent_tokenize
+import os
+import requests
+import time
 
-from .prompts import CREATE_SCRIPT_PROMPT, GENERATE_ARTICLE_IMAGE_PROMPT
+from datetime import datetime
+from gtts import gTTS
+from moviepy.editor import *
+from nltk.tokenize import sent_tokenize
+from PIL import Image
+
+from .prompts import (
+    CREATE_SCRIPT_PROMPT,
+    GENERATE_ARTICLE_IMAGE_PROMPT,
+    GENERATE_ARTICLE_PROMPT,
+)
+
 from utils.azure_client import AzureOpenAIClient
 
-nltk.download('punkt_tab')
+nltk.download("punkt_tab")
+
+
+def generate_article(relevant_articles: list, llm: AzureOpenAIClient):
+    combined_content = "\n".join(
+        [
+            f"Title: {article['title']}\nSummary: {article.get('generated_summary', article['summary'])}"
+            for article in relevant_articles
+        ]
+    )
+    return llm.send_text_generation_request(
+        GENERATE_ARTICLE_PROMPT.format(content=combined_content)
+    )
+
+
+def generate_article_image(article: str, llm: AzureOpenAIClient):
+    return llm.generate_image(GENERATE_ARTICLE_IMAGE_PROMPT.format(article=article))
+
+
+def create_script(article, llm: AzureOpenAIClient):
+    return sent_tokenize(
+        llm.send_text_generation_request(CREATE_SCRIPT_PROMPT.format(content=article))
+    )
+
 
 def generate_tiktok_image(article: str, llm: AzureOpenAIClient):
-    payload = {
-        "prompt": GENERATE_ARTICLE_IMAGE_PROMPT.format(article=article),
-        "n": 1,
-        "size": "1024x1792",
-    }
-    return llm.send_request(payload)
+    return llm.generate_image(
+        GENERATE_ARTICLE_IMAGE_PROMPT.format(article=article), size="1024x1792"
+    )
 
-def generate_images(article, llm):
+
+def generate_images(article: str, llm: AzureOpenAIClient):
     urls = []
     for i in range(3):
         try:
@@ -33,32 +60,19 @@ def generate_images(article, llm):
 
     return urls
 
-def create_script(article, llm: AzureOpenAIClient):
-    payload = {
-        "messages": [
-            {
-                "role": "user",
-                "content": [
-                    {
-                        "type": "text",
-                        "text": CREATE_SCRIPT_PROMPT.format(content=article),
-                    },
-                ],
-            },
-        ],
-        "temperature": 0.4,
-        "top_p": 0.95,
-    }
-    script = sent_tokenize(llm.send_request(payload))
-    return script
 
-def create_tiktok(article, llm, dalle, output_path=f"data/export/video{datetime.now().strftime('%Y%m%d%H%M%S')}.mp4"):
+def generate_video(
+    article: str,
+    llm: AzureOpenAIClient,
+    dalle: AzureOpenAIClient,
+    output_path=f"data/export/video{datetime.now().strftime('%Y%m%d%H%M%S')}.mp4",
+):
     script = create_script(article=article, llm=llm)
 
     # Generate audio files for each text in the script
     os.makedirs("data/audio", exist_ok=True)
     for i, text in enumerate(script):
-        tts = gTTS(text=text, lang='en')
+        tts = gTTS(text=text, lang="en")
         tts.save(f"data/audio/voiceover{i}.mp3")
 
     # Process images to a mobile-friendly resolution
@@ -105,8 +119,9 @@ def create_tiktok(article, llm, dalle, output_path=f"data/export/video{datetime.
 
     for i, image in enumerate(sorted(os.listdir("data/processed_images"))):
         # Create an ImageClip
-        image_clip = ImageClip(f"data/processed_images/{image}", duration=audio_clips[i].duration).set_start(
-            start_times[i])
+        image_clip = ImageClip(
+            f"data/processed_images/{image}", duration=audio_clips[i].duration
+        ).set_start(start_times[i])
         image_clips.append(image_clip)
 
     # Combine all image clips

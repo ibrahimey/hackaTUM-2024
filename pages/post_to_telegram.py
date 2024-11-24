@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from utils.telegram_utils import telegram_sendMessage, telegram_sendVideo
+from utils.telegram_utils import telegram_send_message, telegram_send_video
 
 # Constants
 CHAT_ID = "@Lobsterinna"  # Replace with your channel name or chat ID
@@ -35,7 +35,7 @@ def post_to_telegram():
                 st.text_area("Article Content:", article_content, height=200)
 
                 if st.button("Post Article"):
-                    response = telegram_sendMessage(text=article_content, chat_id=CHAT_ID)
+                    response = telegram_send_message(text=article_content, chat_id=CHAT_ID)
                     st.success(f"Article posted successfully!")
 
     elif selection == "Post a Video":
@@ -56,7 +56,7 @@ def post_to_telegram():
                 caption = st.text_input("Enter a caption for the video:")
 
                 if st.button("Post Video"):
-                    response = telegram_sendVideo(video_path=video_path, chat_id=CHAT_ID, caption=caption)
+                    response = telegram_send_video(video_path=video_path, chat_id=CHAT_ID, caption=caption)
                     st.success(f"Video posted successfully!")
 
 
