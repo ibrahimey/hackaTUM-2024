@@ -36,7 +36,9 @@ def append_json_file(file_path: Union[str, Path], data: dict) -> None:
     """
     if os.path.exists(file_path) and os.path.getsize(file_path) > 0:
         current_list = read_json_file(file_path)
-        current_list.append(data)
+        # current_list.extend(data)
+        data.extend(current_list)
+        current_list = data
     else:
         current_list = data
     write_json_file(file_path, current_list)
