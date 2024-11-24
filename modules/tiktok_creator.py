@@ -24,9 +24,12 @@ def generate_tiktok_image(article: str, llm: AzureOpenAIClient):
 def generate_images(article, llm):
     urls = []
     for i in range(3):
-        url = generate_tiktok_image(article, llm)
+        try:
+            url = generate_tiktok_image(article, llm)
+        except Exception as e:
+            url = i
         urls.append(url)
-        time.sleep(10)
+        time.sleep(5)
 
     return urls
 
@@ -52,26 +55,29 @@ def create_script(article, llm: AzureOpenAIClient):
 def create_tiktok(article, llm, dalle, output_path=f"data/export/video{datetime.now().strftime('%Y%m%d%H%M%S')}.mp4"):
     script = create_script(article=article, llm=llm)
 
+    # Generate audio files for each text in the script
     os.makedirs("data/audio", exist_ok=True)
     for i, text in enumerate(script):
         tts = gTTS(text=text, lang='en')
         tts.save(f"data/audio/voiceover{i}.mp3")
 
+    # Process images to a mobile-friendly resolution
     os.makedirs("data/processed_images", exist_ok=True)
     target_resolution = (720, 1280)  # Mobile-friendly vertical resolution
 
     for i, image_url in enumerate(generate_images(script, dalle)):
-        img = Image.open(requests.get(image_url, stream=True).raw)
+        if image_url in range(3):
+            img = Image.open(f"data/backup_images/{image_url}.jpeg")
+        else:
+            img = Image.open(requests.get(image_url, stream=True).raw)
         img_ratio = img.width / img.height
         target_ratio = target_resolution[0] / target_resolution[1]
 
         # Resize while maintaining aspect ratio
         if img_ratio > target_ratio:
-            # Wider image: fit width, crop height
             new_width = target_resolution[0]
             new_height = int(target_resolution[0] / img_ratio)
         else:
-            # Taller image: fit height, crop width
             new_width = int(target_resolution[1] * img_ratio)
             new_height = target_resolution[1]
 
@@ -79,7 +85,6 @@ def create_tiktok(article, llm, dalle, output_path=f"data/export/video{datetime.
 
         # Create a blank image (black background) with target resolution
         final_img = Image.new("RGB", target_resolution, (0, 0, 0))
-        # Paste resized image centered on the blank image
         paste_x = (target_resolution[0] - new_width) // 2
         paste_y = (target_resolution[1] - new_height) // 2
         final_img.paste(resized_img, (paste_x, paste_y))
@@ -90,7 +95,6 @@ def create_tiktok(article, llm, dalle, output_path=f"data/export/video{datetime.
     audio_clips = []
     image_clips = []
     length = -0.5
-
     start_times = [0]
 
     for audio_file in sorted(os.listdir("data/audio")):
@@ -100,15 +104,20 @@ def create_tiktok(article, llm, dalle, output_path=f"data/export/video{datetime.
         start_times.append(length)
 
     for i, image in enumerate(sorted(os.listdir("data/processed_images"))):
-        clip = ImageClip(f"data/processed_images/{image}", duration=audio_clips[i].duration).set_start(start_times[i])
-        image_clips.append(clip)
+        # Create an ImageClip
+        image_clip = ImageClip(f"data/processed_images/{image}", duration=audio_clips[i].duration).set_start(
+            start_times[i])
+        image_clips.append(image_clip)
 
-    videoImages = CompositeVideoClip(image_clips)
-    videoAudio = CompositeAudioClip(audio_clips)
+    # Combine all image clips
+    video_images = CompositeVideoClip(image_clips)
+    video_audio = CompositeAudioClip(audio_clips)
 
-    videoImages.audio = videoAudio
+    # Add audio to the video
+    video_images.audio = video_audio
 
+    # Export the video
     os.makedirs("data/export", exist_ok=True)
-    videoImages.write_videofile(output_path, fps=1)
+    video_images.write_videofile(output_path, fps=2)
 
     return output_path

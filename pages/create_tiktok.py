@@ -22,18 +22,25 @@ def create_video_page():
     st.write("Input an article below and click the button to generate a video.")
 
     # Input field for the article
-    article_text = st.text_area(
-        "Enter your article here",
-        placeholder="Paste or write your article...",
-        height=200
-    )
+    articles = [f for f in os.listdir("data/articles") if f.endswith(".txt")]
+    if not articles:
+        st.warning("No articles found. Please generate articles first.")
+    else:
+        selected_article = st.selectbox("Select an article to post:", ["Select an article"] + articles)
+
+        if selected_article != "Select an article":
+            article_path = os.path.join("data/articles", selected_article)
+            with open(article_path, 'r') as file:
+                article_content = file.read()
+
+            st.text_area("Article Content:", article_content, height=200)
 
     # Button to create video
     if st.button("Create Video"):
-        if article_text.strip():
+        if article_content.strip():
             try:
                 # Call the create_video function with the provided article text
-                video_path = create_tiktok(article_text, llm=gpt, dalle=dalle)
+                video_path = create_tiktok(article_content, llm=gpt, dalle=dalle)
 
                 # Display success message
                 st.success("Video created successfully!")
@@ -47,7 +54,5 @@ def create_video_page():
             st.warning("Please enter an article before generating a video.")
 
 
-# Run the page function
-if __name__ == "__main__":
-    create_video_page()
+create_video_page()
 

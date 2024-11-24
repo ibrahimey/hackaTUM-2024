@@ -57,6 +57,7 @@ def generate_article_page():
                     print("error")
                 st.write(generated_article)
 
+                os.makedirs("data/articles", exist_ok=True)
                 with open(f"data/articles/{datetime.now().strftime('%Y%m%d%H%M%S')}.txt", "w") as file:
                     file.write(generated_article)
 
