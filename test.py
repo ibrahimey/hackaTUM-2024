@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 
 from modules.generator import generate_article
-from modules.news_summarizer import summarize_news
+from modules.news_summarizer import get_news, summarize_news
 from utils.azure_client import AzureOpenAIClient
 from utils.json_utils import read_json_file
 
@@ -14,10 +14,10 @@ gpt = AzureOpenAIClient(endpoint=os.getenv("AZURE_OPENAI_GPT_ENDPOINT"), api_key
 dalle = AzureOpenAIClient(endpoint=os.getenv("AZURE_OPENAI_DALLE_ENDPOINT"), api_key=os.getenv("AZURE_OPENAI_API_KEY"))
 
 # Parse sources
-# get_news(
-#     source_url="https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-#     output_file_path="./data/news.json",
-# )
+get_news(
+    source_url="https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+    output_file_path="./data/news.json",
+)
 
 # Discover topics
 # news_list = read_json_file("data/news.json")

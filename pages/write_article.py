@@ -26,7 +26,7 @@ def generate_article_page():
     st.write("Select articles to generate a new article.")
 
     # Load articles from news.json
-    news_file = "./data/news.json"  # Adjust the path if needed
+    news_file = "./data/news/electric_vehicles.json"  # Adjust the path if needed
     articles = read_json_file(news_file)
 
     if not articles:
@@ -49,6 +49,10 @@ def generate_article_page():
             try:
                 # Call write_article with selected articles
                 generated_article = generate_article(selected_content, gpt)
+                links = []
+                for article in selected_articles:
+                    links.append(article["link"])
+                generate_article = f"\nSources: {links}"
                 st.subheader("Generated Article")
                 try:
                     image_data = generate_article_image(generated_article, dalle)

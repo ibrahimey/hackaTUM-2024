@@ -1,5 +1,707 @@
 [
     {
+        "title": "Drivers causing blinding incidents on UK roads with illegal headlights",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Drivers causing blinding incidents on UK roads with illegal headlights"
+        },
+        "summary": "<div><img src=\"https://i.dailymail.co.uk/1s/2024/11/23/23/92418679-0-image-a-56_1732405675270.jpg\" style=\"width: 100%;\" /><div>Motoring campaigners say the trend to replace worn-out halogen bulbs with LED 'upgrades' may be a key factor in the epidemic of blinding incidents on Britain's roads.</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://i.dailymail.co.uk/1s/2024/11/23/23/92418679-0-image-a-56_1732405675270.jpg\" style=\"width: 100%;\" /><div>Motoring campaigners say the trend to replace worn-out halogen bulbs with LED 'upgrades' may be a key factor in the epidemic of blinding incidents on Britain's roads.</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.dailymail.co.uk/news/article-14118911/UK-drivers-epidemic-blinding-headlights.html"
+            }
+        ],
+        "link": "https://www.dailymail.co.uk/news/article-14118911/UK-drivers-epidemic-blinding-headlights.html",
+        "id": "047e6c348498238b1f76280814a361c7",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Nick Constable"
+            }
+        ],
+        "author": "Nick Constable",
+        "author_detail": {
+            "name": "Nick Constable"
+        },
+        "published": "Sat, 23 Nov 2024 23:50:42 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            23,
+            50,
+            42,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://i.dailymail.co.uk/1s/2024/11/23/23/92418679-0-image-a-56_1732405675270.jpg"
+            }
+        ],
+        "generated_summary": "Research suggests that a growing trend of drivers in the UK illegally fitting super-bright LED headlights into cars not designed for them is contributing to an increase in blinding incidents on the roads. Motoring campaigners and the RAC highlight that these LED 'upgrades' are often replacing older halogen bulbs, causing significant glare and posing a safety risk. A survey found that 91% of drivers have experienced dazzling from headlights, with nearly 7% avoiding night driving due to the issue. The Driver and Vehicle Standards Agency states that LED bulbs can only be legally used if fitted as standard in new cars. The government has been urged to investigate further, as many drivers may be unaware of the illegality and safety implications of these modifications."
+    },
+    {
+        "title": "Who is Patrick Stewart? Everything you need to know about Rangers' new CEO",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Who is Patrick Stewart? Everything you need to know about Rangers' new CEO"
+        },
+        "summary": "<div><img src=\"https://www.rangersreview.co.uk/resources/images/18801899/\" style=\"width: 100%;\" /><div>The former interim CEO at Manchester United is set to land the role at Rangers.</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.rangersreview.co.uk/resources/images/18801899/\" style=\"width: 100%;\" /><div>The former interim CEO at Manchester United is set to land the role at Rangers.</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rangersreview.co.uk/features/24746359.patrick-stewart-rangers-new-ceo-profiled/"
+            }
+        ],
+        "link": "https://www.rangersreview.co.uk/features/24746359.patrick-stewart-rangers-new-ceo-profiled/",
+        "id": "962bdd2483a11d0f272acf88b433353c",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Joshua Barrie"
+            }
+        ],
+        "author": "Joshua Barrie",
+        "author_detail": {
+            "name": "Joshua Barrie"
+        },
+        "published": "Sat, 23 Nov 2024 21:57:43 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            21,
+            57,
+            43,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.rangersreview.co.uk/resources/images/18801899/"
+            }
+        ],
+        "generated_summary": "Patrick Stewart, a former interim CEO at Manchester United, is set to become the new CEO of Rangers FC, succeeding James Bisgrove who left the club in May. Stewart, originally from Aberdeen, has a background in law and has worked with UEFA's marketing agency for the Champions League. At Manchester United, he served as General Counsel and Company Secretary, later becoming an executive and interim CEO. His appointment at Rangers comes amid a period of executive restructuring at the club, with Malcolm Offord also expected to be named as the new Chairman. Stewart's role will involve stabilizing the club's leadership and potentially appointing a sporting director to oversee football operations."
+    },
+    {
+        "title": "Former Manchester United CEO set to land Rangers chief executive role",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Former Manchester United CEO set to land Rangers chief executive role"
+        },
+        "summary": "<div><img src=\"https://www.rangersreview.co.uk/resources/images/18801889/\" style=\"width: 100%;\" /><div>Rangers are expected to name former Manchester United chief Patrick Stewart as their new chief executive officer.</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.rangersreview.co.uk/resources/images/18801889/\" style=\"width: 100%;\" /><div>Rangers are expected to name former Manchester United chief Patrick Stewart as their new chief executive officer.</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.rangersreview.co.uk/news/24746340.former-manchester-united-chief-set-land-rangers-ceo-role/"
+            }
+        ],
+        "link": "https://www.rangersreview.co.uk/news/24746340.former-manchester-united-chief-set-land-rangers-ceo-role/",
+        "id": "b81570472aa023857f60501e8c177e85",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Christopher Jack"
+            }
+        ],
+        "author": "Christopher Jack",
+        "author_detail": {
+            "name": "Christopher Jack"
+        },
+        "published": "Sat, 23 Nov 2024 21:23:05 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            21,
+            23,
+            5,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.rangersreview.co.uk/resources/images/18801889/"
+            }
+        ],
+        "generated_summary": "Former Manchester United executive Patrick Stewart is set to become the new CEO of Rangers FC, succeeding James Bisgrove, who left for a role in Saudi Arabia. Stewart, who served in various roles at Manchester United over 14 years, including interim CEO, will take over day-to-day operations at Rangers. His appointment follows a leadership void after former chairman John Bennett's health-related resignation and an unsuccessful attempt to hire St Mirren's Jim Gillespie. Meanwhile, Malcolm Offord is expected to be named the new chairman. Stewart's extensive experience, including his time at the UEFA Champions League's commercial agency, positions him to lead Rangers through this transitional phase."
+    },
+    {
+        "title": "Tonight\u2019s \u00a37.4million winning National Lottery numbers drawn",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Tonight\u2019s \u00a37.4million winning National Lottery numbers drawn"
+        },
+        "summary": "<div><img src=\"https://www.echo-news.co.uk/resources/images/18801805/\" style=\"width: 100%;\" /><div>Here are tonight\u2019s (November 23, 2024) National Lottery\u00a0Lotto\u00a0winning numbers</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.echo-news.co.uk/resources/images/18801805/\" style=\"width: 100%;\" /><div>Here are tonight\u2019s (November 23, 2024) National Lottery\u00a0Lotto\u00a0winning numbers</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.echo-news.co.uk/news/24746300.national-lottery-lotto-numbers-saturday-november-23-2024/"
+            }
+        ],
+        "link": "https://www.echo-news.co.uk/news/24746300.national-lottery-lotto-numbers-saturday-november-23-2024/",
+        "id": "12ada32051cecbd85a3b17e6e219f878",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Jessica Day-Parker"
+            }
+        ],
+        "author": "Jessica Day-Parker",
+        "author_detail": {
+            "name": "Jessica Day-Parker"
+        },
+        "published": "Sat, 23 Nov 2024 20:20:00 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            20,
+            20,
+            0,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.echo-news.co.uk/resources/images/18801805/"
+            }
+        ],
+        "generated_summary": "The main topic of the article is the announcement of the National Lottery Lotto and Thunderball winning numbers for Saturday, November 23, 2024. The Lotto numbers drawn are 33, 08, 44, 03, 13, and 39, with a Bonus Ball of 56, and an estimated jackpot of \u00a37.4 million. The Thunderball numbers are 37, 39, 05, 17, and 27, with a Thunderball of 13. The article encourages community engagement through comments and highlights the importance of supporting local businesses through advertising."
+    },
+    {
+        "title": "Survey reveals number of EV chargers in Fife as network continues to\u00a0grow",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Survey reveals number of EV chargers in Fife as network continues to\u00a0grow"
+        },
+        "summary": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.fifetoday.co.uk/news/transport/survey-reveals-number-of-ev-chargers-in-fife-as-network-continues-to-grow-4880309"
+            }
+        ],
+        "link": "https://www.fifetoday.co.uk/news/transport/survey-reveals-number-of-ev-chargers-in-fife-as-network-continues-to-grow-4880309",
+        "id": "775e455cc9eac8a1a23ec75fe57c21f2",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Allan Crow"
+            }
+        ],
+        "author": "Allan Crow",
+        "author_detail": {
+            "name": "Allan Crow"
+        },
+        "published": "Sat, 23 Nov 2024 17:41:18 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            17,
+            41,
+            18,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.fifetoday.co.uk/webimg/b25lY21zOmQ2NWIyY2E1LWJmMTQtNDcxNi1hMzdmLTM2OTdlOTE0ZjkxYTo1NDFlMDJmNy0yN2VjLTRiY2QtYjkxZC02NWJiMTY2NmUyNzI=.jpg?width=640&auto=webp&quality=75&crop=3:2,smart&trim="
+            }
+        ],
+        "generated_summary": "A recent survey highlights a significant increase in the number of public electric vehicle (EV) chargers in Fife, with a 36% rise over the past year, bringing the total to 226 chargers as of July. This growth is part of a broader effort to expand EV infrastructure across the UK, aiming to meet the government's target of 300,000 public chargers by 2030. Despite this progress, the RAC has raised concerns about the uneven distribution of chargers, noting disparities in accessibility across different regions. Fife currently has 61 public chargers per 100,000 people, with 45 being rapid chargers. The Department for Transport emphasizes its commitment to accelerating the rollout to ensure widespread access and encourage the transition to zero-emission vehicles."
+    },
+    {
+        "title": "AA warns drivers to do quick 5 step routine to de-frost car",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "AA warns drivers to do quick 5 step routine to de-frost car"
+        },
+        "summary": "<div><img src=\"https://i2-prod.bristolpost.co.uk/incoming/article9733941.ece/ALTERNATES/s1200/0_GettyImages-2168574129.jpg\" style=\"width: 100%;\" /><div>Drivers are being warned to not drive off until they have completed these five steps</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://i2-prod.bristolpost.co.uk/incoming/article9733941.ece/ALTERNATES/s1200/0_GettyImages-2168574129.jpg\" style=\"width: 100%;\" /><div>Drivers are being warned to not drive off until they have completed these five steps</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.devonlive.com/news/uk-world-news/aa-warns-drivers-quick-5-9734322"
+            }
+        ],
+        "link": "https://www.devonlive.com/news/uk-world-news/aa-warns-drivers-quick-5-9734322",
+        "id": "6601e15d240ec13b6c9f3fc83e5f7285",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Sophie Buchan"
+            }
+        ],
+        "author": "Sophie Buchan",
+        "author_detail": {
+            "name": "Sophie Buchan"
+        },
+        "published": "Sat, 23 Nov 2024 16:48:33 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            16,
+            48,
+            33,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://i2-prod.bristolpost.co.uk/incoming/article9733941.ece/ALTERNATES/s1200/0_GettyImages-2168574129.jpg"
+            }
+        ],
+        "generated_summary": "The AA has issued a warning to drivers against using online hacks for de-frosting car windscreens, which can potentially damage vehicles. Instead, they recommend a safe five-step routine: ensure wipers are not frozen, start the engine with warm air directed at the windscreen, remove all snow from the vehicle, use a scraper and de-icer on the outside while the interior warms up, and only drive once the glass is clear. This advice comes in response to ineffective and potentially harmful hacks, such as using hot water, which can crack the glass, or rubbing potatoes on windows, which can cause smearing."
+    },
+    {
+        "title": "Electric cars less likely to breakdown than petrol and diesel models, new report finds",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Electric cars less likely to breakdown than petrol and diesel models, new report finds"
+        },
+        "summary": "<div><img src=\"https://www.gbnews.com/media-library/electric-car-charger.jpg?id=50301390&amp;width=1200&amp;height=600&amp;coordinates=0%2C0%2C0%2C953\" style=\"width: 100%;\" /><div>AA recorded only five or six EV breakdowns per year due to running out of battery</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.gbnews.com/media-library/electric-car-charger.jpg?id=50301390&amp;width=1200&amp;height=600&amp;coordinates=0%2C0%2C0%2C953\" style=\"width: 100%;\" /><div>AA recorded only five or six EV breakdowns per year due to running out of battery</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.gbnews.com/lifestyle/cars/electric-cars-breakdown-petrol-diesel-models-aa-battery-failure"
+            }
+        ],
+        "link": "https://www.gbnews.com/lifestyle/cars/electric-cars-breakdown-petrol-diesel-models-aa-battery-failure",
+        "id": "1eca8275d29fe30a88b4e56ec2a678ec",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Hemma Visavadia"
+            }
+        ],
+        "author": "Hemma Visavadia",
+        "author_detail": {
+            "name": "Hemma Visavadia"
+        },
+        "published": "Sat, 23 Nov 2024 16:01:22 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            16,
+            1,
+            22,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.gbnews.com/media-library/electric-car-charger.jpg?id=50301390&width=1200&height=600&coordinates=0%2C0%2C0%2C953"
+            }
+        ],
+        "generated_summary": "A new report reveals that electric vehicles (EVs) in the UK are less prone to breakdowns compared to petrol and diesel models, with only 1.85% of EV-related breakdowns due to battery depletion. This marks a significant improvement from previous years, attributed to advancements in battery technology, increased charging infrastructure, and better driver education. The AA notes that the trend aligns with similar patterns in Norway, which has a high EV adoption rate. The report highlights an 80% reduction in out-of-charge incidents over eight years, suggesting enhanced EV reliability. Despite these improvements, some drivers remain hesitant about transitioning to EVs due to uncertainties about ownership and charging logistics."
+    },
+    {
+        "title": "Tesla continues to rally as analysts see a robotaxi profit windfall down the road",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Tesla continues to rally as analysts see a robotaxi profit windfall down the road"
+        },
+        "summary": "<div><img src=\"https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2177874163/image_2177874163.jpg?io=getty-c-w750\" style=\"width: 100%;\" /><div>Investors are bullish on Tesla (TSLA) as the autonomous vehicle market heats up, with potential for regulatory changes boosting the company's outlook.</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2177874163/image_2177874163.jpg?io=getty-c-w750\" style=\"width: 100%;\" /><div>Investors are bullish on Tesla (TSLA) as the autonomous vehicle market heats up, with potential for regulatory changes boosting the company's outlook.</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://seekingalpha.com/news/4323078-tesla-continues-to-rally-as-analysts-see-a-robotaxi-profit-windfall-down-the-road"
+            }
+        ],
+        "link": "https://seekingalpha.com/news/4323078-tesla-continues-to-rally-as-analysts-see-a-robotaxi-profit-windfall-down-the-road",
+        "id": "634a2ea0311f590e904c78fe16d08370",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Clark Schultz, SA News Editor"
+            }
+        ],
+        "author": "Clark Schultz, SA News Editor",
+        "author_detail": {
+            "name": "Clark Schultz, SA News Editor"
+        },
+        "published": "Sat, 23 Nov 2024 16:00:00 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            16,
+            0,
+            0,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2177874163/image_2177874163.jpg?io=getty-c-w750"
+            }
+        ],
+        "generated_summary": "I'm here to help with summarizing news articles, but it seems there is no content provided for me to analyze. If you can share the details or text of the article you need summarized, I'd be happy to assist!"
+    },
+    {
+        "title": "Goldman Sachs takes $900mn hit on Northvolt investment",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Goldman Sachs takes $900mn hit on Northvolt investment"
+        },
+        "summary": "<div><img src=\"https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F639c09ab-c0f9-44cf-a86c-31f1af986521.jpg?source=next-barrier-page\" style=\"width: 100%;\" /><div>US bank is second-largest shareholder in Swedish battery maker which filed for Chapter 11 bankruptcy this week</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F639c09ab-c0f9-44cf-a86c-31f1af986521.jpg?source=next-barrier-page\" style=\"width: 100%;\" /><div>US bank is second-largest shareholder in Swedish battery maker which filed for Chapter 11 bankruptcy this week</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.ft.com/content/22df8cf6-d224-4ce8-8d73-a5e3f995fc2c"
+            }
+        ],
+        "link": "https://www.ft.com/content/22df8cf6-d224-4ce8-8d73-a5e3f995fc2c",
+        "id": "ca9dbea866735aacc010d9a050688525",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Harriet Agnew,Richard Milne"
+            }
+        ],
+        "author": "Harriet Agnew,Richard Milne",
+        "author_detail": {
+            "name": "Harriet Agnew,Richard Milne"
+        },
+        "published": "Sat, 23 Nov 2024 15:19:48 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            15,
+            19,
+            48,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F639c09ab-c0f9-44cf-a86c-31f1af986521.jpg?source=next-barrier-page"
+            }
+        ],
+        "generated_summary": "Goldman Sachs has incurred a $900 million loss on its investment in Northvolt, a Swedish battery manufacturer. This financial setback highlights the risks associated with investments in the burgeoning electric vehicle and renewable energy sectors. The loss underscores the volatility and challenges faced by companies and investors in adapting to the rapidly evolving clean energy market."
+    },
+    {
+        "title": "Live: Storm Bert causes chaos in city centre",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Live: Storm Bert causes chaos in city centre"
+        },
+        "summary": "<div><img src=\"https://www.theargus.co.uk/resources/images/18801617/\" style=\"width: 100%;\" /><div>Updates as Storm Bert causes havoc across Sussex Festive events in Chichester, Littlehampton and Horsham have been cancelled Emergency Services\u2026</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.theargus.co.uk/resources/images/18801617/\" style=\"width: 100%;\" /><div>Updates as Storm Bert causes havoc across Sussex Festive events in Chichester, Littlehampton and Horsham have been cancelled Emergency Services\u2026</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.theargus.co.uk/news/24745987.live-storm-bert-causes-chaos-brighton/"
+            }
+        ],
+        "link": "https://www.theargus.co.uk/news/24745987.live-storm-bert-causes-chaos-brighton/",
+        "id": "99ec0db40d3da83f27d3f41e904578c2",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Ramy Abou-Setta"
+            }
+        ],
+        "author": "Ramy Abou-Setta",
+        "author_detail": {
+            "name": "Ramy Abou-Setta"
+        },
+        "published": "Sat, 23 Nov 2024 14:20:39 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            14,
+            20,
+            39,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.theargus.co.uk/resources/images/18801617/"
+            }
+        ],
+        "generated_summary": "**Storm Bert Causes Chaos in Brighton**\n\nStorm Bert has wreaked havoc in Brighton, particularly affecting the city center. The severe weather conditions have led to significant disruptions, prompting emergency responses across Sussex. The storm's impact underscores the importance of preparedness and the challenges faced by local communities during extreme weather events. The Argus emphasizes the role of community engagement and support for local businesses during such challenging times."
+    },
+    {
+        "title": "Live: Updates as Storm Bert causes havoc across",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Live: Updates as Storm Bert causes havoc across"
+        },
+        "summary": "<div><img src=\"https://www.theargus.co.uk/resources/images/18800972/\" style=\"width: 100%;\" /><div>Updates as Storm Bert causes havoc across Sussex Festive events in Chichester, Littlehampton and Horsham have been cancelled Emergency Services\u2026</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.theargus.co.uk/resources/images/18800972/\" style=\"width: 100%;\" /><div>Updates as Storm Bert causes havoc across Sussex Festive events in Chichester, Littlehampton and Horsham have been cancelled Emergency Services\u2026</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.theargus.co.uk/news/24745987.live-updates-storm-bert-causes-havoc-across-sussex/"
+            }
+        ],
+        "link": "https://www.theargus.co.uk/news/24745987.live-updates-storm-bert-causes-havoc-across-sussex/",
+        "id": "74077405101157a9e18e2e75f98f9a2c",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Ramy Abou-Setta"
+            }
+        ],
+        "author": "Ramy Abou-Setta",
+        "author_detail": {
+            "name": "Ramy Abou-Setta"
+        },
+        "published": "Sat, 23 Nov 2024 14:20:39 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            14,
+            20,
+            39,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.theargus.co.uk/resources/images/18800972/"
+            }
+        ],
+        "generated_summary": "**Storm Bert Causes Chaos in Brighton**\n\nStorm Bert has wreaked havoc in Brighton, particularly affecting the city center. The severe weather has led to disruptions and emergency responses throughout Sussex. The storm's impact underscores the importance of preparedness and resilience in the face of extreme weather events. Local authorities and businesses are working to manage the aftermath and ensure community safety."
+    },
+    {
+        "title": "'Keep Moving' Signs And The New Hyundai Ioniq 9 In This Week's Car Culture Roundup",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "'Keep Moving' Signs And The New Hyundai Ioniq 9 In This Week's Car Culture Roundup"
+        },
+        "summary": "<div><img src=\"https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6dbdf9014f8d8c03005d1bc44f548358.jpg\" style=\"width: 100%;\" /><div>A collection of our best posts of the week in car culture</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6dbdf9014f8d8c03005d1bc44f548358.jpg\" style=\"width: 100%;\" /><div>A collection of our best posts of the week in car culture</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://jalopnik.com/keep-moving-signs-and-the-new-hyundai-ioniq-9-in-this-w-1851706235"
+            }
+        ],
+        "link": "https://jalopnik.com/keep-moving-signs-and-the-new-hyundai-ioniq-9-in-this-w-1851706235",
+        "id": "ce212fd43d2e729d78cd4edbf62e3dd0",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Jalopnik Staff"
+            }
+        ],
+        "author": "Jalopnik Staff",
+        "author_detail": {
+            "name": "Jalopnik Staff"
+        },
+        "published": "Sat, 23 Nov 2024 14:00:00 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            14,
+            0,
+            0,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6dbdf9014f8d8c03005d1bc44f548358.jpg"
+            }
+        ],
+        "generated_summary": "This week's Car Culture Roundup highlights several notable automotive stories. Key topics include the unveiling of the 2026 Hyundai Ioniq 9, a three-row electric SUV with a spacious interior and aerodynamic design, showcased ahead of its Los Angeles Auto Show debut. The roundup also features Jake Paul's unique entrance at a boxing match in a custom '90s Chevy truck, the end of MotorTrend's popular \"Roadkill\" show after 13 seasons, and a nostalgic look at the underrated Ford Flex. Additionally, discussions touch on the challenges of electric vehicle sound design, Bugatti's quest for faster speeds hindered by tire limitations, and potential impacts of proposed tariffs on Mexican imports. The roundup offers a diverse mix of automotive news, from nostalgic reflections to cutting-edge innovations in the industry."
+    },
+    {
+        "title": "WATCH NOW: Footage reveals drivers endangering British bin workers",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "WATCH NOW: Footage reveals drivers endangering British bin workers"
+        },
+        "summary": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.gbnews.com/lifestyle/cars/cornwall-news-bin-workers-driving-car-news"
+            }
+        ],
+        "link": "https://www.gbnews.com/lifestyle/cars/cornwall-news-bin-workers-driving-car-news",
+        "id": "1ae988b5eaf839a86d1829494932caaf",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Hemma Visavadia"
+            }
+        ],
+        "author": "Hemma Visavadia",
+        "author_detail": {
+            "name": "Hemma Visavadia"
+        },
+        "published": "Sat, 23 Nov 2024 13:36:54 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            13,
+            36,
+            54,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.gbnews.com/media-library/road-safety-awareness-week-reveals-dangerous-driving.jpg?id=51687018&width=1200&height=600&coordinates=0%2C0%2C0%2C886"
+            }
+        ],
+        "generated_summary": "The article highlights a significant road safety issue in Cornwall, where reckless driving is endangering bin workers. During Road Safety Awareness Week, Cornwall Council released CCTV footage showing vehicles mounting pavements and narrowly avoiding waste collection crews, violating Highway Code rule 145. These dangerous actions, captured over two years, have prompted safety concerns as crews service thousands of properties daily. Biffa, the company operating the service, reports that workers also face verbal abuse. Offenders risk fines and legal action, with such behavior classified under dangerous driving offences. Authorities emphasize the need for patience and consideration on the roads to prevent potential harm to workers and the public."
+    },
+    {
         "title": "MATCHDAY LIVE: West Brom v Norwich City",
         "title_detail": {
             "type": "text/plain",
@@ -51,7 +753,61 @@
                 "url": "https://www.edp24.co.uk/resources/images/18800947/"
             }
         ],
-        "generated_summary": "Norwich City is set to face West Brom at the Hawthorns, seeking their first win in seven matches. The team is optimistic following the return of several players from injury and a recent international break, despite their recent poor form. Fans can follow live updates and participate in discussions via a matchday blog hosted by Norwich City reporter Samuel Seaman. The coverage is accessible through various platforms, including the Pink Un app for Android users. The publication encourages community engagement through comments, with guidelines in place to maintain respectful discourse."
+        "generated_summary": "In a Championship match, West Brom and Norwich City ended in a 2-2 draw. Norwich City, aiming to break a streak of defeats, visited West Brom at the Hawthorns, bolstered by returning players from injury and a recent international break. The game was covered live by Norwich City reporter Samuel Seaman, providing updates and engaging fans in discussions through a live matchday blog. The match was significant for Norwich as they sought to improve their form and gain momentum in the league."
+    },
+    {
+        "title": "Matchday live: Blues bag draw with high-flying Rovers",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Matchday live: Blues bag draw with high-flying Rovers"
+        },
+        "summary": "<div><img src=\"https://www.echo-news.co.uk/resources/images/18801380/\" style=\"width: 100%;\" /><div>SOUTHEND United host table-topping Forest Green at Roots Hall this afternoon. Follow all the updates live here.</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.echo-news.co.uk/resources/images/18801380/\" style=\"width: 100%;\" /><div>SOUTHEND United host table-topping Forest Green at Roots Hall this afternoon. Follow all the updates live here.</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.echo-news.co.uk/sport/24745915.southend-united-draw-2-2-forest-green-rovers/"
+            }
+        ],
+        "link": "https://www.echo-news.co.uk/sport/24745915.southend-united-draw-2-2-forest-green-rovers/",
+        "id": "50ed9adc80c9f17da261d1a8bc8aff01",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Chris Phillips"
+            }
+        ],
+        "author": "Chris Phillips",
+        "author_detail": {
+            "name": "Chris Phillips"
+        },
+        "published": "Sat, 23 Nov 2024 13:07:50 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            13,
+            7,
+            50,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.echo-news.co.uk/resources/images/18801380/"
+            }
+        ],
+        "generated_summary": "Southend United and Forest Green Rovers ended their match in a 2-2 draw, as reported by Echo News. The game was notable for Southend United, also known as the Blues, as they managed to secure a point against the high-ranking Rovers. This result is significant for Southend United in their ongoing football season, providing them with a morale boost and a valuable point in the league standings. The match highlights the competitive nature of the league and the Blues' resilience against strong opponents."
     },
     {
         "title": "Matchday live: Coker levels for Blues against Forest Green",
@@ -105,7 +861,7 @@
                 "url": "https://www.echo-news.co.uk/resources/images/18801380/"
             }
         ],
-        "generated_summary": "Southend United drew 2-2 with Forest Green Rovers in a recent football match, with Coker scoring to level the game for Southend. The match was covered by Chris Phillips and was part of local sports reporting. Readers are encouraged to engage with the content through comments, although they must adhere to community guidelines to maintain a respectful environment. The Echo provides various local services, including newsletters, job listings, and advertising opportunities to support local businesses. The publication adheres to the Independent Press Standards Organisation's Editors' Code of Practice."
+        "generated_summary": "Southend United and Forest Green Rovers played to a 2-2 draw in a football match, as reported by Echo News. The game was notable for Southend United, also known as the Blues, as they managed to secure a point against the high-flying Rovers. This result is significant for Southend United as they continue to compete in their league. The article also emphasizes the importance of local community engagement and support for local businesses, which benefit from advertising opportunities within the publication."
     },
     {
         "title": "Oxford Bus Company staff raise funds for special school",
@@ -159,7 +915,61 @@
                 "url": "https://www.oxfordmail.co.uk/resources/images/18797906/"
             }
         ],
-        "generated_summary": "In 1985, employees at the Oxford Bus Company raised over \u00a33,000 for charitable causes, including purchasing a computer for Mabel Prichard School for handicapped children and donating funds to the John Radcliffe Hospital\u2019s special care baby unit and Park Hospital for children's holidays. The funds were raised through raffles, charity auctions, and a London to Brighton cycle race. Their efforts earned them a fifth-place ranking in a national fundraising contest, securing an additional \u00a3250 for charity. The company, now located on Watlington Road, continues to play a vital role in Oxfordshire's public transport with a focus on electric vehicles."
+        "generated_summary": "In 1985, staff at the Oxford Bus Company, then known as City of Oxford Motor Services, raised over \u00a33,000 to support local causes, including purchasing a computer for the Mabel Prichard School for handicapped children in Littlemore. Additionally, they allocated \u00a32,050 for a monitor at John Radcliffe Hospital's special care baby unit and \u00a3500 for holidays for children at Park Hospital in Headington. The funds were raised through raffles, charity auctions, and a London to Brighton cycle race. Their efforts earned them fifth place in a national fundraising contest, which included a \u00a3250 prize that was also donated to charity. The Oxford Bus Company continues to play a vital role in Oxfordshire's public transport, now operating from Watlington Road, Cowley."
+    },
+    {
+        "title": "Busy road reopens after power cable topples",
+        "title_detail": {
+            "type": "text/plain",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "Busy road reopens after power cable topples"
+        },
+        "summary": "<div><img src=\"https://www.dailyecho.co.uk/resources/images/18801060/\" style=\"width: 100%;\" /><div>Portsmouth Road near Grange Road has reopened after a power cable fell causing an outage</div></div>",
+        "summary_detail": {
+            "type": "text/html",
+            "language": null,
+            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
+            "value": "<div><img src=\"https://www.dailyecho.co.uk/resources/images/18801060/\" style=\"width: 100%;\" /><div>Portsmouth Road near Grange Road has reopened after a power cable fell causing an outage</div></div>"
+        },
+        "links": [
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://www.dailyecho.co.uk/news/24745854.storm-bert-portsmouth-road-reopens-power-cable-falls/"
+            }
+        ],
+        "link": "https://www.dailyecho.co.uk/news/24745854.storm-bert-portsmouth-road-reopens-power-cable-falls/",
+        "id": "157b775cd5e2f14179496852e7832e73",
+        "guidislink": false,
+        "authors": [
+            {
+                "name": "Matt Davey"
+            }
+        ],
+        "author": "Matt Davey",
+        "author_detail": {
+            "name": "Matt Davey"
+        },
+        "published": "Sat, 23 Nov 2024 12:17:11 GMT",
+        "published_parsed": [
+            2024,
+            11,
+            23,
+            12,
+            17,
+            11,
+            5,
+            328,
+            0
+        ],
+        "media_content": [
+            {
+                "medium": "image",
+                "url": "https://www.dailyecho.co.uk/resources/images/18801060/"
+            }
+        ],
+        "generated_summary": "**Headline:** Portsmouth Road Reopens After Storm Bert Causes Power Cable Collapse\n\n**Summary:** Portsmouth Road, near the junction with Grange Road, has reopened following a closure due to a fallen power cable caused by Storm Bert. Police were present at the scene to manage the situation. The incident highlights the impact of severe weather on local infrastructure and the importance of timely response to ensure public safety and restore normalcy."
     },
     {
         "title": "Busy road closed after power cable topples",
@@ -213,7 +1023,7 @@
                 "url": "https://www.dailyecho.co.uk/resources/images/18801060/"
             }
         ],
-        "generated_summary": "A section of Portsmouth Road near the junction of Grange Road has reopened after being closed due to a fallen power cable. Police were present at the scene to manage the situation. The incident was part of the disruptions caused by Storm Bert. The road closure had affected traffic in the area, but has now been resolved."
+        "generated_summary": "**Headline:** Portsmouth Road Reopens After Storm Bert Causes Power Cable Collapse\n\n**Summary:** Portsmouth Road, near the junction of Grange Road, has reopened following a temporary closure due to a fallen power cable caused by Storm Bert. Police were present at the scene to manage the situation. The incident highlights the impact of severe weather on local infrastructure and the importance of prompt response to ensure public safety and restore normal traffic flow."
     },
     {
         "title": "Number of electric vehicle chargers in Dudley fell by a tenth last year",
@@ -267,7 +1077,7 @@
                 "url": "https://www.stourbridgenews.co.uk/resources/images/18770391/"
             }
         ],
-        "generated_summary": "The number of public electric vehicle (EV) chargers in Dudley decreased by 10% over the past year, dropping from 198 to 179, according to Department for Transport figures. This decline raises concerns from the RAC about inconsistent charger availability across the UK, with some areas having significantly fewer chargers per capita. Nationally, the installation of EV chargers has increased by 47%, with 65,000 chargers in place by July, aligning with the government's target of 300,000 by 2030. Despite progress, disparities in charger distribution remain, particularly outside London, which holds nearly a third of the national total. The RAC emphasizes the need for prioritizing regions with poor charger access and highlights the importance of rapid chargers for EV users without home charging options. The Department for Transport is committed to accelerating the installation of charge-points nationwide to boost confidence in transitioning to zero-emission vehicles."
+        "generated_summary": "The number of public electric vehicle (EV) chargers in Dudley decreased by 10% last year, dropping from 198 to 179, according to new Department for Transport figures. This decline raises concerns about inconsistent charger availability across the UK, as highlighted by the RAC. Despite a national increase of 47% in charger installations, Dudley has only 55 public chargers per 100,000 people. The UK government aims to install 300,000 public chargers by 2030, requiring 3,600 new chargers monthly. The RAC emphasizes the need to prioritize areas with poor charger access, noting significant regional disparities, with London having a third of the country's chargers. The Department for Transport remains committed to accelerating charger rollout to support the transition to zero-emission vehicles."
     },
     {
         "title": "Traffic incident 'involving prison van' causing major delays",
@@ -321,7 +1131,7 @@
                 "url": "https://www.oxfordmail.co.uk/resources/images/18786926/"
             }
         ],
-        "generated_summary": "Traffic on the A34 near Oxford is experiencing major delays due to an incident involving a \"prison van.\" The disruption is caused by a broken-down vehicle, leading to lane closures and increasing congestion. Readers are encouraged to engage with the news and report any inappropriate comments. The Oxford Mail adheres to the Independent Press Standards Organisation's Editors' Code of Practice for any editorial complaints."
+        "generated_summary": "A traffic incident involving a prison van has caused significant delays on the A34 near Oxford. The congestion is attributed to a broken-down vehicle, leading to lane closures and increasing traffic buildup. The incident highlights the importance of maintaining road safety and the potential impact of vehicle breakdowns on traffic flow."
     },
     {
         "title": "The next 12 Norwich streets to get electric car chargers",
@@ -331,22 +1141,22 @@
             "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
             "value": "The next 12 Norwich streets to get electric car chargers"
         },
-        "summary": "<div><img src=\"https://www.edp24.co.uk/resources/images/18726243/\" style=\"width: 100%;\" /><div>Work to install electric vehicle charging points on another dozen Norwich streets will begin next week.</div></div>",
+        "summary": "<div><img src=\"https://www.eveningnews24.co.uk/resources/images/18726243/\" style=\"width: 100%;\" /><div>Work to install electric vehicle charging points on another dozen Norwich streets will begin next week.</div></div>",
         "summary_detail": {
             "type": "text/html",
             "language": null,
             "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.edp24.co.uk/resources/images/18726243/\" style=\"width: 100%;\" /><div>Work to install electric vehicle charging points on another dozen Norwich streets will begin next week.</div></div>"
+            "value": "<div><img src=\"https://www.eveningnews24.co.uk/resources/images/18726243/\" style=\"width: 100%;\" /><div>Work to install electric vehicle charging points on another dozen Norwich streets will begin next week.</div></div>"
         },
         "links": [
             {
                 "rel": "alternate",
                 "type": "text/html",
-                "href": "https://www.edp24.co.uk/news/24730536.electric-car-chargers-installed-12-norwich-streets/"
+                "href": "https://www.eveningnews24.co.uk/news/24730536.electric-car-chargers-installed-12-norwich-streets/"
             }
         ],
-        "link": "https://www.edp24.co.uk/news/24730536.electric-car-chargers-installed-12-norwich-streets/",
-        "id": "d4225f9e70bf9a3515f6f0d04e539e76",
+        "link": "https://www.eveningnews24.co.uk/news/24730536.electric-car-chargers-installed-12-norwich-streets/",
+        "id": "d0f0addabf9e338210531e3e5a6776d2",
         "guidislink": false,
         "authors": [
             {
@@ -372,10 +1182,10 @@
         "media_content": [
             {
                 "medium": "image",
-                "url": "https://www.edp24.co.uk/resources/images/18726243/"
+                "url": "https://www.eveningnews24.co.uk/resources/images/18726243/"
             }
         ],
-        "generated_summary": "Norfolk County Council is set to install electric vehicle chargers on 12 additional streets in Norwich as part of its 2021 strategy to promote electric vehicle use. Starting November 25, 22 new charging points will be installed by Blink Charging UK, continuing until February next year. This expansion follows the installation of 24 chargers across the city, with almost 200 vehicles charged since the first ones went live. The initiative aims to support a greener future by providing accessible public charging infrastructure, particularly for residents without private driveways. Streets slated for new chargers include Fishergate, St Mary's Plain, and Dolphin Grove. The council reports that 3,086 kWh of power has been used, saving over 2.6 million kg of CO2."
+        "generated_summary": "Norfolk County Council is set to install electric vehicle charging points on 12 additional streets in Norwich, beginning November 25, as part of their 2021 strategy to promote electric vehicle use. The project, in partnership with Blink Charging UK, will add 22 new charge points, with completion expected by February. This initiative follows the installation of 24 charge points in the city, with nearly 200 vehicles charged in the first four months. The council emphasizes the importance of accessible public chargers for residents without private driveways, aiming for a greener future in Norfolk."
     },
     {
         "title": "Norfolk firm launches new department to fulfil international orders",
@@ -429,7 +1239,7 @@
                 "url": "https://www.edp24.co.uk/resources/images/18780431/"
             }
         ],
-        "generated_summary": "Prior Power Solutions, a Great Yarmouth-based engine and equipment manufacturer, has launched a new welding and fabrication department to cater to a growing number of international orders. The department, located at Gapton Hall Industrial Estate, allows the company to offer in-house fabrication, ensuring quality control, reduced lead times, and cost-effectiveness for customers. Production Manager Chris Farman highlighted the completion of ten skid frames for the offshore industry, including two acoustic frames built to DNV 2.7-1 standards. The company, originally established as Prior Diesel Ltd in 1980 and part of the Suretank Group since 2015, has invested in staff training and infrastructure, resulting in fabrication work being secured from locations as far as Angola."
+        "generated_summary": "Prior Power Solutions, based in Great Yarmouth, has launched a new welding and fabrication department to meet increasing international demand. The company, originally established as Prior Diesel Ltd in 1980 and now part of the Suretank Group, aims to enhance its in-house manufacturing capabilities. This expansion allows Prior Power Solutions to maintain quality control, reduce lead times, and offer more cost-effective solutions. The new department has already completed ten skid frames for the offshore industry, including two acoustic frames built to DNV 2.7-1 standards. Managing Director James Rix highlighted the benefits of recent investments in staff and infrastructure, which have resulted in securing fabrication work globally, including orders from Angola."
     },
     {
         "title": "Changes driven by Musk biggest threat to China under Trump 2.0, adviser warns",
@@ -483,869 +1293,6 @@
                 "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/11/23/020be6d5-ba06-4ae6-bf5d-917a7c7cf17d_22108c25.jpg?itok=w652fmbb&v=1732350443"
             }
         ],
-        "generated_summary": "A leading Chinese political scientist, Zheng Yongnian, has warned that China's biggest challenge during a potential second term for Donald Trump as U.S. president could stem from government changes influenced by tech billionaire Elon Musk. Zheng, who is a policy adviser to Beijing, suggests that China should counter this by expanding unilateral opening-up measures, particularly towards the U.S., to gain leverage in the ongoing US-China rivalry. He predicts that while Trump\u2019s return could cause significant short-term economic and trade disruptions through tariffs, it might not lead to increased geopolitical tensions. Zheng emphasizes the importance of being more open to maintain competitive advantage."
-    },
-    {
-        "title": "MATCHDAY LIVE: Bolton Wanderers 2-1 Blackpool",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "MATCHDAY LIVE: Bolton Wanderers 2-1 Blackpool"
-        },
-        "summary": "<div><img src=\"https://www.theboltonnews.co.uk/resources/images/18800703/\" style=\"width: 100%;\" /><div>Can Bolton Wanderers provide a response to the heavy defeat at Stockport, and topple local rivals Blackpool in the process? Marc Iles with all the\u2026</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.theboltonnews.co.uk/resources/images/18800703/\" style=\"width: 100%;\" /><div>Can Bolton Wanderers provide a response to the heavy defeat at Stockport, and topple local rivals Blackpool in the process? Marc Iles with all the\u2026</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.theboltonnews.co.uk/sport/wanderers/wanderersnews/24745651.bolton-wanderers-2-1-blackpool---matchday-live-blog/"
-            }
-        ],
-        "link": "https://www.theboltonnews.co.uk/sport/wanderers/wanderersnews/24745651.bolton-wanderers-2-1-blackpool---matchday-live-blog/",
-        "id": "77f5dfdddb00e8ccd901196a09ea87b6",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Marc Iles"
-            }
-        ],
-        "author": "Marc Iles",
-        "author_detail": {
-            "name": "Marc Iles"
-        },
-        "published": "Sat, 23 Nov 2024 09:29:52 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            23,
-            9,
-            29,
-            52,
-            5,
-            328,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.theboltonnews.co.uk/resources/images/18800703/"
-            }
-        ],
-        "generated_summary": "Bolton Wanderers secured a 2-1 victory over Blackpool in their League One football match, as reported in a live blog by The Bolton News. This match updates fans on the latest performance of Bolton Wanderers FC against Blackpool FC. The blog encourages community engagement through comments, emphasizing respectful and constructive discussions. Additionally, the publication highlights its commitment to supporting local businesses through advertising, while adhering to the Independent Press Standards Organisation's editorial guidelines."
-    },
-    {
-        "title": "MATCHDAY LIVE: Bolton Wanderers v Blackpool",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "MATCHDAY LIVE: Bolton Wanderers v Blackpool"
-        },
-        "summary": "<div><img src=\"https://www.theboltonnews.co.uk/resources/images/18800703/\" style=\"width: 100%;\" /><div>Can Bolton Wanderers provide a response to the heavy defeat at Stockport, and topple local rivals Blackpool in the process? Marc Iles with all the\u2026</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.theboltonnews.co.uk/resources/images/18800703/\" style=\"width: 100%;\" /><div>Can Bolton Wanderers provide a response to the heavy defeat at Stockport, and topple local rivals Blackpool in the process? Marc Iles with all the\u2026</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.theboltonnews.co.uk/sport/wanderers/wanderersnews/24745651.bolton-wanderers-v-blackpool---matchday-live-blog/"
-            }
-        ],
-        "link": "https://www.theboltonnews.co.uk/sport/wanderers/wanderersnews/24745651.bolton-wanderers-v-blackpool---matchday-live-blog/",
-        "id": "3ee6db79dbc42bb22a10ffb2edd52e8b",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Marc Iles"
-            }
-        ],
-        "author": "Marc Iles",
-        "author_detail": {
-            "name": "Marc Iles"
-        },
-        "published": "Sat, 23 Nov 2024 09:29:52 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            23,
-            9,
-            29,
-            52,
-            5,
-            328,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.theboltonnews.co.uk/resources/images/18800703/"
-            }
-        ],
-        "generated_summary": "Bolton Wanderers secured a 2-1 victory over Blackpool in their League One football match, as reported in a live blog by The Bolton News. The match was part of the ongoing coverage of Bolton Wanderers, providing fans with real-time updates and post-match analysis. Readers are encouraged to engage with the content through comments, although the privilege can be revoked if misused. The Bolton News, adhering to the Independent Press Standards Organisation's Editors' Code of Practice, supports local businesses by featuring their advertisements."
-    },
-    {
-        "title": "MATCHDAY LIVE: Bolton Wanderers 0-0 Blackpool",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "MATCHDAY LIVE: Bolton Wanderers 0-0 Blackpool"
-        },
-        "summary": "<div><img src=\"https://www.theboltonnews.co.uk/resources/images/18800703/\" style=\"width: 100%;\" /><div>Can Bolton Wanderers provide a response to the heavy defeat at Stockport, and topple local rivals Blackpool in the process? Marc Iles with all the\u2026</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.theboltonnews.co.uk/resources/images/18800703/\" style=\"width: 100%;\" /><div>Can Bolton Wanderers provide a response to the heavy defeat at Stockport, and topple local rivals Blackpool in the process? Marc Iles with all the\u2026</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.theboltonnews.co.uk/sport/wanderers/wanderersnews/24745651.bolton-wanderers-0-0-blackpool---matchday-live-blog/"
-            }
-        ],
-        "link": "https://www.theboltonnews.co.uk/sport/wanderers/wanderersnews/24745651.bolton-wanderers-0-0-blackpool---matchday-live-blog/",
-        "id": "337a8330afbc5a23f2996d92973cfa2f",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Marc Iles"
-            }
-        ],
-        "author": "Marc Iles",
-        "author_detail": {
-            "name": "Marc Iles"
-        },
-        "published": "Sat, 23 Nov 2024 09:29:52 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            23,
-            9,
-            29,
-            52,
-            5,
-            328,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.theboltonnews.co.uk/resources/images/18800703/"
-            }
-        ],
-        "generated_summary": "Bolton Wanderers secured a 2-1 victory over Blackpool in a League One football match, as covered in a live blog by The Bolton News. The match concluded with Bolton Wanderers emerging victorious, and the live feed providing updates has now ended. The article encourages community engagement through comments, while reminding readers that commenting is a privilege that can be revoked if misused. The Bolton News is part of Newsquest Media Group and adheres to the Independent Press Standards Organisation's Editors' Code of Practice."
-    },
-    {
-        "title": "Treasure trove of vintage Mercedes cars found in rural barn in Essex",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Treasure trove of vintage Mercedes cars found in rural barn in Essex"
-        },
-        "summary": "<div><img src=\"https://i.dailymail.co.uk/1s/2024/11/21/19/92344813-0-image-a-12_1732216847433.jpg\" style=\"width: 100%;\" /><div>The 1921 Talbot Darracq and a 1952 Mercedes Benz 220 Type A convertible had been hidden away in Framlingham, Suffolk after the death of their owner.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://i.dailymail.co.uk/1s/2024/11/21/19/92344813-0-image-a-12_1732216847433.jpg\" style=\"width: 100%;\" /><div>The 1921 Talbot Darracq and a 1952 Mercedes Benz 220 Type A convertible had been hidden away in Framlingham, Suffolk after the death of their owner.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.dailymail.co.uk/news/article-14111367/treasure-trove-vintage-Mercedes-cars-barn-Essex-sold.html"
-            }
-        ],
-        "link": "https://www.dailymail.co.uk/news/article-14111367/treasure-trove-vintage-Mercedes-cars-barn-Essex-sold.html",
-        "id": "2fd0111a202195626500330c0152727c",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Robert Folker"
-            }
-        ],
-        "author": "Robert Folker",
-        "author_detail": {
-            "name": "Robert Folker"
-        },
-        "published": "Sat, 23 Nov 2024 08:27:56 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            23,
-            8,
-            27,
-            56,
-            5,
-            328,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://i.dailymail.co.uk/1s/2024/11/21/19/92344813-0-image-a-12_1732216847433.jpg"
-            }
-        ],
-        "generated_summary": "A remarkable discovery of vintage cars occurred in Essex, where two classic vehicles, a 1921 Talbot Darracq and a 1952 Mercedes Benz 220 Type A convertible, were found in a barn after 40 years. These cars, preserved by their late owner, fetched higher-than-expected prices at auction, with the Mercedes selling for \u00a337,000 and the Talbot for \u00a310,500. The owner, a former British Army serviceman, had acquired these cars during his military service, and they had remained unused since the 1980s. The auction took place at Reeman Dansie Auctions in Colchester. This discovery follows a similar find in Wales, where a collection of iconic yet deteriorating cars, including Bentleys and Jaguars, was uncovered, estimated to be worth up to \u00a31 million. These hidden treasures highlight the enduring appeal and value of classic automobiles."
-    },
-    {
-        "title": "New speed camera praised for highlighting city suburb's 'racer' problem",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "New speed camera praised for highlighting city suburb's 'racer' problem"
-        },
-        "summary": "<div><img src=\"https://www.eveningnews24.co.uk/resources/images/18777922/\" style=\"width: 100%;\" /><div>The installation of a\u00a0new speed awareness camera in Costessey\u00a0is being hailed as a good way to crack down on speeders and \"racers\".</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.eveningnews24.co.uk/resources/images/18777922/\" style=\"width: 100%;\" /><div>The installation of a\u00a0new speed awareness camera in Costessey\u00a0is being hailed as a good way to crack down on speeders and \"racers\".</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.eveningnews24.co.uk/news/24732238.costesseys-sam2-camera-praised-highlighting-speeding/"
-            }
-        ],
-        "link": "https://www.eveningnews24.co.uk/news/24732238.costesseys-sam2-camera-praised-highlighting-speeding/",
-        "id": "15f61cb7d264a18806c70d54f493bf19",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Edward Dewulf-Peters"
-            }
-        ],
-        "author": "Edward Dewulf-Peters",
-        "author_detail": {
-            "name": "Edward Dewulf-Peters"
-        },
-        "published": "Sat, 23 Nov 2024 06:00:00 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            23,
-            6,
-            0,
-            0,
-            5,
-            328,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.eveningnews24.co.uk/resources/images/18777922/"
-            }
-        ],
-        "generated_summary": "A new SAM2 speed awareness camera in Costessey is being praised for its effectiveness in addressing a speeding problem in the area. Residents on Townhouse Road have reported a decrease in speeding since the camera's installation, which displays vehicle speeds to warn drivers but does not issue fines. The camera, funded and installed with the help of Costessey councillors Jenny McCloskey and Ross Wheeldon, collects data that can be shared with police and local authorities to consider further measures, such as speed cameras or road humps. The camera will remain in its current location for four weeks before being moved to Norwich Road in December. This initiative is seen as a preliminary step in identifying and addressing dangerous speeding areas."
-    },
-    {
-        "title": "'Accident waiting to happen' on A46 as sudden speed limit change slammed",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "'Accident waiting to happen' on A46 as sudden speed limit change slammed"
-        },
-        "summary": "<div><img src=\"https://i2-prod.coventrytelegraph.net/incoming/article30365320.ece/ALTERNATES/s1200/0_A46-blanked-plates.jpg\" style=\"width: 100%;\" /><div>Coventry Live readers have been sharing their views on speed limits as the A46 from the M6, as after the Binley flyover, the speed limit suddenly drops from 70 to 50</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://i2-prod.coventrytelegraph.net/incoming/article30365320.ece/ALTERNATES/s1200/0_A46-blanked-plates.jpg\" style=\"width: 100%;\" /><div>Coventry Live readers have been sharing their views on speed limits as the A46 from the M6, as after the Binley flyover, the speed limit suddenly drops from 70 to 50</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.coventrytelegraph.net/news/news-opinion/accident-waiting-happen-major-coventry-30407900"
-            }
-        ],
-        "link": "https://www.coventrytelegraph.net/news/news-opinion/accident-waiting-happen-major-coventry-30407900",
-        "id": "36bafb25227b1a0bdfd8a4e15b291eb5",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Coventry Live readers"
-            }
-        ],
-        "author": "Coventry Live readers",
-        "author_detail": {
-            "name": "Coventry Live readers"
-        },
-        "published": "Sat, 23 Nov 2024 05:00:00 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            23,
-            5,
-            0,
-            0,
-            5,
-            328,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://i2-prod.coventrytelegraph.net/incoming/article30365320.ece/ALTERNATES/s1200/0_A46-blanked-plates.jpg"
-            }
-        ],
-        "generated_summary": "Coventry residents are expressing concerns about a sudden speed limit drop on the A46 route from the M6, following the Binley flyover, where it changes from 70 mph to 50 mph. Local drivers claim this abrupt change is confusing and potentially dangerous, as newcomers often brake suddenly, fearing speed cameras, while regulars continue at higher speeds. Some residents suggest implementing average speed cameras to enforce the limit consistently. The speed reduction is attributed to a bend under the Toll Bar junction, which poses a risk of vehicle overturning, and the availability of parking spots for mobile speed cameras. Despite the concerns, many drivers acknowledge the importance of adhering to the speed limits for safety."
-    },
-    {
-        "title": "Missing man was found dead at Dorset beauty spot",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Missing man was found dead at Dorset beauty spot"
-        },
-        "summary": "<div><img src=\"https://www.bournemouthecho.co.uk/resources/images/18797703/\" style=\"width: 100%;\" /><div>A man\u00a0was found dead at a Dorset beauty spot after going missing, an inquest heard.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.bournemouthecho.co.uk/resources/images/18797703/\" style=\"width: 100%;\" /><div>A man\u00a0was found dead at a Dorset beauty spot after going missing, an inquest heard.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.bournemouthecho.co.uk/news/24743808.missing-man-found-near-old-harry-rocks-dorset/"
-            }
-        ],
-        "link": "https://www.bournemouthecho.co.uk/news/24743808.missing-man-found-near-old-harry-rocks-dorset/",
-        "id": "b3e94a9e6079ecc114985b9014ab392f",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Jess Skelton"
-            }
-        ],
-        "author": "Jess Skelton",
-        "author_detail": {
-            "name": "Jess Skelton"
-        },
-        "published": "Sat, 23 Nov 2024 00:00:00 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            23,
-            0,
-            0,
-            0,
-            5,
-            328,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.bournemouthecho.co.uk/resources/images/18797703/"
-            }
-        ],
-        "generated_summary": "James Michael Whitney, a 48-year-old architect, was found dead near Old Harry Rocks in Dorset after going missing. He was last seen leaving work in Christchurch on September 12, and his car was later found in Swanage. Despite a search involving the HM Coastguard, a helicopter, and Dorset Search and Rescue, his body was discovered on September 13. A post-mortem revealed he died from multiple injuries due to a fall from a cliff, and the death was ruled a suicide by the Dorset Coroner\u2019s Court. Whitney's disappearance was described as out of character by his wife and business partner."
-    },
-    {
-        "title": "2025 BMW F 900 R and F 900 XR Preview",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "2025 BMW F 900 R and F 900 XR Preview"
-        },
-        "summary": "<div><img src=\"https://ridermagazine.com/wp-content/uploads/2024/11/2025-BMW-F-900-R-Preview-4.jpg\" style=\"width: 100%;\" /><div>The BMW F 900 R roadster and F 900 XR sport-tourer are updated for 2025 with changes to ergonomics, suspension, rider aids, and equipment.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://ridermagazine.com/wp-content/uploads/2024/11/2025-BMW-F-900-R-Preview-4.jpg\" style=\"width: 100%;\" /><div>The BMW F 900 R roadster and F 900 XR sport-tourer are updated for 2025 with changes to ergonomics, suspension, rider aids, and equipment.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://ridermagazine.com/2024/11/22/2025-bmw-f-900-r-and-f-900-xr-preview/"
-            }
-        ],
-        "link": "https://ridermagazine.com/2024/11/22/2025-bmw-f-900-r-and-f-900-xr-preview/",
-        "id": "f4b1afa6f6605d2cea6d01d090c64b2a",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "The Staff"
-            }
-        ],
-        "author": "The Staff",
-        "author_detail": {
-            "name": "The Staff"
-        },
-        "published": "Fri, 22 Nov 2024 23:07:07 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            23,
-            7,
-            7,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://ridermagazine.com/wp-content/uploads/2024/11/2025-BMW-F-900-R-Preview-4.jpg"
-            }
-        ]
-    },
-    {
-        "title": "AS IT HAPPENED: Pride of St Helens Awards 2024",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "AS IT HAPPENED: Pride of St Helens Awards 2024"
-        },
-        "summary": "<div><img src=\"https://www.sthelensstar.co.uk/resources/images/18800418/\" style=\"width: 100%;\" /><div>Here is the live blog for the 12th annual Pride of St Helens Awards</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.sthelensstar.co.uk/resources/images/18800418/\" style=\"width: 100%;\" /><div>Here is the live blog for the 12th annual Pride of St Helens Awards</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.sthelensstar.co.uk/news/24745433.happened-pride-st-helens-awards-2024/"
-            }
-        ],
-        "link": "https://www.sthelensstar.co.uk/news/24745433.happened-pride-st-helens-awards-2024/",
-        "id": "9b8c927028bbc6a9555524814a4210f7",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Kelsey Maxwell"
-            }
-        ],
-        "author": "Kelsey Maxwell",
-        "author_detail": {
-            "name": "Kelsey Maxwell"
-        },
-        "published": "Fri, 22 Nov 2024 18:58:00 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            18,
-            58,
-            0,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.sthelensstar.co.uk/resources/images/18800418/"
-            }
-        ],
-        "generated_summary": "The \"Pride of St Helens Awards 2024\" event was covered live by the St Helens Star, highlighting local achievements and community spirit. The publication encourages reader engagement through comments, emphasizing respectful discourse. The St Helens Star is part of the Newsquest Media Group and follows the Independent Press Standards Organisation's guidelines. Subscribers benefit from reduced advertising, primarily featuring local businesses to support the community."
-    },
-    {
-        "title": "\u2018There was so much promise\u2019: How Northvolt tumbled into bankruptcy",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "\u2018There was so much promise\u2019: How Northvolt tumbled into bankruptcy"
-        },
-        "summary": "<div><img src=\"https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F85873f9a-2c55-47c1-92c0-ffa406014a21.jpg?source=next-barrier-page\" style=\"width: 100%;\" /><div>Battery champion became a symbol of Europe\u2019s ambitions and then its failings on its way to Chapter 11 proceedings</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F85873f9a-2c55-47c1-92c0-ffa406014a21.jpg?source=next-barrier-page\" style=\"width: 100%;\" /><div>Battery champion became a symbol of Europe\u2019s ambitions and then its failings on its way to Chapter 11 proceedings</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.ft.com/content/09938004-21b9-4750-8fa2-9ed15c566d4e"
-            }
-        ],
-        "link": "https://www.ft.com/content/09938004-21b9-4750-8fa2-9ed15c566d4e",
-        "id": "0a218e408b7e787481c641dd0e3557a2",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Richard Milne"
-            }
-        ],
-        "author": "Richard Milne",
-        "author_detail": {
-            "name": "Richard Milne"
-        },
-        "published": "Fri, 22 Nov 2024 18:33:26 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            18,
-            33,
-            26,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F85873f9a-2c55-47c1-92c0-ffa406014a21.jpg?source=next-barrier-page"
-            }
-        ],
-        "generated_summary": "The provided content is a navigation and subscription guide for the Financial Times (FT) website, outlining various sections, subscription plans, and features available to readers. It mentions different news categories such as World, US, Companies, Tech, Markets, and Opinion, along with specific topics like the Middle East war, the US economy, and US politics. The content also highlights subscription options like Standard Digital and Premium Digital, detailing their costs and included features such as global news access, newsletters, and FT apps. Additionally, it references popular articles and sections such as Lex, Work & Careers, and Life & Arts. The document encourages readers to subscribe for full access to FT's journalism."
-    },
-    {
-        "title": "Elon Musk Gets a Crash Course in How Trumpworld Works",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Elon Musk Gets a Crash Course in How Trumpworld Works"
-        },
-        "summary": "<div><img src=\"https://static01.nyt.com/images/2024/11/22/multimedia/22pol-musk-memo-wcjz/22pol-musk-memo-wcjz-videoSixteenByNine3000.jpg\" style=\"width: 100%;\" /><div>The world\u2019s richest person, not known for his humility, is still learning the cutthroat courtier politics of Donald Trump\u2019s inner circle \u2014 and his ultimate influence remains an open question.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://static01.nyt.com/images/2024/11/22/multimedia/22pol-musk-memo-wcjz/22pol-musk-memo-wcjz-videoSixteenByNine3000.jpg\" style=\"width: 100%;\" /><div>The world\u2019s richest person, not known for his humility, is still learning the cutthroat courtier politics of Donald Trump\u2019s inner circle \u2014 and his ultimate influence remains an open question.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.nytimes.com/2024/11/22/us/politics/elon-musk-trump.html"
-            }
-        ],
-        "link": "https://www.nytimes.com/2024/11/22/us/politics/elon-musk-trump.html",
-        "id": "acae5d1299188857aaad5bc083a5c521",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Theodore Schleifer"
-            }
-        ],
-        "author": "Theodore Schleifer",
-        "author_detail": {
-            "name": "Theodore Schleifer"
-        },
-        "published": "Fri, 22 Nov 2024 16:39:19 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            16,
-            39,
-            19,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://static01.nyt.com/images/2024/11/22/multimedia/22pol-musk-memo-wcjz/22pol-musk-memo-wcjz-videoSixteenByNine3000.jpg"
-            }
-        ],
-        "generated_summary": "Elon Musk, the world's richest person, is navigating the complex political landscape of Donald Trump's inner circle after aligning with the president-elect. Despite lacking the long-standing ties that many of Trump's aides have, Musk's immense wealth and influence, including his 200 million followers on X and the $200 million he spent to support Trump's election, have impressed Trump. Musk has been closely involved with Trump, attending meetings and events, such as a SpaceX launch in Texas. The tech billionaire's role in the administration is speculated to involve leading a Department of Government Efficiency alongside Vivek Ramaswamy. Observers in Washington and Silicon Valley are uncertain about how long the Musk-Trump relationship will last, noting it may depend on Musk's ability to navigate the cutthroat politics of Trumpworld."
-    },
-    {
-        "title": "Electric shock: carmakers battle strict UK electric car rules as big fines loom",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Electric shock: carmakers battle strict UK electric car rules as big fines loom"
-        },
-        "summary": "<div><img src=\"https://i.guim.co.uk/img/media/22cd517f82fa9735532b952332c10847e7e27a08/0_187_4421_2652/master/4421.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;s=add445af32a5aa7f953f0c6622906aff\" style=\"width: 100%;\" /><div>As Ford announced cutting 800 UK jobs it said rules forcing companies to sell more EVs each year are \u2018unworkable\u2019</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://i.guim.co.uk/img/media/22cd517f82fa9735532b952332c10847e7e27a08/0_187_4421_2652/master/4421.jpg?width=1200&amp;height=630&amp;quality=85&amp;auto=format&amp;fit=crop&amp;overlay-align=bottom%2Cleft&amp;overlay-width=100p&amp;overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&amp;s=add445af32a5aa7f953f0c6622906aff\" style=\"width: 100%;\" /><div>As Ford announced cutting 800 UK jobs it said rules forcing companies to sell more EVs each year are \u2018unworkable\u2019</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.theguardian.com/environment/2024/nov/22/electric-shock-carmakers-battle-strict-uk-electric-car-rules-as-big-fines-loom"
-            }
-        ],
-        "link": "https://www.theguardian.com/environment/2024/nov/22/electric-shock-carmakers-battle-strict-uk-electric-car-rules-as-big-fines-loom",
-        "id": "f1ed5b6235e9d11d1e58842e01434fb7",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Jasper Jolly"
-            }
-        ],
-        "author": "Jasper Jolly",
-        "author_detail": {
-            "name": "Jasper Jolly"
-        },
-        "published": "Fri, 22 Nov 2024 16:35:32 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            16,
-            35,
-            32,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://i.guim.co.uk/img/media/22cd517f82fa9735532b952332c10847e7e27a08/0_187_4421_2652/master/4421.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=add445af32a5aa7f953f0c6622906aff"
-            }
-        ],
-        "generated_summary": "Carmakers, including Ford, are challenging the UK's zero-emission vehicle (ZEV) mandate, which requires an increasing percentage of electric vehicle (EV) sales yearly, with substantial fines for non-compliance. Ford, having previously supported stricter EV sales targets, now criticizes the policy as \"unworkable\" amidst slowing demand for fully electric cars, which is partly due to concerns over charging infrastructure and the cost of EVs. The mandate aims for 22% of new vehicle sales to be electric in 2024, rising to 28% by 2025, with a goal of 80% by 2030. The automotive industry is lobbying for more flexibility, citing job and investment risks, while facing opposition from charger companies and environmental groups who argue that relaxing the mandate could jeopardize climate goals. Despite loopholes reducing the effective target, some carmakers may struggle to meet the requirements and face fines. The UK government remains divided on whether to ease these rules, with ongoing debates about balancing industry needs with environmental commitments."
-    },
-    {
-        "title": "Jeff Bezos\u2019 $500 million superyacht spotted sailing for the first time in a spectacle everyone was waiting for",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Jeff Bezos\u2019 $500 million superyacht spotted sailing for the first time in a spectacle everyone was waiting for"
-        },
-        "summary": "<div><img src=\"https://supercarblondie.com/wp-content/uploads/Jeff-Bezos-500M-superyacht-sets-sails-for-the-first-time-in-a-while.webp\" style=\"width: 100%;\" /><div>Amazon founder Jeff Bezos' $500 million superyacht spotted sailing in the Bay of Palma - Known as Koru, it's one of the world\u2019s most prestigious superyachts</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://supercarblondie.com/wp-content/uploads/Jeff-Bezos-500M-superyacht-sets-sails-for-the-first-time-in-a-while.webp\" style=\"width: 100%;\" /><div>Amazon founder Jeff Bezos' $500 million superyacht spotted sailing in the Bay of Palma - Known as Koru, it's one of the world\u2019s most prestigious superyachts</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://supercarblondie.com/jeff-bezos-500m-superyacht-spotted-sailing-with-all-masts/"
-            }
-        ],
-        "link": "https://supercarblondie.com/jeff-bezos-500m-superyacht-spotted-sailing-with-all-masts/",
-        "id": "b805e46d10f9668c3d211a22f96817c0",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "@NalinRawat"
-            }
-        ],
-        "author": "@NalinRawat",
-        "author_detail": {
-            "name": "@NalinRawat"
-        },
-        "published": "Fri, 22 Nov 2024 16:09:26 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            16,
-            9,
-            26,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://supercarblondie.com/wp-content/uploads/Jeff-Bezos-500M-superyacht-sets-sails-for-the-first-time-in-a-while.webp"
-            }
-        ],
-        "generated_summary": "Jeff Bezos' $500 million superyacht, Koru, was recently spotted sailing in the Bay of Palma, Mallorca. This three-masted vessel, built by Oceanco in the Netherlands, is one of the world's most prestigious superyachts and was the second-largest of its kind when commissioned. The yacht's recent sighting marks its return to Mallorca after its maiden voyage two years ago. It remains unclear if Bezos or his girlfriend, Lauren Sanchez, were onboard during this trip, as the yacht might be undergoing routine equipment trials. The annual maintenance cost for Koru and its support vessel, Abeona, is approximately $35 million."
-    },
-    {
-        "title": "What Elon Musk Needs From China",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "What Elon Musk Needs From China"
-        },
-        "summary": "<div><img src=\"https://static01.nyt.com/images/2024/11/22/multimedia/00china-musk-01-bhlt/00china-musk-01-bhlt-videoSixteenByNine3000.jpg\" style=\"width: 100%;\" /><div>From electric cars to solar panels, Mr. Musk has built businesses in high-tech manufacturing sectors now targeted by Beijing for Chinese dominance.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://static01.nyt.com/images/2024/11/22/multimedia/00china-musk-01-bhlt/00china-musk-01-bhlt-videoSixteenByNine3000.jpg\" style=\"width: 100%;\" /><div>From electric cars to solar panels, Mr. Musk has built businesses in high-tech manufacturing sectors now targeted by Beijing for Chinese dominance.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.nytimes.com/2024/11/22/business/elon-musk-tesla-china.html"
-            }
-        ],
-        "link": "https://www.nytimes.com/2024/11/22/business/elon-musk-tesla-china.html",
-        "id": "5f8dc28f58568b71cd006c6daadeba31",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Keith Bradsher"
-            }
-        ],
-        "author": "Keith Bradsher",
-        "author_detail": {
-            "name": "Keith Bradsher"
-        },
-        "published": "Fri, 22 Nov 2024 15:53:08 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            15,
-            53,
-            8,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://static01.nyt.com/images/2024/11/22/multimedia/00china-musk-01-bhlt/00china-musk-01-bhlt-videoSixteenByNine3000.jpg"
-            }
-        ],
-        "generated_summary": "Elon Musk's business ventures, particularly Tesla, have significant stakes in China, where half of Tesla's cars are produced and a major portion of sales occur. However, Musk faces challenges due to increasing local competition and regulatory restrictions on Tesla's self-driving technology. Despite these hurdles, Musk's strong ties with Chinese leaders, such as Premier Li Qiang, may position him as a key intermediary for conveying messages between China and President-elect Donald Trump, amid trade tensions. Musk's other ventures in solar energy and batteries also contend with robust Chinese competitors, although U.S.-China economic decoupling could offer some advantages by limiting Chinese automakers' access to the U.S. market."
-    },
-    {
-        "title": "Nissan warns of emergency as car brands scramble to meet electric car targets or risk 'irreversible impact'",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "Nissan warns of emergency as car brands scramble to meet electric car targets or risk 'irreversible impact'"
-        },
-        "summary": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><div style=\"width: 100%; height: 0; padding-bottom: 56.25%;\"></div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.gbnews.com/lifestyle/cars/nissan-warning-emergency-electric-vehicle-target-impact"
-            }
-        ],
-        "link": "https://www.gbnews.com/lifestyle/cars/nissan-warning-emergency-electric-vehicle-target-impact",
-        "id": "72c819eded7dde49f08070ff43f448b3",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Felix Reeves"
-            }
-        ],
-        "author": "Felix Reeves",
-        "author_detail": {
-            "name": "Felix Reeves"
-        },
-        "published": "Fri, 22 Nov 2024 15:07:52 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            15,
-            7,
-            52,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.gbnews.com/media-library/watch-rishi-sunak-on-nissan-s-ps2billion-investment-in-its-sunderland-factory.jpg?id=54968008&width=1200&height=600&coordinates=0%2C501%2C0%2C438"
-            }
-        ],
-        "generated_summary": "Nissan has issued a warning to the UK Government, urging a revision of the Zero Emission Vehicle (ZEV) mandate due to slower-than-expected electric vehicle (EV) sales. The Japanese automaker, which runs the largest car manufacturing plant in Sunderland, cautioned that failing to meet ambitious EV targets could lead to severe financial penalties, threaten thousands of jobs, and impact billions in investment. Current projections show EV sales reaching only 18.5% of the market this year, below the 22% target for 2024, with expectations increasing to 80% by 2030 and 100% by 2035. Nissan suggests changes to the ZEV mandate, such as increased flexibility in borrowing credits and a monitoring period to replace fines. The company emphasizes the need for urgent government action to prevent an \"irreversible impact\" on the UK automotive sector. Nissan remains committed to UK manufacturing, contributing over \u00a32 billion annually to the economy and planning new EV production as part of its EV36Zero initiative."
-    },
-    {
-        "title": "BMW Introduces 2025 F 900 R and F 900 XR",
-        "title_detail": {
-            "type": "text/plain",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "BMW Introduces 2025 F 900 R and F 900 XR"
-        },
-        "summary": "<div><img src=\"https://www.roadracingworld.com/wp-content/uploads/2024/11/P90579157_highRes_1732286847.jpg\" style=\"width: 100%;\" /><div>BMW Introduces 2025 F 900 R and F 900 XR, featuring new technical and styling upgrades and significantly extended standard equipment.</div></div>",
-        "summary_detail": {
-            "type": "text/html",
-            "language": null,
-            "base": "https://rss.app/feeds/u6rcvfy6PTSf9vQ4.xml",
-            "value": "<div><img src=\"https://www.roadracingworld.com/wp-content/uploads/2024/11/P90579157_highRes_1732286847.jpg\" style=\"width: 100%;\" /><div>BMW Introduces 2025 F 900 R and F 900 XR, featuring new technical and styling upgrades and significantly extended standard equipment.</div></div>"
-        },
-        "links": [
-            {
-                "rel": "alternate",
-                "type": "text/html",
-                "href": "https://www.roadracingworld.com/news/bmw-introduces-2025-f-900-r-and-f-900-xr/"
-            }
-        ],
-        "link": "https://www.roadracingworld.com/news/bmw-introduces-2025-f-900-r-and-f-900-xr/",
-        "id": "e573f2e760f493d7a0cff19471eb7fa1",
-        "guidislink": false,
-        "authors": [
-            {
-                "name": "Michael Gougis"
-            }
-        ],
-        "author": "Michael Gougis",
-        "author_detail": {
-            "name": "Michael Gougis"
-        },
-        "published": "Fri, 22 Nov 2024 14:52:31 GMT",
-        "published_parsed": [
-            2024,
-            11,
-            22,
-            14,
-            52,
-            31,
-            4,
-            327,
-            0
-        ],
-        "media_content": [
-            {
-                "medium": "image",
-                "url": "https://www.roadracingworld.com/wp-content/uploads/2024/11/P90579157_highRes_1732286847.jpg"
-            }
-        ],
-        "generated_summary": "BMW Motorrad USA has unveiled the updated 2025 F 900 R and F 900 XR motorcycles, featuring significant technical and visual enhancements. The new models include an extended range of standard equipment, such as fully adjustable upside-down forks, lighter wheels, and a weight reduction of 6.6 lbs. Both bikes are equipped with a 105 hp 895 cc two-cylinder engine meeting Euro 5+ standards, and they now come with \"Dynamic\" riding mode and Dynamic Traction Control (DTC) as standard for improved safety and handling. The F 900 R is designed for sporty riding, while the F 900 XR is suited for both winding roads and longer tours with luggage. Additional features include BMW Motorrad ABS Pro for safer braking in corners, Dynamic Brake Control, and a lighter battery. The F 900 XR also boasts Headlight Pro with adaptive headlight technology for enhanced nighttime visibility. New ergonomic adjustments offer a sportier riding position for the F 900 R and improved aerodynamics for the F 900 XR. The models also come with the Ultimate Care Break-In Service as standard, adding to the premium customer experience."
+        "generated_summary": "China's greatest challenge during a potential second term for Donald Trump as U.S. president could stem from domestic changes driven by tech mogul Elon Musk, according to Zheng Yongnian, a prominent Chinese political scientist. Zheng advises that China should counteract by expanding its unilateral opening-up strategies, particularly towards the U.S., to gain leverage in the ongoing rivalry. He predicts that while Trump's return might cause short-term economic and trade disruptions for China, it could simultaneously reduce geopolitical tensions. Zheng also warns that Trump's \"America First\" policy and potential tariff increases could severely harm both U.S.-China relations and the global trade system."
     }
 ]

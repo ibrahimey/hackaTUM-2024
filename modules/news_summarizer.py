@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from pathlib import Path
 from typing import Union
 
-from .prompts import FILTER_EV_PROMPT, SUMMARIZE_NEWS_PROMPT
+from .prompts import FILTER_PROMPT, SUMMARIZE_NEWS_PROMPT
 
 from utils.azure_client import AzureOpenAIClient
 from utils.json_utils import write_json_file
@@ -20,7 +20,16 @@ def get_news(source_url: str, output_file_path: Union[str, Path]):
     """
     feed = feedparser.parse(source_url)
     if feed.status == 200:
-        write_json_file(output_file_path, feed.entries)
+        news_list = []
+        titles = {}
+        links = {}
+        for entry in feed.entries:
+            if entry["title"] in titles or entry["link"] in links:
+                continue
+            titles[entry["title"]] = True
+            links[entry["link"]] = True
+            news_list.append(entry)
+        return news_list
     else:
         print(f"Failed to get RSS feed. Status code: {feed.status}", feed.status)
 
@@ -71,7 +80,8 @@ def summarize_news(news_list: list, llm: AzureOpenAIClient):
             print(f"Error summarizing news item {i + 1}: {e}")
     return news_list
 
-def filter_ev_articles(relevant_articles, llm: AzureOpenAIClient):
+
+def filter_ev_articles(relevant_articles, category, llm: AzureOpenAIClient):
     """
     Filters articles to keep only those relevant to electric vehicles.
     """
@@ -81,12 +91,14 @@ def filter_ev_articles(relevant_articles, llm: AzureOpenAIClient):
         # Format the input for the prompt
         if "generated_summary" not in article:
             continue
-        content = f"\nTitle: {article['title']}\nSummary: {article['generated_summary']}\n"
+        content = (
+            f"\nTitle: {article['title']}\nSummary: {article['generated_summary']}\n"
+        )
         payload = {
             "messages": [
                 {
                     "role": "system",
-                    "content": FILTER_EV_PROMPT,
+                    "content": FILTER_PROMPT.format(category=category),
                 },
                 {
                     "role": "user",

@@ -14,8 +14,8 @@ Content:
 {content}
 """
 
-FILTER_EV_PROMPT = """
-You are a text classifier. Your task is to classify articles as related or unrelated to Electric Vehicles. 
+FILTER_PROMPT = """
+You are a text classifier. Your task is to classify articles as related or unrelated to {category}. 
 You must only respond with '1' (related) or '0' (not related). No additional explanations or comments.
 """
 
