@@ -52,7 +52,7 @@ Here is the article content:
 Generate a suitable image concept based on the above.
 """
 
-CREATE_SCRIPT_PROMPT = """Given the article below create a summary in 10 sentences focusing on the key points. Only return the summary with one sentence at each line.
+CREATE_SCRIPT_PROMPT = """Given the article below create a summary in 3 sentences focusing on the key points. Only return the summary with one sentence at each line.
 Article:
 {content}
 """
