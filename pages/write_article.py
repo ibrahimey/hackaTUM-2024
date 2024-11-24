@@ -1,4 +1,5 @@
 import os
+from datetime import datetime
 import streamlit as st
 
 from dotenv import load_dotenv
@@ -55,6 +56,10 @@ def generate_article_page():
                 except Exception:
                     print("error")
                 st.write(generated_article)
+
+                with open(f"data/articles/{datetime.now().strftime('%Y%m%d%H%M%S')}.txt", "w") as file:
+                    file.write(generated_article)
+
             except Exception as e:
                 st.error(f"An error occurred: {e}")
         else:
