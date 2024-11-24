@@ -48,9 +48,12 @@ def generate_article_page():
             try:
                 # Call write_article with selected articles
                 generated_article = generate_article(selected_content, gpt)
-                image_data = generate_article_images(generated_article, dalle)
                 st.subheader("Generated Article")
-                # st.image(image_data, width=300)
+                try:
+                    image_data = generate_article_images(generated_article, dalle)
+                    st.image(image_data, width=300)
+                except Exception:
+                    print("error")
                 st.write(generated_article)
             except Exception as e:
                 st.error(f"An error occurred: {e}")
