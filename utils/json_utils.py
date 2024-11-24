@@ -38,5 +38,5 @@ def append_json_file(file_path: Union[str, Path], data: dict) -> None:
         current_list = read_json_file(file_path)
         current_list.append(data)
     else:
-        current_list = [data]
+        current_list = data
     write_json_file(file_path, current_list)

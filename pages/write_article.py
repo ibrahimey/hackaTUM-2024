@@ -52,7 +52,7 @@ def generate_article_page():
                 links = []
                 for article in selected_articles:
                     links.append(article["link"])
-                generate_article = f"\nSources: {links}"
+                generated_article += f"\nSources: {links}"
                 st.subheader("Generated Article")
                 try:
                     image_data = generate_article_image(generated_article, dalle)

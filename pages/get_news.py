@@ -66,9 +66,9 @@ def get_news_page():
                 try:
                     # Call the get_news function with the provided URL and output file
                     news_list = get_news(rss_url, output_file)
-                    write_json_file("./data/news.json", summarize_news(news_list, gpt))
+                    append_json_file("./data/news.json", summarize_news(news_list, gpt))
                     filtered_news_list = filter_ev_articles(news_list, "Electric Vehicles", gpt)
-                    write_json_file(f"./data/news/electric_vehicles.json", filtered_news_list)
+                    append_json_file(f"./data/news/electric_vehicles.json", filtered_news_list)
 
                     # Read the news items from the file
                     news_items = read_json_file(output_file)
