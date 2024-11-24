@@ -50,9 +50,10 @@ def generate_article_page():
                 # Call write_article with selected articles
                 generated_article = generate_article(selected_content, gpt)
                 links = []
-                for article in selected_articles:
-                    links.append(article["link"])
-                generated_article += f"\nSources: {links}"
+                for article in articles:
+                    if article["title"] in selected_articles:
+                        links.append(article["link"])
+                generated_article += f"\n\nSources: {links}"
                 st.subheader("Generated Article")
                 try:
                     image_data = generate_article_image(generated_article, dalle)
